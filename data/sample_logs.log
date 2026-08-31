@@ -1,0 +1,1200 @@
+2026-08-31 09:00:00 DEBUG inventory Health check passed status=200 response_ms=144 request_id=08559451-dbef-4f88-84bc-a68af58566ca ip=10.24.24.63
+2026-08-31 09:00:03 INFO orders Login successful user_id=5422 status=200 response_ms=171 request_id=f57f0500-56e0-4591-838d-801c810e451c ip=10.24.23.143
+2026-08-31 09:00:06 INFO database Cache hit key=product:1916 status=200 response_ms=66 request_id=092a0a6f-a055-43b7-b0ec-6686fd7e1dae ip=10.24.27.9
+2026-08-31 09:00:12 INFO orders Cache hit key=product:2084 status=200 response_ms=62 request_id=9da258e6-5f19-4257-bb21-f0f03b9c728e ip=10.24.30.242
+2026-08-31 09:00:16 DEBUG api Health check passed status=200 response_ms=109 request_id=5b8f9b13-17b3-4c20-bd83-c272d8df70df ip=10.24.29.235
+2026-08-31 09:00:25 INFO api Cache hit key=product:3287 status=200 response_ms=71 request_id=f1a4ad09-6a67-4ba0-85d6-4f0f752d4f50 ip=10.24.24.144
+2026-08-31 09:00:24 INFO database Database query completed rows=8019 status=200 response_ms=157 request_id=0b30db97-5115-48d8-8fa1-78ce377b163d ip=10.24.13.93
+2026-08-31 09:00:21 INFO api Database query completed rows=9085 status=200 response_ms=31 request_id=8d0e9f98-4f61-466a-94a3-25498b298add ip=10.24.25.13
+2026-08-31 09:00:16 DEBUG api Health check passed status=200 response_ms=116 request_id=6504309e-4216-4439-8530-abbe4922e24c ip=10.24.20.17
+2026-08-31 09:00:45 INFO orders Database query completed rows=8668 status=200 response_ms=143 request_id=88861c8c-7a8d-4acf-918d-fd643760057f ip=10.24.9.249
+2026-08-31 09:00:20 DEBUG database Health check passed status=200 response_ms=145 request_id=df12c465-1f87-481e-8ac7-5486c82a9f90 ip=10.24.25.69
+2026-08-31 09:00:44 INFO auth Cache hit key=product:8123 status=200 response_ms=48 request_id=8f96013e-a0a8-4bd4-8bc0-6d575baa7bf8 ip=10.24.15.1
+2026-08-31 09:00:48 INFO inventory Fetched order order_id=1551e370-67ae-40cc-be08-4037c5593965 status=200 response_ms=35 request_id=0f6f7dc1-cd50-4156-8423-a0483e43f5c1 ip=10.24.28.161
+2026-08-31 09:00:52 ERROR database Unhandled exception NullPointerException status=500 response_ms=2800 request_id=8efc37e3-5102-48db-ab2c-1f4c58899a57 ip=10.24.5.96
+2026-08-31 09:00:42 INFO inventory Database query completed rows=1009 status=200 response_ms=161 request_id=fc916a53-3dd7-4e81-afbc-0f88ea0b924d ip=10.24.11.126
+2026-08-31 09:00:30 INFO auth Cache hit key=product:6038 status=200 response_ms=69 request_id=e34fe2c9-a8ce-4a28-b113-f5a68698eb3d ip=10.24.2.62
+2026-08-31 09:00:32 DEBUG auth Health check passed status=200 response_ms=25 request_id=32220733-dc77-4815-98e8-10afe87d0170 ip=10.24.25.137
+2026-08-31 09:00:51 DEBUG api Health check passed status=200 response_ms=148 request_id=0d5b0a0c-5ae4-4d04-b331-7bb8da4cc0b5 ip=10.24.6.68
+2026-08-31 09:01:30 INFO api Database query completed rows=4295 status=200 response_ms=87 request_id=2cd8fecc-9ac5-4fb7-bdaa-ffa105d64656 ip=10.24.13.172
+2026-08-31 09:01:16 INFO orders Database query completed rows=8397 status=200 response_ms=38 request_id=04737010-2879-4e1a-911e-2280f5b39da4 ip=10.24.8.58
+2026-08-31 09:00:40 INFO payments Request completed user_id=4770 status=200 response_ms=158 request_id=31ddc232-897b-413d-a8a8-b43e17d331b1 ip=10.24.8.2
+2026-08-31 09:00:42 DEBUG database Health check passed status=200 response_ms=66 request_id=4232f485-c212-4f74-ae2d-26d00af0d70e ip=10.24.3.232
+2026-08-31 09:00:44 INFO payments Request completed user_id=9423 status=200 response_ms=68 request_id=6f812cd9-0179-4470-ae6a-a3b3a6c112c1 ip=10.24.9.172
+2026-08-31 09:01:55 INFO api Database query completed rows=3167 status=200 response_ms=154 request_id=da7f765b-1458-4f20-a40b-bb9f6a87bd83 ip=10.24.19.122
+2026-08-31 09:01:12 INFO orders Login successful user_id=4119 status=200 response_ms=32 request_id=92007d5b-6ddb-4d4c-8658-71e5392151c3 ip=10.24.4.169
+2026-08-31 09:02:05 INFO payments Login successful user_id=7735 status=200 response_ms=127 request_id=24f52d3a-3270-4866-8c83-fd68eb3815b7 ip=10.24.28.187
+2026-08-31 09:00:52 DEBUG database Health check passed status=200 response_ms=23 request_id=8fd9676a-bb66-40b5-8d4b-8699767efea5 ip=10.24.13.187
+2026-08-31 09:01:48 INFO auth Fetched order order_id=0e349d0f-8db7-494f-9bd2-9ce6e688b8c1 status=200 response_ms=56 request_id=fe17f2d0-6710-4db2-aa10-5009ba9e7042 ip=10.24.18.115
+2026-08-31 09:01:24 INFO orders Fetched order order_id=5dab7687-8c79-4e58-8dec-d33b07647644 status=200 response_ms=126 request_id=0c84951c-31e3-4748-8a22-a0d9f80b9c53 ip=10.24.8.224
+2026-08-31 09:00:58 INFO orders Database query completed rows=2604 status=200 response_ms=20 request_id=aebf2b51-bba3-4798-a42a-93e6cff6e0f5 ip=10.24.21.139
+2026-08-31 09:01:00 INFO auth Fetched order order_id=4a98d293-19c4-4225-942e-545a31802ae8 status=200 response_ms=112 request_id=5b3683b2-11e4-4008-84e6-d4764f619abd ip=10.24.16.124
+2026-08-31 09:01:33 INFO orders Request completed user_id=3697 status=200 response_ms=105 request_id=36dcce77-e5ab-4ee0-b557-ab06ca7b67aa ip=10.24.1.253
+2026-08-31 09:02:40 INFO payments Login successful user_id=5673 status=200 response_ms=116 request_id=0bede445-8ec6-4326-b2b9-8552c4d98201 ip=10.24.23.246
+2026-08-31 09:02:45 INFO api Fetched order order_id=62370f4c-b423-410f-9738-71b57f35d2e7 status=200 response_ms=63 request_id=78e3ab4a-7737-4a08-aeaf-d4cb4ecc1ac3 ip=10.24.2.149
+2026-08-31 09:01:08 INFO database Cache hit key=product:1936 status=200 response_ms=20 request_id=f2ab2a56-b378-4aaa-9eee-846702886d77 ip=10.24.19.123
+2026-08-31 09:01:45 INFO auth Database query completed rows=2312 status=200 response_ms=55 request_id=9f20b009-9576-4061-8e5b-2ed1999eaf8e ip=10.24.3.153
+2026-08-31 09:01:12 INFO database Fetched order order_id=907c9974-111b-48c8-94e6-447b9f3a9aab status=200 response_ms=38 request_id=82b5c123-8064-49c0-b7f6-4be495005a5c ip=10.24.29.146
+2026-08-31 09:01:51 INFO inventory Database query completed rows=1651 status=200 response_ms=166 request_id=0383093a-6b3a-4818-8af8-58dd0d563447 ip=10.24.3.108
+2026-08-31 09:02:32 INFO payments Fetched order order_id=8cc69785-8b03-4e16-8951-9450a11a540f status=200 response_ms=69 request_id=8ad5a6ce-daaa-4565-b95d-f9c02e16d32c ip=10.24.9.102
+2026-08-31 09:01:57 DEBUG database Health check passed status=200 response_ms=125 request_id=f5542d70-b193-441f-a2eb-1b8cfd87c7b9 ip=10.24.11.238
+2026-08-31 09:01:20 INFO auth Login successful user_id=2638 status=200 response_ms=26 request_id=5e17c7f5-5063-4256-bb66-0d8fc19a9694 ip=10.24.18.55
+2026-08-31 09:02:44 INFO api Cache hit key=product:2127 status=200 response_ms=70 request_id=f3ea84e4-cb4d-4ffd-b983-0dffc5b5ff12 ip=10.24.12.73
+2026-08-31 09:02:06 INFO orders Database query completed rows=5956 status=200 response_ms=164 request_id=ee2a3734-9ad7-427b-9afd-b5657f9f6cc1 ip=10.24.26.168
+2026-08-31 09:01:26 INFO database Database query completed rows=5905 status=200 response_ms=177 request_id=8a1bced8-215d-4179-84a5-31cedb8e0f20 ip=10.24.4.241
+2026-08-31 09:02:12 INFO payments Request completed user_id=2753 status=200 response_ms=149 request_id=4538fd16-d4a8-45e0-ab55-fd16803e7a3f ip=10.24.5.70
+2026-08-31 09:03:00 INFO inventory Fetched order order_id=73688718-d879-4f2e-8d2b-a659d54bc783 status=200 response_ms=60 request_id=3c2061ee-f34c-41a4-b8bf-9fcfc7d53a5f ip=10.24.22.163
+2026-08-31 09:03:04 INFO inventory Login successful user_id=5114 status=200 response_ms=21 request_id=6bab8e5e-90be-48a5-91f4-699bcca58de0 ip=10.24.3.163
+2026-08-31 09:03:55 INFO payments Request completed user_id=1058 status=200 response_ms=93 request_id=6ba98760-ce61-47a6-b8de-34970d376770 ip=10.24.25.34
+2026-08-31 09:03:12 DEBUG api Health check passed status=200 response_ms=149 request_id=1db086b7-a137-4b47-9c88-05e471c2dd82 ip=10.24.23.110
+2026-08-31 09:01:38 INFO auth Request completed user_id=3442 status=200 response_ms=147 request_id=293ebc6a-4c94-4bc6-99d7-dd178ed4da7f ip=10.24.2.214
+2026-08-31 09:03:20 INFO inventory Database query completed rows=3426 status=200 response_ms=118 request_id=2349d6ef-f7ea-46c8-8bf5-e1447c4dedee ip=10.24.5.11
+2026-08-31 09:03:24 ERROR payments Database timeout host=db-primary status=504 response_ms=4900 request_id=c503ee4d-64db-4d34-85e8-98c27060c50d ip=10.24.7.175
+2026-08-31 09:02:36 INFO database Request completed user_id=6794 status=200 response_ms=151 request_id=89fd5b09-e958-46fc-9744-d79b3fb0924f ip=10.24.29.224
+2026-08-31 09:04:25 DEBUG inventory Health check passed status=200 response_ms=68 request_id=2938b998-3590-4943-bba3-059bd11bb02e ip=10.24.28.42
+2026-08-31 09:02:42 ERROR orders Database timeout host=db-primary status=504 response_ms=4900 request_id=a4f067a2-1529-435c-b850-87ac12935372 ip=10.24.24.237
+2026-08-31 09:03:40 DEBUG orders Health check passed status=200 response_ms=76 request_id=1a403bde-68be-4699-a7b9-05697c6124e0 ip=10.24.6.202
+2026-08-31 09:01:52 INFO orders Request completed user_id=8711 status=200 response_ms=64 request_id=4a6a9bcb-34fb-455f-b8ca-285cb13697e2 ip=10.24.7.210
+2026-08-31 09:04:45 INFO payments Cache hit key=product:4728 status=200 response_ms=65 request_id=15d42dd4-64f4-4610-9f02-ca08f0f0a096 ip=10.24.1.169
+2026-08-31 09:02:54 INFO orders Cache hit key=product:5564 status=200 response_ms=25 request_id=8e3d3c69-ff91-4d4f-b1d3-ad73c26d61d6 ip=10.24.25.72
+2026-08-31 09:03:56 INFO database Database query completed rows=7548 status=200 response_ms=145 request_id=379f21c5-aa29-4e98-8ac3-c88116247615 ip=10.24.11.241
+2026-08-31 09:02:00 INFO auth Cache hit key=product:3925 status=200 response_ms=156 request_id=0839e03e-1350-4e45-8551-4e46970166d1 ip=10.24.9.10
+2026-08-31 09:02:02 CRITICAL inventory Payment processor unavailable status=503 response_ms=7100 request_id=0a2f1930-bd17-4170-975c-8304765c2b4c ip=10.24.24.202
+2026-08-31 09:04:08 INFO orders Database query completed rows=9379 status=200 response_ms=37 request_id=c9174328-ace1-41bb-9ca8-6851d606805e ip=10.24.13.231
+2026-08-31 09:03:09 INFO payments Request completed user_id=8144 status=200 response_ms=8 request_id=561a5717-1760-4065-9031-1b90142c42b2 ip=10.24.17.237
+2026-08-31 09:03:12 INFO payments Login successful user_id=2146 status=200 response_ms=178 request_id=2212bf82-37e6-4e87-9df9-b417742bbf8e ip=10.24.30.85
+2026-08-31 09:04:20 ERROR database Database timeout host=db-primary status=504 response_ms=4900 request_id=52e76867-8b81-49e6-a804-02fd85e7d56f ip=10.24.17.80
+2026-08-31 09:05:30 INFO payments Login successful user_id=5844 status=200 response_ms=149 request_id=fa22a4be-1747-4029-b143-29ddc1b62fcd ip=10.24.5.50
+2026-08-31 09:05:35 INFO database Login successful user_id=3851 status=200 response_ms=165 request_id=2313963b-a949-4e4c-8591-19e71bffbae8 ip=10.24.19.78
+2026-08-31 09:05:40 INFO inventory Request completed user_id=5978 status=200 response_ms=81 request_id=3521ec84-8a36-46d8-ac7a-694f63cbfc40 ip=10.24.7.111
+2026-08-31 09:04:36 INFO orders Login successful user_id=8244 status=200 response_ms=180 request_id=57046ea1-32a6-467b-8257-953a5c5241ea ip=10.24.7.131
+2026-08-31 09:05:50 INFO database Fetched order order_id=3e3d250a-b873-4f45-929a-bfa67dd936be status=200 response_ms=80 request_id=b426dfce-7dde-4fc6-b75a-1fb4846feb0c ip=10.24.17.170
+2026-08-31 09:04:44 INFO auth Fetched order order_id=8eb5ab96-38af-47cb-afba-6aa4970f5312 status=200 response_ms=65 request_id=47cb0017-a64a-4f94-8c45-bb17bcb61603 ip=10.24.26.51
+2026-08-31 09:03:36 INFO auth Request completed user_id=5011 status=200 response_ms=129 request_id=bafc5373-05a0-45f1-a7ea-ad3e3a7c16e7 ip=10.24.20.218
+2026-08-31 09:02:26 INFO orders Login successful user_id=4185 status=200 response_ms=106 request_id=25818365-f58c-410b-b9bc-8a124dfb8ffc ip=10.24.16.103
+2026-08-31 09:03:42 DEBUG api Health check passed status=200 response_ms=35 request_id=a1450b90-babc-4b21-8c04-15accdbe68ac ip=10.24.25.109
+2026-08-31 09:03:45 DEBUG api Health check passed status=200 response_ms=126 request_id=88fde470-9b53-4c98-9408-e36cdc278684 ip=10.24.2.143
+2026-08-31 09:03:48 INFO auth Login successful user_id=3184 status=200 response_ms=126 request_id=91e079ae-1b63-4034-80d0-532b343d18ae ip=10.24.22.136
+2026-08-31 09:05:08 INFO orders Database query completed rows=9270 status=200 response_ms=117 request_id=de6153a0-5438-4b0c-ae38-ea53b599d04d ip=10.24.27.233
+2026-08-31 09:06:30 DEBUG api Health check passed status=200 response_ms=123 request_id=c1d32176-9d85-4840-89fc-1d5e07caae9a ip=10.24.9.193
+2026-08-31 09:03:57 INFO database Cache hit key=product:9540 status=200 response_ms=132 request_id=9e7b7a5f-3365-48fb-b4c6-28542f3a14d9 ip=10.24.21.62
+2026-08-31 09:05:20 INFO orders Request completed user_id=5681 status=200 response_ms=68 request_id=aec6f583-7b80-4327-a20e-0a0a0a1f83f8 ip=10.24.9.86
+2026-08-31 09:05:24 INFO inventory Request completed user_id=3267 status=200 response_ms=46 request_id=30c7c2a9-e001-4810-9a62-c443335781f8 ip=10.24.8.99
+2026-08-31 09:04:06 INFO database Fetched order order_id=159d12a0-2bff-41f4-af0e-929ad5ce47dc status=200 response_ms=114 request_id=f7c4f36a-3f13-4c0b-ae6e-9d67b797c1d9 ip=10.24.14.85
+2026-08-31 09:06:55 INFO orders Request completed user_id=4388 status=200 response_ms=115 request_id=30516c46-2e9c-4268-a04f-528d4222e482 ip=10.24.13.232
+2026-08-31 09:02:48 INFO inventory Login successful user_id=8814 status=200 response_ms=9 request_id=ec69462a-9f0d-4dbf-bed9-809c52fc3a8b ip=10.24.12.77
+2026-08-31 09:07:05 INFO orders Database query completed rows=9947 status=200 response_ms=162 request_id=2366f5be-1470-41b4-b7ea-8bbab8bf7b22 ip=10.24.29.57
+2026-08-31 09:07:10 INFO api Cache hit key=product:8140 status=200 response_ms=132 request_id=3017493a-06f0-4e62-87d7-806c4d40c20d ip=10.24.1.100
+2026-08-31 09:05:48 DEBUG database Health check passed status=200 response_ms=50 request_id=96fd93ec-cfb7-4072-ae6b-198873fcf3c2 ip=10.24.27.120
+2026-08-31 09:04:24 ERROR inventory Unhandled exception NullPointerException status=500 response_ms=2800 request_id=efe5abce-ba68-4490-9cb7-17ea14791334 ip=10.24.30.101
+2026-08-31 09:02:58 DEBUG auth Health check passed status=200 response_ms=42 request_id=7ca9bdb2-b6e7-4eb0-892d-930791483e4c ip=10.24.28.119
+2026-08-31 09:04:30 INFO auth Cache hit key=product:7211 status=200 response_ms=91 request_id=10c0e40e-9eec-4df5-a75d-b99bcb629640 ip=10.24.7.117
+2026-08-31 09:06:04 INFO payments Login successful user_id=5558 status=200 response_ms=115 request_id=4c9d2ba6-7197-4ef6-bd01-9133e43f1571 ip=10.24.9.214
+2026-08-31 09:03:04 INFO orders Request completed user_id=9837 status=200 response_ms=21 request_id=f0105182-121a-4c9e-9ca1-bfd79d4c006e ip=10.24.12.58
+2026-08-31 09:03:06 ERROR database Database timeout host=db-primary status=504 response_ms=4900 request_id=5792eefa-fbed-48b8-b2f9-187278d12284 ip=10.24.8.52
+2026-08-31 09:03:08 INFO inventory Fetched order order_id=37d0b164-4de5-42fc-8e01-9870e52b6f12 status=200 response_ms=40 request_id=7fc3f7dd-6879-4bd8-ad85-425fa1fa4fb6 ip=10.24.16.172
+2026-08-31 09:03:10 INFO inventory Fetched order order_id=cfc67996-68f5-4ba0-8d8c-a3f2aaf73efb status=200 response_ms=73 request_id=dc370922-5db9-4e3e-8815-535d5d2eea92 ip=10.24.25.95
+2026-08-31 09:04:48 INFO inventory Database query completed rows=2876 status=200 response_ms=49 request_id=b9818916-7a35-4ecc-955c-e875a202748b ip=10.24.10.28
+2026-08-31 09:03:14 INFO payments Database query completed rows=7149 status=200 response_ms=109 request_id=8ca1e6e9-63a8-4c23-bc8c-f0accd24db36 ip=10.24.23.51
+2026-08-31 09:03:16 DEBUG inventory Health check passed status=200 response_ms=34 request_id=22852d0f-14f4-451c-9862-c281ffec18bb ip=10.24.23.198
+2026-08-31 09:06:36 INFO database Database query completed rows=2983 status=200 response_ms=152 request_id=9c1d2031-809d-456a-a1db-f178dd792ae7 ip=10.24.26.11
+2026-08-31 09:06:40 INFO inventory Login successful user_id=7071 status=200 response_ms=25 request_id=eba95068-bf3a-4687-942f-33c242697024 ip=10.24.17.166
+2026-08-31 09:06:44 INFO auth Login successful user_id=9031 status=200 response_ms=35 request_id=a0ce4109-c25f-430c-98ed-ac1488a4a623 ip=10.24.14.246
+2026-08-31 09:06:48 INFO database Login successful user_id=3506 status=200 response_ms=119 request_id=7f2aef17-1839-4e76-8e1c-fe6e1959d528 ip=10.24.6.188
+2026-08-31 09:06:52 INFO inventory Database query completed rows=8921 status=200 response_ms=127 request_id=16f8e3a9-dddb-48b0-ac7a-2702f82e848a ip=10.24.14.212
+2026-08-31 09:06:56 INFO payments Fetched order order_id=110a31ac-964c-4ee0-8928-b5eb2d35d237 status=200 response_ms=79 request_id=10cf0e99-b617-40e5-91af-0c8483ea1354 ip=10.24.29.116
+2026-08-31 09:05:15 INFO orders Database query completed rows=7209 status=200 response_ms=94 request_id=3d0f3ccb-6f86-4821-85c9-5a5b77767983 ip=10.24.1.127
+2026-08-31 09:07:04 INFO api Login successful user_id=4475 status=200 response_ms=98 request_id=46dd8a5b-0cc4-495c-8513-1ae436f186ff ip=10.24.26.67
+2026-08-31 09:07:08 INFO payments Database query completed rows=5526 status=200 response_ms=150 request_id=796a8f79-0936-47f5-b3ef-b8337f906360 ip=10.24.1.133
+2026-08-31 09:05:24 INFO auth Fetched order order_id=6afcbe42-3e1f-49e4-b42e-6df8dd313aae status=200 response_ms=133 request_id=f1e1994e-8233-469c-9ec5-32d994a8c2a9 ip=10.24.18.195
+2026-08-31 09:05:27 INFO database Login successful user_id=9041 status=200 response_ms=122 request_id=27890292-e517-45fc-95bf-9d78b011d7ed ip=10.24.26.5
+2026-08-31 09:03:40 INFO payments Fetched order order_id=d7b84215-5748-4131-ac00-1e71b0d707b5 status=200 response_ms=70 request_id=f445d88d-f755-4edb-a090-bbcade062d07 ip=10.24.10.170
+2026-08-31 09:07:24 INFO orders Database query completed rows=9698 status=200 response_ms=96 request_id=1aaf4313-2fdf-44ef-bea9-0207c9cff708 ip=10.24.14.191
+2026-08-31 09:07:28 DEBUG payments Health check passed status=200 response_ms=77 request_id=30a5bb3c-f6eb-4285-84bd-fdd27a21e24a ip=10.24.10.65
+2026-08-31 09:05:39 DEBUG auth Health check passed status=200 response_ms=88 request_id=50751d20-9d43-4ab3-8d11-2d970f5dfdfe ip=10.24.4.191
+2026-08-31 09:05:42 INFO api Fetched order order_id=f635fcb4-6f2a-4475-9d6b-af2f32f9a303 status=200 response_ms=78 request_id=2318d5c9-a280-4b28-b2e8-a60dbbf10689 ip=10.24.24.151
+2026-08-31 09:07:40 INFO auth Fetched order order_id=026a80dd-b930-4ff7-aa66-3e64df2a72d5 status=200 response_ms=66 request_id=93a20a18-3a10-44db-bfa8-0357228ed699 ip=10.24.12.46
+2026-08-31 09:07:44 DEBUG auth Health check passed status=200 response_ms=40 request_id=5b99c0cb-94a4-4ae5-9fd3-8f53dc2dd13d ip=10.24.9.12
+2026-08-31 09:03:54 INFO inventory Cache hit key=product:3068 status=200 response_ms=171 request_id=112def96-45d2-4820-9050-438040eaa8bc ip=10.24.28.193
+2026-08-31 09:09:50 INFO auth Request completed user_id=5658 status=200 response_ms=128 request_id=596d2270-2ddc-4b6e-a139-1cccf653ad30 ip=10.24.16.113
+2026-08-31 09:07:56 INFO api Request completed user_id=5136 status=200 response_ms=130 request_id=24c8d9b4-393d-4f4a-a276-201e323fb1b9 ip=10.24.4.211
+2026-08-31 09:04:00 INFO orders Login successful user_id=2213 status=200 response_ms=155 request_id=82195875-53e1-480d-bdf3-72b96b08a680 ip=10.24.21.176
+2026-08-31 09:04:02 INFO api Fetched order order_id=243120d7-313a-4bbe-9794-b35da863c551 status=200 response_ms=29 request_id=ddff76ef-1f88-434c-9052-83bbc26993a8 ip=10.24.8.31
+2026-08-31 09:10:10 INFO inventory Database query completed rows=4697 status=200 response_ms=141 request_id=e0a57e15-03fb-4a5e-95bc-09478ed7421f ip=10.24.13.116
+2026-08-31 09:10:15 INFO payments Database query completed rows=8025 status=200 response_ms=86 request_id=c9bcc06a-3a3b-410b-ba29-117c0693d069 ip=10.24.19.159
+2026-08-31 09:04:08 DEBUG inventory Health check passed status=200 response_ms=61 request_id=12a2e99a-845a-4378-8a50-7f7edceef9cd ip=10.24.21.55
+2026-08-31 09:08:20 INFO database Request completed user_id=3573 status=200 response_ms=69 request_id=64bff6b7-c90b-4583-aab3-5851eca08dad ip=10.24.6.142
+2026-08-31 09:04:12 INFO api Request completed user_id=7693 status=200 response_ms=123 request_id=849ba12b-0747-41ff-81b4-25049bff40a5 ip=10.24.23.153
+2026-08-31 09:10:35 INFO payments Request completed user_id=4792 status=200 response_ms=81 request_id=57ab2c47-f525-4230-8380-b8b41dcfe190 ip=10.24.23.73
+2026-08-31 09:10:40 DEBUG auth Health check passed status=200 response_ms=75 request_id=d6d3eacc-f6b1-48e9-ab1f-074476ae8665 ip=10.24.26.203
+2026-08-31 09:06:27 INFO orders Request completed user_id=9922 status=200 response_ms=65 request_id=534ca555-6587-4cbf-ba74-50713217bd45 ip=10.24.21.39
+2026-08-31 09:08:40 INFO api Request completed user_id=1977 status=200 response_ms=50 request_id=c7c8728e-6bf5-4bee-a7ba-3e5bb4d066be ip=10.24.26.79
+2026-08-31 09:08:44 INFO orders Request completed user_id=8679 status=200 response_ms=85 request_id=704df99e-ae02-4a8f-8768-5e0918071686 ip=10.24.23.104
+2026-08-31 09:08:48 INFO inventory Database query completed rows=9090 status=200 response_ms=120 request_id=9ec13687-07d9-4967-93de-5d03e2893048 ip=10.24.3.154
+2026-08-31 09:04:26 DEBUG orders Health check passed status=200 response_ms=162 request_id=cfe584c3-3487-4c94-96e5-1f46e6684d72 ip=10.24.9.7
+2026-08-31 09:04:28 DEBUG api Health check passed status=200 response_ms=180 request_id=0bc57d6d-bf02-4655-a71a-ec0365bac69b ip=10.24.27.69
+2026-08-31 09:04:30 INFO api Login successful user_id=9502 status=200 response_ms=174 request_id=031111ce-3d1f-4f48-beae-0878cfe32f47 ip=10.24.15.235
+2026-08-31 09:09:04 INFO api Database query completed rows=8141 status=200 response_ms=170 request_id=38aff982-7dd1-429d-b2b4-68c4605bb426 ip=10.24.27.126
+2026-08-31 09:04:34 INFO orders Cache hit key=product:7690 status=200 response_ms=93 request_id=2ac2c7bc-67dc-4a5d-806f-74a2e74f0b37 ip=10.24.11.172
+2026-08-31 09:04:36 INFO api Cache hit key=product:7744 status=200 response_ms=134 request_id=4d3fadd9-3059-42a7-a2a0-75f4fec84024 ip=10.24.10.170
+2026-08-31 09:11:35 INFO inventory Request completed user_id=8451 status=200 response_ms=30 request_id=1a8cc0fe-4049-4adf-b835-5a48092f976d ip=10.24.11.65
+2026-08-31 09:09:20 INFO auth Login successful user_id=9431 status=200 response_ms=8 request_id=1b6b4c64-1584-44d8-ab0a-1f314fd9d797 ip=10.24.22.223
+2026-08-31 09:11:45 INFO orders Request completed user_id=4073 status=200 response_ms=140 request_id=004f45a2-bea2-42ae-bf79-5bdc353d5d6e ip=10.24.12.160
+2026-08-31 09:11:50 CRITICAL database Payment processor unavailable status=503 response_ms=7100 request_id=6a7bd224-52f7-4e1f-85ac-82d220589b1a ip=10.24.7.69
+2026-08-31 09:07:09 INFO payments Login successful user_id=8941 status=200 response_ms=39 request_id=51e51ed7-d1c7-4b07-8e8c-e310581749bb ip=10.24.1.250
+2026-08-31 09:07:12 INFO database Fetched order order_id=b3969c39-ba48-4950-9a84-07f1e2946501 status=200 response_ms=149 request_id=827ef3f0-2add-40ba-968e-82f5bf907187 ip=10.24.1.142
+2026-08-31 09:12:05 INFO auth Fetched order order_id=92ce7dfe-ff67-4fa6-bf05-7bf703f05b62 status=200 response_ms=126 request_id=3494b638-96c2-45b6-8f3a-dd843a8cf9a3 ip=10.24.4.166
+2026-08-31 09:07:18 DEBUG orders Health check passed status=200 response_ms=138 request_id=39a7187e-057d-4c8f-a5ce-b16d219e36f1 ip=10.24.23.70
+2026-08-31 09:12:15 INFO orders Login successful user_id=4993 status=200 response_ms=124 request_id=2935e685-052f-472e-a818-25f52eadd4fd ip=10.24.18.38
+2026-08-31 09:12:20 INFO api Database query completed rows=9327 status=200 response_ms=42 request_id=a74ab031-487e-4b44-abec-0fbcad75cc0c ip=10.24.28.18
+2026-08-31 09:09:56 INFO orders Cache hit key=product:9318 status=200 response_ms=76 request_id=2903b0cf-7508-4c04-b36d-6636a647a4d1 ip=10.24.27.1
+2026-08-31 09:10:00 INFO database Cache hit key=product:9022 status=200 response_ms=46 request_id=1413d46a-20c2-4537-9fac-fbb5050d6e18 ip=10.24.15.138
+2026-08-31 09:12:35 INFO payments Cache hit key=product:9903 status=200 response_ms=104 request_id=bf735270-99ec-4f98-9eaa-0edee3b84610 ip=10.24.15.239
+2026-08-31 09:10:08 DEBUG api Health check passed status=200 response_ms=154 request_id=54284e08-0f1e-4db9-a67b-a24092eeb108 ip=10.24.13.60
+2026-08-31 09:12:45 INFO auth Cache hit key=product:8749 status=200 response_ms=105 request_id=a7b68df3-3861-4b6d-9d40-cfe1ab7f3b88 ip=10.24.13.254
+2026-08-31 09:07:42 INFO orders Request completed user_id=3068 status=200 response_ms=136 request_id=58aed7dc-b656-40f7-99f9-32e0ff61ba8c ip=10.24.19.85
+2026-08-31 09:05:10 INFO orders Request completed user_id=9617 status=200 response_ms=124 request_id=f8eb7f27-ebfd-4ccf-98d7-a2030be3f77b ip=10.24.1.185
+2026-08-31 09:07:48 DEBUG orders Health check passed status=200 response_ms=27 request_id=49a2597d-fe7c-4a8a-8ff8-0c78d974b9c4 ip=10.24.16.201
+2026-08-31 09:10:28 INFO payments Database query completed rows=7512 status=200 response_ms=174 request_id=5e2ffde6-edcc-4278-b5d2-ab5eb520e642 ip=10.24.3.219
+2026-08-31 09:10:32 INFO database Database query completed rows=7226 status=200 response_ms=89 request_id=4133b825-996a-4a5b-b5ca-29ac117ca02e ip=10.24.21.184
+2026-08-31 09:13:15 INFO inventory Request completed user_id=2121 status=200 response_ms=68 request_id=04e5b41b-14fe-44e3-86e4-b62cfb8f8db6 ip=10.24.21.176
+2026-08-31 09:10:40 DEBUG api Health check passed status=200 response_ms=119 request_id=f28f4a55-08e9-4b1f-ad65-7fa1ed7e4fd9 ip=10.24.4.195
+2026-08-31 09:05:22 ERROR orders Authentication failed user_id=5906 status=401 response_ms=1800 request_id=127ddc79-ccaf-45e8-a927-0d8471d5eaf9 ip=10.24.29.8
+2026-08-31 09:05:24 INFO payments Request completed user_id=5806 status=200 response_ms=99 request_id=e5fddd64-676d-4597-adfc-5ddeea6489f7 ip=10.24.12.111
+2026-08-31 09:08:09 ERROR api Unhandled exception NullPointerException status=500 response_ms=2800 request_id=eefe64b7-6e37-41af-8945-4a0d956d8757 ip=10.24.19.175
+2026-08-31 09:08:12 INFO api Fetched order order_id=734e88c9-61ae-4952-a0b1-4bee34d47512 status=200 response_ms=164 request_id=259d7069-182f-4085-bd7d-eb4cd823f4be ip=10.24.28.98
+2026-08-31 09:08:15 INFO orders Database query completed rows=3344 status=200 response_ms=67 request_id=ae46120d-aeca-4f25-9722-21af153a009c ip=10.24.15.164
+2026-08-31 09:11:04 INFO orders Cache hit key=product:1153 status=200 response_ms=127 request_id=0ec4ebf0-184c-466e-a87c-e586b0c15fc4 ip=10.24.29.74
+2026-08-31 09:08:21 INFO auth Login successful user_id=6661 status=200 response_ms=158 request_id=13c48fd8-919b-4728-a0d9-df30044db088 ip=10.24.10.164
+2026-08-31 09:14:00 INFO database Cache hit key=product:8484 status=200 response_ms=85 request_id=151cc7f2-1931-47b8-ae54-eda750223ee4 ip=10.24.7.99
+2026-08-31 09:14:05 INFO auth Fetched order order_id=e5f2045d-325d-4358-8d78-2b9c277ab633 status=200 response_ms=154 request_id=58958371-a206-4f55-aaa3-101fdc55d6e1 ip=10.24.12.148
+2026-08-31 09:11:20 INFO database Cache hit key=product:1359 status=200 response_ms=176 request_id=1d991847-7912-48cb-8df6-73fc8866fe6a ip=10.24.13.71
+2026-08-31 09:05:42 DEBUG inventory Health check passed status=200 response_ms=163 request_id=67d55118-080b-4241-9a94-0318d588d4b2 ip=10.24.24.128
+2026-08-31 09:11:28 INFO api Database query completed rows=6772 status=200 response_ms=64 request_id=fd31d9a2-5c07-472e-86c0-d143112d2e41 ip=10.24.21.49
+2026-08-31 09:11:32 DEBUG database Health check passed status=200 response_ms=168 request_id=ed0b586f-91b6-4dc8-87d4-9de8ae7361a5 ip=10.24.4.232
+2026-08-31 09:05:48 INFO payments Login successful user_id=1546 status=200 response_ms=156 request_id=452bd920-dec1-48af-bfab-eae7d4483c41 ip=10.24.12.188
+2026-08-31 09:08:45 INFO auth Cache hit key=product:6352 status=200 response_ms=114 request_id=4a650f74-01f0-4374-9025-1106b9878e36 ip=10.24.6.52
+2026-08-31 09:08:48 INFO inventory Cache hit key=product:9697 status=200 response_ms=136 request_id=b462e7ca-24f9-4563-9089-9b63cbf547bb ip=10.24.30.70
+2026-08-31 09:08:51 INFO payments Login successful user_id=5835 status=200 response_ms=94 request_id=4574f17d-3881-4e1e-a6de-134f33972df8 ip=10.24.26.30
+2026-08-31 09:14:50 ERROR auth Authentication failed user_id=4696 status=401 response_ms=1800 request_id=cc7ee4b5-72bc-4c64-8899-1fe01d57a37c ip=10.24.28.174
+2026-08-31 09:14:55 INFO inventory Cache hit key=product:2479 status=200 response_ms=109 request_id=84686438-5bd4-4380-9a9a-548b931b86d7 ip=10.24.1.68
+2026-08-31 09:06:00 INFO orders Cache hit key=product:5295 status=200 response_ms=157 request_id=0fba3bfe-eb03-4887-97ed-82b074863287 ip=10.24.13.211
+2026-08-31 09:12:04 DEBUG auth Health check passed status=200 response_ms=128 request_id=e7f23e7a-57c5-4e79-bdfe-f1bbcb303ce0 ip=10.24.1.159
+2026-08-31 09:12:08 INFO inventory Fetched order order_id=1a766142-0deb-4b15-8880-76530e95daaa status=200 response_ms=170 request_id=fb9606eb-78fa-4035-9a62-275f277fe994 ip=10.24.27.119
+2026-08-31 09:12:12 INFO database Login successful user_id=2911 status=200 response_ms=43 request_id=b436c9e8-bb28-4788-9b15-9cee5ab246ec ip=10.24.2.243
+2026-08-31 09:06:08 INFO payments Login successful user_id=2902 status=200 response_ms=32 request_id=eacdd947-d5a5-4870-b427-2ac48811af2e ip=10.24.8.228
+2026-08-31 09:09:15 INFO orders Login successful user_id=7078 status=200 response_ms=179 request_id=93e020cf-8354-4fea-98bb-dc85f57d3a1f ip=10.24.24.179
+2026-08-31 09:15:30 DEBUG inventory Health check passed status=200 response_ms=114 request_id=e1e0d432-c88a-4764-9acc-39b635e11724 ip=10.24.21.26
+2026-08-31 09:15:35 INFO inventory Login successful user_id=5583 status=200 response_ms=16 request_id=1eef05b9-465b-48a8-97b0-2176f3702686 ip=10.24.23.95
+2026-08-31 09:09:24 INFO orders Login successful user_id=4868 status=200 response_ms=100 request_id=bd1bed08-7b25-4f5a-9c5f-fe5018c471c7 ip=10.24.4.252
+2026-08-31 09:12:36 WARN inventory Unexpected request path=/internal/debug status=404 response_ms=950 request_id=107e8618-3418-4641-bc21-8c7986aa0f8d ip=10.24.2.102
+2026-08-31 09:12:40 INFO api Request completed user_id=8450 status=200 response_ms=31 request_id=a3edc869-0d8e-4732-be48-e11c24d8d659 ip=10.24.22.55
+2026-08-31 09:06:22 ERROR auth Connection refused host=cache-prod status=503 response_ms=3200 request_id=8de98324-70b3-40bf-9199-f065a4c6b008 ip=10.24.5.202
+2026-08-31 09:09:36 INFO auth Database query completed rows=4394 status=200 response_ms=158 request_id=550dc5d1-7d29-41e1-afcb-3da0698ed2a6 ip=10.24.7.209
+2026-08-31 09:09:39 INFO payments Fetched order order_id=82d623bb-fac3-4969-ab2e-f37554e778aa status=200 response_ms=78 request_id=bc399ddd-3ae0-45bd-8c15-8533a4e720c5 ip=10.24.28.252
+2026-08-31 09:09:42 INFO api Database query completed rows=5106 status=200 response_ms=52 request_id=49bd5809-41ce-4b1e-9c68-8701f3d28f1a ip=10.24.4.170
+2026-08-31 09:06:30 INFO api Request completed user_id=6869 status=200 response_ms=68 request_id=ed52f036-ab68-4eb0-9f34-9704a64c1fec ip=10.24.19.83
+2026-08-31 09:06:32 INFO api Cache hit key=product:1858 status=200 response_ms=40 request_id=d3b22fac-012b-4209-92a6-9175b320301d ip=10.24.24.108
+2026-08-31 09:06:34 INFO database Request completed user_id=8802 status=200 response_ms=122 request_id=7cc374f3-c419-41c3-917b-702a66482e7c ip=10.24.25.93
+2026-08-31 09:06:36 ERROR orders Unhandled exception NullPointerException status=500 response_ms=2800 request_id=9192904f-6b7c-4ad7-8d88-3e844e67dc16 ip=10.24.20.12
+2026-08-31 09:13:16 DEBUG orders Health check passed status=200 response_ms=23 request_id=e6da84cb-41fc-48bb-98ba-c2c1d83304b3 ip=10.24.16.217
+2026-08-31 09:16:40 DEBUG orders Health check passed status=200 response_ms=133 request_id=300b045c-4089-48c0-b14d-448b1edc68b8 ip=10.24.23.233
+2026-08-31 09:16:45 INFO auth Request completed user_id=6277 status=200 response_ms=163 request_id=972d8c72-b6c1-4050-8561-27651776d9ee ip=10.24.5.17
+2026-08-31 09:10:06 INFO payments Database query completed rows=9984 status=200 response_ms=91 request_id=719b7b9a-af61-4982-8f38-1fd13281e98d ip=10.24.13.153
+2026-08-31 09:13:32 INFO orders Database query completed rows=8048 status=200 response_ms=33 request_id=5a5de2c2-38ad-4178-abdd-ce6d778b6c7d ip=10.24.26.180
+2026-08-31 09:06:48 DEBUG database Health check passed status=200 response_ms=118 request_id=601bbafe-8cf6-4b12-b7a3-ea8df75ae7db ip=10.24.15.228
+2026-08-31 09:10:15 INFO orders Cache hit key=product:8430 status=200 response_ms=110 request_id=2aa91353-431f-4b02-910c-b937dfa3c83d ip=10.24.14.187
+2026-08-31 09:06:52 CRITICAL payments Payment processor unavailable status=503 response_ms=7100 request_id=065fe34a-385d-444b-8d93-158a8e9b482c ip=10.24.22.66
+2026-08-31 09:13:48 DEBUG api Health check passed status=200 response_ms=25 request_id=16413b0e-2f1c-4943-b45d-84272709a87f ip=10.24.3.213
+2026-08-31 09:06:56 INFO auth Login successful user_id=2582 status=200 response_ms=103 request_id=57d062e6-dea9-4a4c-ab3a-a96ccb69707e ip=10.24.26.34
+2026-08-31 09:06:58 ERROR inventory Unhandled exception NullPointerException status=500 response_ms=2800 request_id=e479636a-bd32-4317-b56a-f658863d2a0e ip=10.24.22.32
+2026-08-31 09:17:30 DEBUG payments Health check passed status=200 response_ms=21 request_id=fe59e704-5418-4559-9332-284a385ef61e ip=10.24.10.154
+2026-08-31 09:14:04 INFO payments Request completed user_id=9313 status=200 response_ms=62 request_id=7e447500-35de-476d-b352-fddb0a537549 ip=10.24.5.169
+2026-08-31 09:17:40 INFO api Request completed user_id=6736 status=200 response_ms=150 request_id=0b9026be-a5cf-4a1b-bc9d-698a6945491f ip=10.24.12.30
+2026-08-31 09:14:12 INFO inventory Fetched order order_id=698781d5-51b3-4392-9cb5-c8484b321b9b status=200 response_ms=151 request_id=f91b052a-9da1-4d07-be62-c778bc7a68c8 ip=10.24.25.210
+2026-08-31 09:07:08 DEBUG inventory Health check passed status=200 response_ms=15 request_id=feeedecd-54a2-4616-8899-b9f867fd32ba ip=10.24.6.70
+2026-08-31 09:14:20 INFO payments Cache hit key=product:1100 status=200 response_ms=54 request_id=f6d5087f-38f8-4939-a89e-24320939387f ip=10.24.28.37
+2026-08-31 09:18:00 INFO auth Fetched order order_id=66634b9b-ecd0-4036-958c-1a8efc8f01ac status=200 response_ms=31 request_id=b13be55c-fe64-49c8-9f08-43a446faced5 ip=10.24.24.136
+2026-08-31 09:10:51 INFO orders Login successful user_id=8432 status=200 response_ms=95 request_id=8c23e0b4-4cbb-4bb2-b60e-7e563ab71d9b ip=10.24.6.95
+2026-08-31 09:14:32 INFO database Cache hit key=product:2391 status=200 response_ms=21 request_id=d7bdfaa3-50a7-4232-8b2f-61c24f40c165 ip=10.24.5.41
+2026-08-31 09:07:18 INFO database Request completed user_id=5458 status=200 response_ms=121 request_id=f645bfd7-9619-404a-b9f3-8cfff978c90c ip=10.24.22.109
+2026-08-31 09:18:20 INFO inventory Login successful user_id=7785 status=200 response_ms=77 request_id=7eb55522-7186-435c-af77-16243201f97a ip=10.24.7.194
+2026-08-31 09:07:22 INFO payments Login successful user_id=2816 status=200 response_ms=80 request_id=7dbf1f0a-5828-40f1-8592-cc8f0898465f ip=10.24.22.174
+2026-08-31 09:18:30 DEBUG inventory Health check passed status=200 response_ms=19 request_id=5249e1fd-4b18-4dff-aa35-dfa1dcae39a0 ip=10.24.8.102
+2026-08-31 09:07:26 INFO auth Fetched order order_id=98eaca45-fa30-4c9e-9d66-006f0d6417db status=200 response_ms=62 request_id=8f76c86b-95a0-4843-b85d-f9dd3038fbb7 ip=10.24.25.36
+2026-08-31 09:14:56 INFO payments Cache hit key=product:2965 status=200 response_ms=9 request_id=a832a72b-e9b9-46cf-ad83-cbb75ac410a8 ip=10.24.16.192
+2026-08-31 09:18:45 INFO api Fetched order order_id=3645cf19-b4ed-4b59-b1d3-653a18266438 status=200 response_ms=144 request_id=99637419-347c-4960-a03a-8e947f2d7bd8 ip=10.24.23.59
+2026-08-31 09:15:04 INFO auth Login successful user_id=1693 status=200 response_ms=119 request_id=dd00c94b-3b30-43fc-9ede-927eb587fe3d ip=10.24.1.118
+2026-08-31 09:07:34 INFO payments Database query completed rows=8033 status=200 response_ms=154 request_id=ba45bd59-8ea5-4ba2-b931-68b97f148fe1 ip=10.24.13.182
+2026-08-31 09:19:00 ERROR payments Database timeout host=db-primary status=504 response_ms=4900 request_id=ab32bd4f-75cb-45a0-9341-07008f8ae6b3 ip=10.24.1.248
+2026-08-31 09:15:16 INFO api Database query completed rows=8538 status=200 response_ms=100 request_id=06669073-1f8e-44e9-b120-3a0431bfc58c ip=10.24.3.112
+2026-08-31 09:07:40 INFO api Login successful user_id=7560 status=200 response_ms=142 request_id=a8fa0260-a8e7-46bb-b876-3631cfde496a ip=10.24.3.102
+2026-08-31 09:15:24 INFO database Cache hit key=product:4630 status=200 response_ms=93 request_id=4462866e-a1a4-4980-a235-28a1dc3f55d9 ip=10.24.25.44
+2026-08-31 09:07:44 DEBUG inventory Health check passed status=200 response_ms=143 request_id=56365faf-ef57-4f7b-a79d-2dae8a3b7407 ip=10.24.17.50
+2026-08-31 09:15:32 DEBUG payments Health check passed status=200 response_ms=68 request_id=4c5a0f7c-565e-45c5-a82c-c160ca55e072 ip=10.24.4.38
+2026-08-31 09:15:36 INFO api Fetched order order_id=2e81faca-7664-43cd-bd12-844f89046cfc status=200 response_ms=175 request_id=075371ac-cebc-4686-b85a-5b0f0a885326 ip=10.24.3.46
+2026-08-31 09:19:35 INFO orders Database query completed rows=8354 status=200 response_ms=152 request_id=b573ad4e-9030-4ad4-87c7-844848b2dd22 ip=10.24.21.163
+2026-08-31 09:15:44 INFO database Cache hit key=product:3473 status=200 response_ms=120 request_id=dba5f05b-e5bd-491a-bce8-1dcc93e8551a ip=10.24.3.121
+2026-08-31 09:19:45 INFO database Cache hit key=product:5500 status=200 response_ms=159 request_id=ec954ab1-adf8-4f81-8013-5e4cf736a333 ip=10.24.2.91
+2026-08-31 09:07:56 INFO payments Login successful user_id=8404 status=200 response_ms=17 request_id=b0a7214b-5f08-4175-8316-a7e752e46e7d ip=10.24.2.95
+2026-08-31 09:15:56 DEBUG auth Health check passed status=200 response_ms=165 request_id=8009b465-f70e-4b75-a198-1a0ffe8fb07c ip=10.24.20.130
+2026-08-31 09:20:00 INFO orders Database query completed rows=1672 status=200 response_ms=123 request_id=b6307f5e-f318-4c8c-a458-ba37aa609817 ip=10.24.30.208
+2026-08-31 09:12:03 INFO payments Database query completed rows=8792 status=200 response_ms=136 request_id=28b2cb58-80df-4151-9825-583b3d3247b2 ip=10.24.5.246
+2026-08-31 09:08:04 INFO orders Request completed user_id=6626 status=200 response_ms=29 request_id=f206d9d2-5a54-4c9b-8ca6-01ce7726550e ip=10.24.17.166
+2026-08-31 09:12:09 INFO auth Fetched order order_id=83637375-f1fd-48f4-bf43-5775268eba7e status=200 response_ms=120 request_id=4d3b98a9-2450-4e89-a414-86e8a8be47a3 ip=10.24.17.134
+2026-08-31 09:12:12 INFO payments Cache hit key=product:5634 status=200 response_ms=107 request_id=786cdb4a-fd75-4a23-841b-45913d2ad41f ip=10.24.14.199
+2026-08-31 09:16:20 INFO database Database query completed rows=1857 status=200 response_ms=169 request_id=5ab6f20e-5ed5-46fe-b8dc-e41affe202cb ip=10.24.21.86
+2026-08-31 09:08:12 INFO payments Request completed user_id=7333 status=200 response_ms=80 request_id=ea6039ac-d4cd-4428-8f7b-ec2971ba850d ip=10.24.9.186
+2026-08-31 09:12:21 INFO payments Request completed user_id=3317 status=200 response_ms=97 request_id=46029873-7de2-4aea-a067-b481dfe6137d ip=10.24.10.248
+2026-08-31 09:20:40 INFO api Database query completed rows=2388 status=200 response_ms=87 request_id=1c00caa7-a708-4028-a4b1-897487708c7c ip=10.24.18.97
+2026-08-31 09:16:36 DEBUG api Health check passed status=200 response_ms=31 request_id=1b6b4ebc-395c-417a-8f32-357bb477cc16 ip=10.24.21.172
+2026-08-31 09:20:50 INFO inventory Cache hit key=product:1298 status=200 response_ms=100 request_id=a7fca0ca-e5c7-447b-a11b-dd6a27d275a9 ip=10.24.10.47
+2026-08-31 09:12:33 INFO payments Login successful user_id=4145 status=200 response_ms=65 request_id=79530ab5-92b9-47f9-8854-8ba356ceb93c ip=10.24.5.40
+2026-08-31 09:08:24 INFO payments Request completed user_id=9317 status=200 response_ms=146 request_id=c3a37558-6c74-491b-a015-e9cb9b80d1a1 ip=10.24.27.190
+2026-08-31 09:08:26 INFO database Cache hit key=product:3147 status=200 response_ms=160 request_id=af6ecac7-7c88-4b35-b709-ab13d8d94061 ip=10.24.13.40
+2026-08-31 09:12:42 DEBUG api Health check passed status=200 response_ms=120 request_id=4b82be92-44a3-40df-9850-c0bbe5e380ca ip=10.24.2.106
+2026-08-31 09:17:00 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=eb0e7f34-492c-419a-b824-5c6f78788a7d ip=10.24.15.157
+2026-08-31 09:17:04 INFO database Login successful user_id=4833 status=200 response_ms=144 request_id=75734274-ab16-4706-8908-d01aba7d41d5 ip=10.24.8.80
+2026-08-31 09:21:25 INFO api Cache hit key=product:8218 status=200 response_ms=126 request_id=da7fa8d8-1736-4c86-be62-05b3406df727 ip=10.24.25.73
+2026-08-31 09:21:30 INFO inventory Database query completed rows=7859 status=200 response_ms=49 request_id=6569779c-2dcc-4676-8d33-2368e75b1229 ip=10.24.27.52
+2026-08-31 09:12:57 INFO payments Request completed user_id=8873 status=200 response_ms=103 request_id=6397af2f-545b-42b4-9624-41e5bbbc5c74 ip=10.24.18.240
+2026-08-31 09:08:40 INFO database Database query completed rows=3042 status=200 response_ms=80 request_id=39ae9dc6-29a3-4042-8384-f77cd1789d95 ip=10.24.3.196
+2026-08-31 09:13:03 INFO payments Login successful user_id=9410 status=200 response_ms=45 request_id=4bc468d0-1e64-4b2f-96c5-f66ab01f080e ip=10.24.27.112
+2026-08-31 09:08:44 INFO api Login successful user_id=6727 status=200 response_ms=14 request_id=584d9aaa-c331-4988-be54-5e303256330a ip=10.24.14.14
+2026-08-31 09:21:55 INFO inventory Cache hit key=product:4862 status=200 response_ms=106 request_id=8396e53a-d1d3-44bc-a6a8-3f72a5bcdeb0 ip=10.24.3.96
+2026-08-31 09:13:12 INFO auth Cache hit key=product:2623 status=200 response_ms=174 request_id=da2b94fc-ae78-427b-88b2-5fcc7a8320a9 ip=10.24.11.203
+2026-08-31 09:13:15 INFO api Request completed user_id=5700 status=200 response_ms=128 request_id=20447c9b-6286-4215-801a-1e7969e0d5ef ip=10.24.23.213
+2026-08-31 09:13:18 INFO database Login successful user_id=8349 status=200 response_ms=165 request_id=9cc6724b-c068-475b-866e-2f20c5316170 ip=10.24.1.232
+2026-08-31 09:08:54 INFO auth Cache hit key=product:4533 status=200 response_ms=46 request_id=fa23adba-a769-4d72-bd20-549a084b61a6 ip=10.24.18.241
+2026-08-31 09:22:20 INFO auth Cache hit key=product:4893 status=200 response_ms=85 request_id=fd9da81f-18f6-469c-a5d7-3199a2c879af ip=10.24.4.13
+2026-08-31 09:13:27 DEBUG orders Health check passed status=200 response_ms=24 request_id=06fdcbf7-4055-49a6-a6e0-68cb9fdfca24 ip=10.24.4.215
+2026-08-31 09:22:30 INFO inventory Database query completed rows=1269 status=200 response_ms=169 request_id=4201e4b3-df5d-4cb3-a64d-7e2044a24785 ip=10.24.17.148
+2026-08-31 09:13:33 INFO database Fetched order order_id=49b29709-2db7-4f80-a85b-07d8e012c0ff status=200 response_ms=117 request_id=67a949c7-83c6-428f-b058-4fa09ff5a1fb ip=10.24.1.158
+2026-08-31 09:18:08 INFO api Database query completed rows=7825 status=200 response_ms=55 request_id=5a25aeb0-bab0-42df-820e-bf7374490044 ip=10.24.22.172
+2026-08-31 09:09:06 INFO inventory Cache hit key=product:2108 status=200 response_ms=142 request_id=92d1ab5b-e468-4596-bcc3-886edd344b34 ip=10.24.18.130
+2026-08-31 09:09:08 INFO orders Login successful user_id=1713 status=200 response_ms=170 request_id=12468816-1884-4679-9ec7-2cb38fb4d0e4 ip=10.24.13.252
+2026-08-31 09:18:20 DEBUG payments Health check passed status=200 response_ms=99 request_id=bd683595-d8c8-43ac-b536-d5e344794bd5 ip=10.24.26.18
+2026-08-31 09:18:24 DEBUG api Health check passed status=200 response_ms=156 request_id=66d6a89d-e82c-484b-ae59-695e3b878b96 ip=10.24.24.194
+2026-08-31 09:18:28 INFO api Request completed user_id=6772 status=200 response_ms=147 request_id=46cc2578-88b8-47ab-b099-9fffe4465fd7 ip=10.24.11.209
+2026-08-31 09:13:54 INFO database Login successful user_id=8840 status=200 response_ms=169 request_id=844c283b-060a-47ed-9d86-454b47d37213 ip=10.24.6.208
+2026-08-31 09:13:57 DEBUG auth Health check passed status=200 response_ms=17 request_id=2b5ed2f1-09ad-48ab-96cc-8f67e95819e7 ip=10.24.10.52
+2026-08-31 09:09:20 INFO api Request completed user_id=6170 status=200 response_ms=87 request_id=6fab91f1-68cb-47ed-9db3-4d25c99b8873 ip=10.24.17.102
+2026-08-31 09:23:25 INFO payments Request completed user_id=4131 status=200 response_ms=81 request_id=0c34bb6f-d1fe-408e-8042-815d68b567cb ip=10.24.12.221
+2026-08-31 09:09:24 INFO database Cache hit key=product:5476 status=200 response_ms=39 request_id=9ba0c14b-c864-41db-9e01-74cc9be1090b ip=10.24.26.95
+2026-08-31 09:23:35 DEBUG orders Health check passed status=200 response_ms=106 request_id=1f6a3463-57b6-4dc7-b11a-cd62efea2ddc ip=10.24.11.250
+2026-08-31 09:14:12 DEBUG orders Health check passed status=200 response_ms=102 request_id=55f72e7d-a094-4732-8c2d-9f2c7815382f ip=10.24.30.205
+2026-08-31 09:19:00 WARN auth Unexpected request path=/internal/debug status=404 response_ms=950 request_id=9a1f6333-a84c-4ea3-bf9a-814a58f6452e ip=10.24.3.111
+2026-08-31 09:14:18 INFO inventory Cache hit key=product:6262 status=200 response_ms=34 request_id=c33e70e3-a799-46a8-8315-8f84a15acbc4 ip=10.24.3.84
+2026-08-31 09:19:08 INFO payments Login successful user_id=7981 status=200 response_ms=50 request_id=6680f708-971f-4fc7-acce-2db08e3705bd ip=10.24.23.114
+2026-08-31 09:19:12 INFO orders Request completed user_id=6776 status=200 response_ms=165 request_id=fce92c9c-643d-4429-95c7-d731ca435df4 ip=10.24.14.71
+2026-08-31 09:09:38 DEBUG auth Health check passed status=200 response_ms=101 request_id=eb15a3ce-8907-4fd1-b82f-39ffaf0801ce ip=10.24.17.206
+2026-08-31 09:14:30 INFO auth Fetched order order_id=938c487b-57f2-46ce-bca4-9b09ebd4bb5f status=200 response_ms=16 request_id=aa972604-73a4-4530-8a6f-1fa70d4b8237 ip=10.24.5.18
+2026-08-31 09:14:33 INFO database Cache hit key=product:6933 status=200 response_ms=106 request_id=28b08e05-6e39-499d-901b-c9756db748b0 ip=10.24.19.9
+2026-08-31 09:14:36 INFO database Login successful user_id=7077 status=200 response_ms=103 request_id=af26f0ec-1f2b-4fe3-a055-451f0b72418f ip=10.24.15.196
+2026-08-31 09:09:46 INFO inventory Fetched order order_id=f46c1163-d9b9-4413-a957-fd4edf2b1729 status=200 response_ms=101 request_id=65a2f708-88da-476c-8099-de650e0cdcc5 ip=10.24.13.81
+2026-08-31 09:19:36 INFO api Request completed user_id=1424 status=200 response_ms=55 request_id=fd0f286e-d14e-4602-956e-f9d97d303543 ip=10.24.16.133
+2026-08-31 09:24:35 INFO inventory Request completed user_id=5288 status=200 response_ms=74 request_id=223c3777-268c-4cf7-83d9-7e6af1d91651 ip=10.24.23.115
+2026-08-31 09:14:48 INFO inventory Cache hit key=product:9047 status=200 response_ms=59 request_id=a15a19ef-2054-4e04-8f81-ace2156b6f38 ip=10.24.4.35
+2026-08-31 09:09:54 INFO orders Fetched order order_id=6b9e7d30-ac6d-458d-90e5-da2c97c5532b status=200 response_ms=30 request_id=7e11ae0a-8f33-4d98-b1e4-015599642211 ip=10.24.26.175
+2026-08-31 09:19:52 INFO database Cache hit key=product:2063 status=200 response_ms=148 request_id=2f6cbc61-54bd-46e1-8b37-abe296233a57 ip=10.24.18.75
+2026-08-31 09:19:56 DEBUG api Health check passed status=200 response_ms=100 request_id=7ee6b20d-222f-4c8e-83a9-d529a204a780 ip=10.24.17.58
+2026-08-31 09:10:00 INFO api Fetched order order_id=7f957340-cb9d-43c5-986e-6f7a0d3119d1 status=200 response_ms=134 request_id=b1183f2c-be21-485e-a384-8f3fd3260f00 ip=10.24.1.93
+2026-08-31 09:20:04 INFO orders Database query completed rows=3126 status=200 response_ms=164 request_id=39ca495f-4288-4f18-9980-2c0ddb5b5ffd ip=10.24.29.23
+2026-08-31 09:10:04 INFO payments Login successful user_id=8842 status=200 response_ms=142 request_id=e2bfa054-4fc2-45ed-b95f-ba150141e934 ip=10.24.14.197
+2026-08-31 09:25:15 INFO inventory Request completed user_id=3053 status=200 response_ms=89 request_id=b398018b-81ac-45c3-88ba-84434e0bbed1 ip=10.24.21.19
+2026-08-31 09:25:20 DEBUG orders Health check passed status=200 response_ms=96 request_id=c0273ab5-1fc6-42fa-899a-6f8bbf89991f ip=10.24.5.225
+2026-08-31 09:15:15 INFO api Login successful user_id=9238 status=200 response_ms=22 request_id=361d5650-d277-4cdd-9bd2-cddf74b653b4 ip=10.24.27.32
+2026-08-31 09:15:18 INFO payments Fetched order order_id=795369ad-8eeb-430c-ad05-862b120fb10b status=200 response_ms=90 request_id=eb81d22c-64d8-4cb1-90c3-1e8f7465b241 ip=10.24.30.182
+2026-08-31 09:15:21 INFO payments Database query completed rows=5653 status=200 response_ms=28 request_id=082d2260-656e-450f-9596-6fde342ac095 ip=10.24.9.51
+2026-08-31 09:20:32 DEBUG api Health check passed status=200 response_ms=165 request_id=b84e74ad-ee29-430c-bd6c-0c53a6a9c405 ip=10.24.18.24
+2026-08-31 09:15:27 INFO inventory Database query completed rows=3526 status=200 response_ms=51 request_id=d3d2e99a-3d59-4a4d-8779-2acad96c9243 ip=10.24.22.160
+2026-08-31 09:20:40 INFO inventory Request completed user_id=1464 status=200 response_ms=28 request_id=6c46d4b9-6a71-4af3-aa15-c05bee7154ce ip=10.24.2.243
+2026-08-31 09:20:44 INFO database Fetched order order_id=ab8aa82b-e54e-4eff-a612-6c984d1fb49e status=200 response_ms=166 request_id=84546547-aeaa-406e-8c4c-ed1946c8b66c ip=10.24.21.8
+2026-08-31 09:26:00 INFO database Database query completed rows=5745 status=200 response_ms=172 request_id=21d1787e-3749-4f0c-a244-4927a1747390 ip=10.24.10.124
+2026-08-31 09:15:39 INFO database Login successful user_id=5873 status=200 response_ms=124 request_id=ff1c7669-8b0c-4350-ad91-55b491a2946a ip=10.24.3.177
+2026-08-31 09:10:28 INFO api Login successful user_id=7809 status=200 response_ms=131 request_id=60e9ab05-0cb6-4ffb-b61e-9dacfe0141b4 ip=10.24.15.53
+2026-08-31 09:21:00 INFO inventory Fetched order order_id=ddc408d9-e96f-4745-a960-6d42af78c83e status=200 response_ms=89 request_id=8977d6d8-0930-48eb-ab1a-4fd3a58a4362 ip=10.24.24.253
+2026-08-31 09:21:04 INFO orders Fetched order order_id=74c2b6bb-e6c5-4c7f-bf8b-e2ba4a90dfe0 status=200 response_ms=139 request_id=3a5309f9-c6b8-4390-b405-60f4446cbab6 ip=10.24.18.28
+2026-08-31 09:21:08 INFO api Login successful user_id=3007 status=200 response_ms=76 request_id=966fc781-fcb5-4274-8055-6922ebde3089 ip=10.24.15.64
+2026-08-31 09:15:54 ERROR auth Database timeout host=db-primary status=504 response_ms=4900 request_id=ad3cc3f8-260e-4a41-8899-e3d7b796d67c ip=10.24.13.222
+2026-08-31 09:26:35 INFO api Fetched order order_id=c86bf3a0-d5c2-4cdc-855c-4574267d63bc status=200 response_ms=155 request_id=5e8ff745-4770-4aa9-acd0-5022755aec40 ip=10.24.24.81
+2026-08-31 09:16:00 INFO api Login successful user_id=9433 status=200 response_ms=127 request_id=fdf42728-242a-4f5e-840e-1243baeccc97 ip=10.24.16.226
+2026-08-31 09:21:24 INFO orders Request completed user_id=2475 status=200 response_ms=108 request_id=f110e421-0a8d-4481-ab90-a8d9303cd9c0 ip=10.24.17.118
+2026-08-31 09:16:06 INFO api Database query completed rows=6781 status=200 response_ms=20 request_id=0af92248-3bcc-4eab-ba68-5d3867faaca9 ip=10.24.2.73
+2026-08-31 09:26:55 DEBUG inventory Health check passed status=200 response_ms=81 request_id=156e14b7-2f76-48f8-b9fb-eb3c9d811f31 ip=10.24.18.3
+2026-08-31 09:10:48 INFO orders Fetched order order_id=e8aa96c3-b679-4a37-b373-5d357625374f status=200 response_ms=101 request_id=394ac850-f151-41a1-a761-7618aa6dcaa6 ip=10.24.25.104
+2026-08-31 09:21:40 INFO auth Login successful user_id=1838 status=200 response_ms=153 request_id=174c8e27-3dcd-4ea8-9af6-4548797491af ip=10.24.18.50
+2026-08-31 09:21:44 ERROR inventory Connection refused host=cache-prod status=503 response_ms=3200 request_id=11c61392-874a-4af5-9a7f-93a914967613 ip=10.24.13.130
+2026-08-31 09:27:15 INFO inventory Cache hit key=product:2946 status=200 response_ms=40 request_id=50837cca-cc9d-467a-b025-8fa06eb42353 ip=10.24.4.101
+2026-08-31 09:21:52 INFO payments Database query completed rows=6990 status=200 response_ms=44 request_id=4c70351c-66e6-48a9-ac4b-305368d5b4a6 ip=10.24.7.155
+2026-08-31 09:27:25 INFO inventory Request completed user_id=1742 status=200 response_ms=17 request_id=3d038a51-cf70-4912-9405-07c600e4d985 ip=10.24.5.183
+2026-08-31 09:22:00 INFO orders Database query completed rows=8487 status=200 response_ms=46 request_id=6e44895b-b05a-4fcf-884d-0b3353507de8 ip=10.24.20.229
+2026-08-31 09:16:33 INFO payments Database query completed rows=6218 status=200 response_ms=49 request_id=0df548a8-a64f-4dce-a82f-802e9f9ef55a ip=10.24.13.254
+2026-08-31 09:22:08 INFO inventory Cache hit key=product:9311 status=200 response_ms=138 request_id=4ecb201c-7aed-4c2b-8c38-0aa0f29534cf ip=10.24.18.126
+2026-08-31 09:22:12 ERROR orders Database timeout host=db-primary status=504 response_ms=4900 request_id=17448326-e4a7-46d9-a8a0-d9be396b0d0b ip=10.24.11.173
+2026-08-31 09:11:08 INFO orders Database query completed rows=6040 status=200 response_ms=169 request_id=101a920e-a38c-41cc-8817-365dfae7550a ip=10.24.1.153
+2026-08-31 09:27:55 DEBUG payments Health check passed status=200 response_ms=21 request_id=be1c3ef6-4621-4475-a5e2-beb736c25195 ip=10.24.19.123
+2026-08-31 09:16:48 DEBUG inventory Health check passed status=200 response_ms=45 request_id=cbc0cad7-caaf-4540-9ad0-3b7eaf614a1d ip=10.24.27.175
+2026-08-31 09:16:51 INFO auth Database query completed rows=2800 status=200 response_ms=56 request_id=bf2689d7-8b88-48f0-8fb1-3f2b55c7604b ip=10.24.1.113
+2026-08-31 09:22:32 INFO orders Fetched order order_id=8315e6b5-80fd-422e-bd9b-1052827cd10a status=200 response_ms=60 request_id=13eace86-4042-4b43-862c-b3aff475e472 ip=10.24.14.129
+2026-08-31 09:28:15 DEBUG database Health check passed status=200 response_ms=43 request_id=1b0abfee-c705-4ba0-a5cd-08480b5cab1c ip=10.24.17.54
+2026-08-31 09:22:40 INFO database Login successful user_id=9609 status=200 response_ms=104 request_id=53eb3389-002b-473c-82ba-b070afe009b1 ip=10.24.11.245
+2026-08-31 09:17:03 INFO orders Database query completed rows=6608 status=200 response_ms=147 request_id=9a000e72-1fb8-4d95-9ae3-36b6bfa53af4 ip=10.24.12.174
+2026-08-31 09:22:48 INFO inventory Login successful user_id=4150 status=200 response_ms=71 request_id=5e2b2625-3551-4e31-93bd-9b375ba2d023 ip=10.24.9.143
+2026-08-31 09:22:52 INFO api Cache hit key=product:5735 status=200 response_ms=61 request_id=cf735ab1-6574-42d7-84cc-c83490b42356 ip=10.24.23.181
+2026-08-31 09:28:40 INFO payments Login successful user_id=6714 status=200 response_ms=151 request_id=135bc4e9-decd-414d-bffa-4888a041a792 ip=10.24.30.240
+2026-08-31 09:23:00 INFO payments Request completed user_id=9899 status=200 response_ms=105 request_id=5b0c4732-507e-481e-b851-fb2a1c93c60d ip=10.24.29.251
+2026-08-31 09:28:50 INFO payments Fetched order order_id=06c07c3d-abfb-4c35-86ee-e520981c228f status=200 response_ms=18 request_id=37563082-deb9-49c2-a4b5-ca419bdd5252 ip=10.24.10.245
+2026-08-31 09:11:34 INFO payments Login successful user_id=5201 status=200 response_ms=130 request_id=8fb08612-faa6-4257-9761-510cef63d65f ip=10.24.7.52
+2026-08-31 09:23:12 DEBUG inventory Health check passed status=200 response_ms=43 request_id=c461ed44-21f8-43cf-8fab-2d8f569d1ee6 ip=10.24.4.158
+2026-08-31 09:17:27 INFO api Request completed user_id=9700 status=200 response_ms=65 request_id=90e136bc-bcb4-4d53-bb38-8e860528c86f ip=10.24.21.60
+2026-08-31 09:11:40 INFO auth Login successful user_id=6411 status=200 response_ms=128 request_id=c9ade12c-550f-4841-8b02-c2d32cd2247e ip=10.24.4.175
+2026-08-31 09:17:33 INFO auth Database query completed rows=3587 status=200 response_ms=112 request_id=39cb4d41-e2b8-45a2-b54b-ea1911595964 ip=10.24.21.240
+2026-08-31 09:29:20 DEBUG orders Health check passed status=200 response_ms=81 request_id=25e3f493-dea9-462c-9256-ac8d8b392680 ip=10.24.11.74
+2026-08-31 09:11:46 DEBUG auth Health check passed status=200 response_ms=144 request_id=f04521a2-0d6e-4b64-adc4-9f6a0f8302b9 ip=10.24.24.186
+2026-08-31 09:11:48 INFO api Login successful user_id=3880 status=200 response_ms=17 request_id=4b75084e-ca32-40b6-9852-082d1265cca0 ip=10.24.27.102
+2026-08-31 09:29:35 DEBUG api Health check passed status=200 response_ms=17 request_id=0b1158d6-ba5e-46ec-a669-09f5ce00125c ip=10.24.1.77
+2026-08-31 09:11:52 INFO payments Cache hit key=product:8444 status=200 response_ms=172 request_id=d9f92941-ac1b-4a18-9f5f-c4f0d72a5938 ip=10.24.18.135
+2026-08-31 09:29:45 INFO api Database query completed rows=8668 status=200 response_ms=77 request_id=63222d32-f6e4-493e-851d-7eb1ca4e90ba ip=10.24.7.208
+2026-08-31 09:11:56 INFO payments Fetched order order_id=18facb29-9535-4507-a28b-226553a23f79 status=200 response_ms=173 request_id=16a084db-9972-4cb8-8cfe-343589d113bf ip=10.24.9.184
+2026-08-31 09:17:57 DEBUG auth Health check passed status=200 response_ms=83 request_id=b6198fa6-6955-4df2-9cf5-29e72d56b9a5 ip=10.24.19.173
+2026-08-31 09:18:00 INFO api Database query completed rows=7643 status=200 response_ms=117 request_id=c5094386-1291-422b-82b4-184e37a9ffcc ip=10.24.17.84
+2026-08-31 09:12:02 DEBUG orders Health check passed status=200 response_ms=55 request_id=e2ded714-4d39-4ce6-90de-959b63684fa4 ip=10.24.5.123
+2026-08-31 09:24:08 INFO api Request completed user_id=5272 status=200 response_ms=106 request_id=07a2bd37-5e7f-478c-b34a-3e8106ce208b ip=10.24.8.115
+2026-08-31 09:24:12 INFO payments Cache hit key=product:1187 status=200 response_ms=74 request_id=e2d860df-b9c4-4d18-aa2a-e52a12f1ce1d ip=10.24.21.93
+2026-08-31 09:18:12 DEBUG auth Health check passed status=200 response_ms=127 request_id=801222c6-6802-44bc-abc4-9f5cfe2446d5 ip=10.24.10.41
+2026-08-31 09:30:25 INFO database Database query completed rows=6095 status=200 response_ms=38 request_id=4870ec32-f97e-444a-87cf-dfdc3314b1d5 ip=10.24.21.235
+2026-08-31 09:24:24 INFO payments Database query completed rows=4618 status=200 response_ms=64 request_id=d85ca8f2-fe1a-450c-a7b3-fbe85940b9ea ip=10.24.5.123
+2026-08-31 09:18:21 DEBUG orders Health check passed status=200 response_ms=114 request_id=3ff0d273-580a-4674-b90a-0723e7cdc475 ip=10.24.23.141
+2026-08-31 09:30:40 DEBUG inventory Health check passed status=200 response_ms=71 request_id=69b9c168-ff20-4ed3-bc18-befa10f9d3ec ip=10.24.22.194
+2026-08-31 09:12:18 INFO inventory Login successful user_id=9653 status=200 response_ms=100 request_id=915de9ec-0a79-452d-b04c-91efb72fcd8f ip=10.24.3.235
+2026-08-31 09:12:20 INFO auth Database query completed rows=9281 status=200 response_ms=59 request_id=e6220684-bfb9-47e3-989d-51acb68e71f2 ip=10.24.19.138
+2026-08-31 09:18:33 INFO api Cache hit key=product:9525 status=200 response_ms=121 request_id=7539f6a6-a39d-4446-b5fb-b7bac2f8956a ip=10.24.4.175
+2026-08-31 09:18:36 INFO database Database query completed rows=9008 status=200 response_ms=31 request_id=9765afb9-909e-4f55-a4da-b32e7ae9e28c ip=10.24.29.131
+2026-08-31 09:31:05 INFO auth Login successful user_id=3161 status=200 response_ms=139 request_id=6d22fc4c-42e0-41b2-92bf-53d23b821db6 ip=10.24.14.117
+2026-08-31 09:12:28 INFO inventory Login successful user_id=6049 status=200 response_ms=13 request_id=16bb1529-6e3e-41d8-8060-f5ab568fd8a7 ip=10.24.13.66
+2026-08-31 09:12:30 INFO database Fetched order order_id=bdd55b58-74eb-4ab2-9be9-d3477f135c85 status=200 response_ms=19 request_id=6e4f1a2d-ab62-4351-b6e9-72fc0e27d7a8 ip=10.24.14.89
+2026-08-31 09:12:32 INFO inventory Request completed user_id=2130 status=200 response_ms=128 request_id=930465f4-7f55-4a72-bb21-e7f089bd5bc5 ip=10.24.2.74
+2026-08-31 09:31:25 INFO api Fetched order order_id=3edd604c-0af2-458a-9193-673a73177ee8 status=200 response_ms=103 request_id=141ad6be-6f82-406b-82a4-6c9cdd7bb9ad ip=10.24.29.98
+2026-08-31 09:31:30 INFO orders Login successful user_id=2314 status=200 response_ms=177 request_id=af83be2c-3fe6-410e-8e42-09b96ac712cf ip=10.24.28.139
+2026-08-31 09:18:57 INFO database Cache hit key=product:2943 status=200 response_ms=53 request_id=8ab51859-5fa5-4df9-a3ae-187303c7af2a ip=10.24.18.101
+2026-08-31 09:19:00 INFO database Fetched order order_id=4af46213-97d9-488c-8972-c70ec106961a status=200 response_ms=13 request_id=5bb5697d-ceca-4f4e-bc37-cb27b486a279 ip=10.24.10.119
+2026-08-31 09:31:45 INFO inventory Login successful user_id=4762 status=200 response_ms=71 request_id=82830a71-80d1-4799-8618-7cc4c340afcc ip=10.24.15.89
+2026-08-31 09:19:06 INFO payments Fetched order order_id=c98dd883-2f81-4798-94c1-3920a5ea9215 status=200 response_ms=16 request_id=4490d555-1e03-4b99-9346-25a6a3deac78 ip=10.24.26.170
+2026-08-31 09:31:55 INFO inventory Request completed user_id=4943 status=200 response_ms=60 request_id=671ec88c-bed5-4307-bff5-30126b8ccbcf ip=10.24.3.26
+2026-08-31 09:12:48 INFO orders Database query completed rows=1797 status=200 response_ms=70 request_id=0e02e550-9678-407b-a9fe-9b56ea9d854a ip=10.24.24.12
+2026-08-31 09:32:05 INFO orders Fetched order order_id=cab95576-7437-456e-87fd-7efa75bd1fad status=200 response_ms=63 request_id=3b2e749d-92c5-416f-b54f-1440e2be328c ip=10.24.25.222
+2026-08-31 09:12:52 INFO api Database query completed rows=5739 status=200 response_ms=67 request_id=e2b4c881-a4f7-499d-83a8-865c423660aa ip=10.24.27.235
+2026-08-31 09:25:48 INFO inventory Database query completed rows=6253 status=200 response_ms=68 request_id=846b425d-7176-41df-bba7-89586642d8a6 ip=10.24.10.225
+2026-08-31 09:19:24 INFO database Database query completed rows=4621 status=200 response_ms=113 request_id=9d52e8ea-1cd5-4438-9183-bc4cdfde2ec3 ip=10.24.10.71
+2026-08-31 09:12:58 INFO inventory Database query completed rows=3869 status=200 response_ms=168 request_id=c069b106-7bbc-46c2-95a7-e5c2b6f4134e ip=10.24.22.110
+2026-08-31 09:32:30 INFO auth Cache hit key=product:7244 status=200 response_ms=142 request_id=a0b99b33-dfcf-4c8f-a338-c6a2fe964c6b ip=10.24.11.179
+2026-08-31 09:32:35 INFO orders Fetched order order_id=329c8c73-f390-40c6-89e8-604562761d4e status=200 response_ms=104 request_id=eb7c20c2-bebd-4180-aac9-f482250023ca ip=10.24.6.194
+2026-08-31 09:32:40 INFO api Fetched order order_id=ff1f7aa8-67e1-4af7-ae35-3c7e6c2de1de status=200 response_ms=44 request_id=073a1927-9596-4191-980d-4383884cb4a5 ip=10.24.26.119
+2026-08-31 09:13:06 CRITICAL inventory Payment processor unavailable status=503 response_ms=7100 request_id=e13e8d89-c741-4a2e-90c8-13d0a43cd481 ip=10.24.18.136
+2026-08-31 09:19:42 INFO orders Fetched order order_id=3d66b7df-af51-4712-b79f-23fa1e98e719 status=200 response_ms=60 request_id=59360a10-fbb0-4e06-b1ea-4068ad85a185 ip=10.24.11.166
+2026-08-31 09:13:10 INFO orders Cache hit key=product:2514 status=200 response_ms=145 request_id=6e614628-dfd7-44f3-bed1-98247cee165c ip=10.24.24.213
+2026-08-31 09:19:48 INFO auth Cache hit key=product:7179 status=200 response_ms=180 request_id=460df568-d921-48d3-a4e0-45a03b200eba ip=10.24.20.155
+2026-08-31 09:13:14 INFO auth Fetched order order_id=146772eb-e401-4530-9aa1-7390ece0113f status=200 response_ms=130 request_id=b6a6e49e-3c4b-4b38-a6a2-92db1be44b8b ip=10.24.7.223
+2026-08-31 09:26:32 INFO payments Request completed user_id=4470 status=200 response_ms=56 request_id=96037b36-7ca8-4a84-8329-27b3e27d8590 ip=10.24.24.31
+2026-08-31 09:33:15 DEBUG api Health check passed status=200 response_ms=109 request_id=d6f72ca9-bf10-4071-8c63-e255f9232ceb ip=10.24.30.62
+2026-08-31 09:26:40 INFO payments Login successful user_id=8639 status=200 response_ms=144 request_id=ddf3c3ce-ac67-46b7-84c2-01cc7ca0928f ip=10.24.21.92
+2026-08-31 09:26:44 INFO payments Cache hit key=product:9401 status=200 response_ms=135 request_id=1998250a-d651-4137-9f6e-e93e6bc2d320 ip=10.24.15.26
+2026-08-31 09:33:30 INFO payments Fetched order order_id=8fb51e8e-033f-4375-b2ab-44b0cd7ea965 status=200 response_ms=88 request_id=583b541f-d89d-4aa5-95e7-5e67784625e3 ip=10.24.14.12
+2026-08-31 09:20:09 INFO database Fetched order order_id=ebae41cb-9fb2-4974-a34e-6de6516fc3e9 status=200 response_ms=74 request_id=e4b2a4a0-adea-40bd-a231-9ada95d817b5 ip=10.24.18.240
+2026-08-31 09:33:40 INFO payments Fetched order order_id=ab428501-0b42-4370-b273-649b65bb1a65 status=200 response_ms=92 request_id=5bd1ae58-ea29-4b0a-a967-538952018979 ip=10.24.8.98
+2026-08-31 09:20:15 INFO orders Database query completed rows=6530 status=200 response_ms=73 request_id=3e14bd74-838c-4003-bc93-81c5135799c6 ip=10.24.25.211
+2026-08-31 09:33:50 DEBUG database Health check passed status=200 response_ms=125 request_id=c4468a73-a00b-426a-8a7d-a1573502df6f ip=10.24.6.188
+2026-08-31 09:27:08 ERROR api Authentication failed user_id=9954 status=401 response_ms=1800 request_id=424f5c9f-e97e-4f40-913b-dd98d1fb52ce ip=10.24.16.48
+2026-08-31 09:13:36 INFO inventory Request completed user_id=2217 status=200 response_ms=179 request_id=dbe2eec5-239e-458a-aaa2-25a6c24c3ed6 ip=10.24.2.196
+2026-08-31 09:13:38 INFO orders Fetched order order_id=332a268d-bc06-4cf3-9c8b-8c153313821b status=200 response_ms=25 request_id=21ffdb3b-75fd-44a3-8582-9b47503eadf8 ip=10.24.23.39
+2026-08-31 09:13:40 INFO api Database query completed rows=8471 status=200 response_ms=103 request_id=d7cc3c2d-874a-43c1-a241-a4dc807e7325 ip=10.24.2.159
+2026-08-31 09:34:15 INFO database Login successful user_id=1257 status=200 response_ms=9 request_id=92d6733d-e8ce-4b9c-9786-7b2d1c61577b ip=10.24.18.142
+2026-08-31 09:34:20 INFO auth Request completed user_id=9673 status=200 response_ms=78 request_id=a53a9ea4-ba53-4764-9be9-c76e0a785241 ip=10.24.18.251
+2026-08-31 09:27:32 INFO auth Database query completed rows=8054 status=200 response_ms=53 request_id=e2f2196f-3208-4852-961b-4d0a0f65c75d ip=10.24.4.236
+2026-08-31 09:13:48 INFO inventory Fetched order order_id=356ec79d-269a-4a7b-afad-76610933d7f1 status=200 response_ms=57 request_id=f2b8d9a8-3769-435b-b74b-29e543eb2d15 ip=10.24.20.135
+2026-08-31 09:27:40 INFO payments Cache hit key=product:7502 status=200 response_ms=28 request_id=41aebeff-9c15-4b35-b5dc-5a6a8036c640 ip=10.24.12.246
+2026-08-31 09:34:40 INFO orders Database query completed rows=4984 status=200 response_ms=65 request_id=6f6a335d-fba9-4ccc-8521-006c96e71807 ip=10.24.10.176
+2026-08-31 09:13:54 DEBUG database Health check passed status=200 response_ms=31 request_id=c1c2a68e-d209-4e9e-8b38-f81793fa4e43 ip=10.24.13.98
+2026-08-31 09:34:50 INFO inventory Login successful user_id=1919 status=200 response_ms=171 request_id=f21a7d98-99b6-4014-8a75-b4537b4cb69e ip=10.24.1.180
+2026-08-31 09:20:57 INFO auth Login successful user_id=8109 status=200 response_ms=173 request_id=f78eebcf-2fb6-4130-b9b6-c683f741cade ip=10.24.26.85
+2026-08-31 09:14:00 INFO inventory Request completed user_id=4764 status=200 response_ms=62 request_id=a521b634-8c14-4d64-b9a5-a425b7ed81c7 ip=10.24.29.223
+2026-08-31 09:35:05 INFO payments Request completed user_id=2218 status=200 response_ms=79 request_id=d645623a-9bf5-444a-93ae-24620341c527 ip=10.24.29.140
+2026-08-31 09:14:04 INFO api Cache hit key=product:1256 status=200 response_ms=61 request_id=0135d18b-696a-4224-a305-7493964917af ip=10.24.19.37
+2026-08-31 09:35:15 INFO auth Cache hit key=product:3661 status=200 response_ms=152 request_id=c0f800ee-c14d-4bf1-99c9-714699088161 ip=10.24.8.146
+2026-08-31 09:35:20 INFO database Database query completed rows=6435 status=200 response_ms=106 request_id=16d2f587-3226-458b-b411-ba8f87722373 ip=10.24.25.190
+2026-08-31 09:21:15 DEBUG database Health check passed status=200 response_ms=136 request_id=3323329b-2c8f-4f54-ad24-b5ffb24943fe ip=10.24.24.250
+2026-08-31 09:28:24 INFO auth Request completed user_id=8161 status=200 response_ms=67 request_id=e8ed31d1-29c2-4847-8cb3-42aa7f2a8ae8 ip=10.24.27.20
+2026-08-31 09:28:28 INFO inventory Database query completed rows=7499 status=200 response_ms=91 request_id=65a92545-f6dd-4352-bde1-646db07dbf5b ip=10.24.1.163
+2026-08-31 09:28:32 INFO orders Login successful user_id=4737 status=200 response_ms=99 request_id=8940c03a-2256-4609-a5cb-9786c42e3f06 ip=10.24.18.241
+2026-08-31 09:35:45 ERROR orders Authentication failed user_id=7227 status=401 response_ms=1800 request_id=2b1790ef-44b6-4df9-b54e-04e8abeb4c29 ip=10.24.3.198
+2026-08-31 09:28:40 DEBUG api Health check passed status=200 response_ms=29 request_id=912b62a3-e946-477d-936e-1b174603aa9b ip=10.24.9.40
+2026-08-31 09:35:55 DEBUG database Health check passed status=200 response_ms=107 request_id=21dec6b8-e496-4873-ae65-40d0f2fa561a ip=10.24.11.93
+2026-08-31 09:14:24 INFO auth Request completed user_id=6050 status=200 response_ms=121 request_id=002dfa35-fac4-41d7-88cf-789f3750328e ip=10.24.12.195
+2026-08-31 09:28:52 INFO auth Fetched order order_id=10bb1b5e-2be2-41c3-8c57-3a3937dbcc51 status=200 response_ms=55 request_id=33d2d7b8-34a5-4e72-9b3d-28f684dfe57c ip=10.24.14.115
+2026-08-31 09:36:10 INFO auth Request completed user_id=2468 status=200 response_ms=98 request_id=9a166deb-7af8-403c-ae9b-b42ae8286929 ip=10.24.18.24
+2026-08-31 09:29:00 INFO orders Request completed user_id=5781 status=200 response_ms=113 request_id=f7888b40-6dd2-439a-8afe-cc41198a58c9 ip=10.24.13.200
+2026-08-31 09:14:32 INFO database Database query completed rows=4977 status=200 response_ms=154 request_id=1f21d027-e836-405c-a490-92c327c31373 ip=10.24.17.44
+2026-08-31 09:36:25 INFO api Fetched order order_id=83213ba9-44b4-4795-abaf-3004bf477e76 status=200 response_ms=85 request_id=40519788-d6d5-4562-94e7-dfa68699af55 ip=10.24.9.127
+2026-08-31 09:21:54 INFO auth Fetched order order_id=20a77c89-49d4-451c-a822-0fc2f48f9a13 status=200 response_ms=78 request_id=2ee23a76-b5b7-428a-a9ad-b7b9cf64d4d6 ip=10.24.14.77
+2026-08-31 09:36:35 INFO auth Cache hit key=product:5123 status=200 response_ms=71 request_id=caa027e1-3253-46e4-8020-5f29be74d440 ip=10.24.24.161
+2026-08-31 09:36:40 ERROR inventory Unhandled exception NullPointerException status=500 response_ms=2800 request_id=fb64eac3-2889-435d-ac32-e64c99b6cd56 ip=10.24.15.28
+2026-08-31 09:22:03 INFO payments Request completed user_id=7483 status=200 response_ms=93 request_id=2566651e-4189-409a-8eb7-eca0aca5f440 ip=10.24.27.159
+2026-08-31 09:36:50 INFO payments Login successful user_id=6484 status=200 response_ms=118 request_id=de6c6014-7588-4d73-93a1-3e3200effdeb ip=10.24.27.211
+2026-08-31 09:22:09 INFO payments Cache hit key=product:4290 status=200 response_ms=130 request_id=7009b89f-2765-41d6-b312-2fa2d778e304 ip=10.24.11.46
+2026-08-31 09:37:00 INFO payments Cache hit key=product:9044 status=200 response_ms=155 request_id=63e3b3e0-66f8-4352-b1b6-5db27435788f ip=10.24.26.63
+2026-08-31 09:29:40 INFO orders Cache hit key=product:7437 status=200 response_ms=101 request_id=20150568-be6f-40da-8857-e0491760264d ip=10.24.4.239
+2026-08-31 09:22:18 INFO inventory Database query completed rows=3947 status=200 response_ms=148 request_id=41af7d8b-0ea1-4503-b008-0311ff4af418 ip=10.24.1.244
+2026-08-31 09:37:15 ERROR database Authentication failed user_id=8183 status=401 response_ms=1800 request_id=993212a0-3232-45ed-a198-467a98dc5875 ip=10.24.26.75
+2026-08-31 09:14:56 DEBUG orders Health check passed status=200 response_ms=43 request_id=6491eaa5-b6d9-4fbb-accd-7b3146ec73d9 ip=10.24.21.78
+2026-08-31 09:22:27 DEBUG payments Health check passed status=200 response_ms=116 request_id=e75f3465-06c7-4fe5-b4fc-12f255e398da ip=10.24.26.97
+2026-08-31 09:15:00 INFO orders Database query completed rows=8851 status=200 response_ms=157 request_id=e312fd95-10f1-4691-b6e8-57e9beaa25a7 ip=10.24.13.137
+2026-08-31 09:37:35 ERROR inventory Database timeout host=db-primary status=504 response_ms=4900 request_id=145ec0ce-142c-4d6d-b0a7-89a97b3fc171 ip=10.24.23.230
+2026-08-31 09:15:04 INFO auth Fetched order order_id=c3bcba8b-e1be-4115-94d0-ca745c783ada status=200 response_ms=50 request_id=f6dfc062-d7b6-4d2a-8745-799747965d90 ip=10.24.21.157
+2026-08-31 09:15:06 DEBUG inventory Health check passed status=200 response_ms=92 request_id=257d2095-2111-4d97-8c16-266b91ba398b ip=10.24.26.111
+2026-08-31 09:15:08 INFO auth Request completed user_id=5239 status=200 response_ms=64 request_id=4c5aab94-5cab-4709-8201-1694361e0fb8 ip=10.24.17.192
+2026-08-31 09:22:45 INFO orders Cache hit key=product:7408 status=200 response_ms=126 request_id=24304b08-ac9a-47ce-9257-fc76225e8bb0 ip=10.24.25.174
+2026-08-31 09:22:48 INFO payments Request completed user_id=8909 status=200 response_ms=34 request_id=2543e0b7-2a1b-44f2-9233-2efc5d049140 ip=10.24.10.107
+2026-08-31 09:15:14 WARN auth Unexpected request path=/internal/debug status=404 response_ms=950 request_id=e0d2d568-6f54-49d5-9224-21ef43429ffd ip=10.24.12.80
+2026-08-31 09:30:32 INFO orders Fetched order order_id=e439e5ec-20dd-40c1-bb1d-f1758f62bf27 status=200 response_ms=131 request_id=94282fd1-9a4b-49f4-86a7-7932daeda33a ip=10.24.12.122
+2026-08-31 09:15:18 DEBUG orders Health check passed status=200 response_ms=89 request_id=9ee4b31c-5157-4755-bd4b-e74746c1b05a ip=10.24.3.77
+2026-08-31 09:15:20 INFO database Request completed user_id=1370 status=200 response_ms=95 request_id=578796e5-5f9c-4999-aaa6-5ef139c62362 ip=10.24.21.28
+2026-08-31 09:23:03 INFO database Fetched order order_id=359a6032-dd04-40c6-aa1a-b22e07de9c1e status=200 response_ms=52 request_id=894ad342-b748-4985-9a52-5fbaf4aad760 ip=10.24.18.41
+2026-08-31 09:30:48 INFO inventory Login successful user_id=8570 status=200 response_ms=67 request_id=ebd53e77-e6b9-4c75-bf4c-74bacca19130 ip=10.24.26.104
+2026-08-31 09:23:09 DEBUG api Health check passed status=200 response_ms=109 request_id=3df10c2c-abd5-4caf-aecc-6ef97dd44d93 ip=10.24.1.189
+2026-08-31 09:23:12 INFO orders Database query completed rows=8037 status=200 response_ms=107 request_id=f2f1363c-94ec-414f-b9eb-77b74f164eb4 ip=10.24.1.181
+2026-08-31 09:23:15 INFO api Cache hit key=product:2025 status=200 response_ms=155 request_id=7c124474-af26-43aa-ad9d-c7871a2cbee0 ip=10.24.4.205
+2026-08-31 09:23:18 ERROR payments Connection refused host=cache-prod status=503 response_ms=3200 request_id=5bb8a806-d709-46ba-83de-12b2937bffd2 ip=10.24.15.30
+2026-08-31 09:31:08 INFO database Login successful user_id=9646 status=200 response_ms=171 request_id=44f0ee82-53a3-4397-b6b3-21c216e2d51a ip=10.24.11.153
+2026-08-31 09:39:00 INFO inventory Login successful user_id=2871 status=200 response_ms=97 request_id=d789af54-7d31-4d79-8e41-cc67dee32d7a ip=10.24.12.217
+2026-08-31 09:39:05 INFO inventory Fetched order order_id=4b3b3aa0-4109-42c9-aa89-4d82c189ad82 status=200 response_ms=165 request_id=e9d2e64b-0646-4cc0-ae30-d601531c427b ip=10.24.19.22
+2026-08-31 09:23:30 INFO payments Request completed user_id=4908 status=200 response_ms=86 request_id=157b14b8-04fa-43ee-b99e-707bd612c896 ip=10.24.4.47
+2026-08-31 09:31:24 INFO database Fetched order order_id=15b84315-0579-4856-be1e-3e5f206068aa status=200 response_ms=107 request_id=3a874527-4067-41fe-91e1-5cd214f69b26 ip=10.24.14.153
+2026-08-31 09:23:36 INFO inventory Login successful user_id=7931 status=200 response_ms=55 request_id=b1dcd801-f442-4746-824b-8794179c9d2f ip=10.24.16.163
+2026-08-31 09:23:39 INFO inventory Fetched order order_id=e9c68410-c0c8-4768-94cf-15c5454bbc92 status=200 response_ms=81 request_id=2b80a556-3052-4953-97a6-e81d773eeedb ip=10.24.5.48
+2026-08-31 09:31:36 INFO orders Database query completed rows=1878 status=200 response_ms=99 request_id=0ae10091-bd4a-4d18-ad40-53e1299eec21 ip=10.24.1.125
+2026-08-31 09:23:45 INFO api Login successful user_id=9281 status=200 response_ms=175 request_id=7068f796-5490-492f-8093-78844e976b1e ip=10.24.16.105
+2026-08-31 09:39:40 WARN orders Unexpected request path=/internal/debug status=404 response_ms=950 request_id=3ab95d13-1698-47d6-86ca-da6fc1bd0f00 ip=10.24.16.43
+2026-08-31 09:15:54 INFO inventory Request completed user_id=4613 status=200 response_ms=82 request_id=f771f312-437c-423d-accd-1f8780c4ef14 ip=10.24.2.71
+2026-08-31 09:23:54 INFO inventory Cache hit key=product:3755 status=200 response_ms=125 request_id=b3a839f0-8aff-4d55-8ff3-24d6c37adf51 ip=10.24.19.191
+2026-08-31 09:39:55 INFO inventory Database query completed rows=2854 status=200 response_ms=154 request_id=a5ddc5ed-bdf1-43d0-b186-9be3c7ef78aa ip=10.24.4.69
+2026-08-31 09:32:00 INFO inventory Request completed user_id=8231 status=200 response_ms=147 request_id=5e1267f3-8e83-4047-a86a-2dd9512b1ac2 ip=10.24.7.254
+2026-08-31 09:40:05 DEBUG auth Health check passed status=200 response_ms=84 request_id=c4437bf3-1de2-4955-8863-1faa096642a0 ip=10.24.28.9
+2026-08-31 09:40:10 INFO payments Cache hit key=product:2425 status=200 response_ms=120 request_id=1985e1bb-735e-48bc-b8cf-24967fafe376 ip=10.24.28.31
+2026-08-31 09:24:09 DEBUG api Health check passed status=200 response_ms=164 request_id=0f3fc09f-78ff-4eee-ba48-ff7fc7d72994 ip=10.24.21.110
+2026-08-31 09:24:12 INFO inventory Fetched order order_id=755ce0af-7675-4cd4-98dd-0ba555943e94 status=200 response_ms=60 request_id=8ffa9cef-083d-43c4-b9be-777789775726 ip=10.24.26.16
+2026-08-31 09:32:20 INFO inventory Cache hit key=product:9827 status=200 response_ms=51 request_id=2b4fceb9-4b91-4ecd-a89a-edc9bb55b375 ip=10.24.11.251
+2026-08-31 09:32:24 INFO payments Database query completed rows=5380 status=200 response_ms=139 request_id=74218160-5641-46d6-8adc-fa7af8a9bfd1 ip=10.24.29.174
+2026-08-31 09:16:14 INFO api Login successful user_id=1971 status=200 response_ms=78 request_id=4744b320-9c52-4cfe-8200-f13ed5d8eadc ip=10.24.28.168
+2026-08-31 09:24:24 INFO database Fetched order order_id=9652e21c-60b3-4e18-9d16-b7627fb4a502 status=200 response_ms=45 request_id=997ad76a-582d-4ef4-a5dd-43d335c6e4e7 ip=10.24.23.83
+2026-08-31 09:24:27 INFO database Login successful user_id=9019 status=200 response_ms=44 request_id=46d50741-4055-4f0c-9637-f12e5cdc03fb ip=10.24.19.162
+2026-08-31 09:32:40 INFO database Login successful user_id=7146 status=200 response_ms=123 request_id=63156061-c3aa-40e2-9018-fb1c10342d7e ip=10.24.3.163
+2026-08-31 09:16:22 INFO orders Database query completed rows=5558 status=200 response_ms=102 request_id=82f70150-883f-4fe2-b3c9-1cde9a013f47 ip=10.24.15.244
+2026-08-31 09:41:00 INFO payments Database query completed rows=1040 status=200 response_ms=31 request_id=da41c4ed-fba2-4d33-b4ab-9296a92a28a2 ip=10.24.24.249
+2026-08-31 09:41:05 DEBUG database Health check passed status=200 response_ms=24 request_id=bd50cddc-713d-47e7-89cb-78f17425b3f2 ip=10.24.26.137
+2026-08-31 09:41:10 INFO api Login successful user_id=4470 status=200 response_ms=134 request_id=c94f59b2-d498-49f6-9443-f88737bba967 ip=10.24.9.83
+2026-08-31 09:33:00 INFO payments Database query completed rows=3139 status=200 response_ms=152 request_id=5df32602-2383-4ccb-9ac5-89834b44debe ip=10.24.28.125
+2026-08-31 09:33:04 INFO database Request completed user_id=1752 status=200 response_ms=33 request_id=d53dc347-b8de-4f42-a922-769153be5c2e ip=10.24.21.201
+2026-08-31 09:41:25 INFO auth Request completed user_id=3588 status=200 response_ms=120 request_id=5eb2229f-9baf-44de-9a34-f89a484ad13a ip=10.24.15.1
+2026-08-31 09:41:30 DEBUG api Health check passed status=200 response_ms=174 request_id=eb22f83c-5363-471a-b46f-e31d1cd0d8b9 ip=10.24.10.41
+2026-08-31 09:33:16 DEBUG auth Health check passed status=200 response_ms=72 request_id=cde6271b-de55-48d1-918b-5fc43af28e98 ip=10.24.3.96
+2026-08-31 09:25:00 INFO auth Login successful user_id=6005 status=200 response_ms=67 request_id=451548fd-b404-4e32-bfc3-dff1de31ebaa ip=10.24.14.168
+2026-08-31 09:16:42 ERROR database Database timeout host=db-primary status=504 response_ms=4900 request_id=d036aab2-dd66-4864-b967-c88275868334 ip=10.24.7.123
+2026-08-31 09:16:44 INFO api Database query completed rows=4705 status=200 response_ms=140 request_id=896bab16-a62b-4955-b107-f58f612c6862 ip=10.24.22.114
+2026-08-31 09:16:46 DEBUG auth Health check passed status=200 response_ms=38 request_id=e9ece70b-a7c2-4872-857e-6306ef1640f8 ip=10.24.28.109
+2026-08-31 09:25:12 INFO orders Request completed user_id=4751 status=200 response_ms=106 request_id=04aa3079-5b58-4d4e-8f3a-f4b8610e5dc7 ip=10.24.3.188
+2026-08-31 09:16:50 INFO auth Cache hit key=product:7022 status=200 response_ms=84 request_id=5ccca1dd-9c49-4615-a32e-a4bf8c696847 ip=10.24.5.98
+2026-08-31 09:25:18 DEBUG database Health check passed status=200 response_ms=25 request_id=6c06fee2-d720-44c3-b23b-789de329d060 ip=10.24.17.145
+2026-08-31 09:16:54 DEBUG inventory Health check passed status=200 response_ms=120 request_id=bc07fa39-fea0-479b-80e7-92bf19a72498 ip=10.24.12.185
+2026-08-31 09:25:24 DEBUG database Health check passed status=200 response_ms=113 request_id=a6d9271d-a5fc-4680-bc8b-1f750226d4c7 ip=10.24.20.176
+2026-08-31 09:42:25 INFO api Request completed user_id=2646 status=200 response_ms=43 request_id=f4a40c00-73c0-465a-85cc-51b3bfa14439 ip=10.24.25.32
+2026-08-31 09:42:30 INFO payments Login successful user_id=6152 status=200 response_ms=43 request_id=b55068b1-a16a-4abf-b55a-2878a75f586f ip=10.24.8.71
+2026-08-31 09:17:02 INFO api Database query completed rows=5668 status=200 response_ms=14 request_id=e4d3461e-8dd8-4859-85db-8aee5c175301 ip=10.24.28.217
+2026-08-31 09:34:08 INFO api Database query completed rows=9348 status=200 response_ms=56 request_id=28b386de-316a-40f7-baab-5873e975bdf7 ip=10.24.24.101
+2026-08-31 09:34:12 INFO database Request completed user_id=4921 status=200 response_ms=134 request_id=7e544fae-30d6-40c8-a5b9-270ca964d3f2 ip=10.24.13.29
+2026-08-31 09:25:42 DEBUG orders Health check passed status=200 response_ms=143 request_id=104ec74d-8578-4f19-9b9c-bbd8892cedb0 ip=10.24.29.251
+2026-08-31 09:17:10 INFO payments Cache hit key=product:3162 status=200 response_ms=107 request_id=adbfb618-d0a3-4973-9895-37e5cc618d19 ip=10.24.28.215
+2026-08-31 09:43:00 INFO payments Database query completed rows=3830 status=200 response_ms=128 request_id=b1957986-49d6-47a0-a69a-b3e711cfd444 ip=10.24.25.19
+2026-08-31 09:17:14 INFO inventory Request completed user_id=1225 status=200 response_ms=75 request_id=9588cf2a-fa1b-4b82-9506-bac33b78ecd9 ip=10.24.7.11
+2026-08-31 09:17:16 INFO orders Database query completed rows=5693 status=200 response_ms=168 request_id=1fdd3be9-b3fb-4cb1-8c6e-f5307010409f ip=10.24.23.129
+2026-08-31 09:43:15 DEBUG orders Health check passed status=200 response_ms=29 request_id=81806551-ecf7-4111-b8c1-a7b1a9a4f261 ip=10.24.21.138
+2026-08-31 09:26:00 INFO payments Request completed user_id=6077 status=200 response_ms=28 request_id=b33a392e-3230-4cdc-8c58-2c974afef062 ip=10.24.17.236
+2026-08-31 09:26:03 INFO api Database query completed rows=6353 status=200 response_ms=108 request_id=3b53be8e-2e07-4a2e-b6ed-11b0b68ac8e5 ip=10.24.19.163
+2026-08-31 09:17:24 DEBUG payments Health check passed status=200 response_ms=69 request_id=5239f09b-f941-4dcb-b495-1b14af417715 ip=10.24.2.63
+2026-08-31 09:17:26 INFO orders Request completed user_id=8428 status=200 response_ms=164 request_id=a2d7c008-4fc1-4c27-af83-5006dec0cce0 ip=10.24.20.15
+2026-08-31 09:34:56 DEBUG database Health check passed status=200 response_ms=38 request_id=34094e4a-7532-43e4-be02-e2a69f62ab06 ip=10.24.1.182
+2026-08-31 09:26:15 INFO database Request completed user_id=3684 status=200 response_ms=135 request_id=62a2a7e4-3846-4753-af58-b81d8b9a53b0 ip=10.24.12.134
+2026-08-31 09:35:04 INFO api Cache hit key=product:3079 status=200 response_ms=76 request_id=84ed7ea6-0384-4f40-b938-09f9f275e8cd ip=10.24.24.227
+2026-08-31 09:17:34 INFO auth Cache hit key=product:8034 status=200 response_ms=77 request_id=36fea670-9396-490d-abbe-f7f3c41b00ea ip=10.24.17.17
+2026-08-31 09:35:12 INFO database Database query completed rows=2262 status=200 response_ms=135 request_id=0d146a96-f1d4-45fa-a0a6-4dd0d8260ed3 ip=10.24.15.131
+2026-08-31 09:35:16 INFO auth Login successful user_id=3734 status=200 response_ms=102 request_id=7040a834-df5d-4ad2-8ef9-fef48cc1bc90 ip=10.24.6.66
+2026-08-31 09:17:40 DEBUG inventory Health check passed status=200 response_ms=66 request_id=2f7070aa-270d-4fda-8cce-8f1982b6ec0f ip=10.24.24.131
+2026-08-31 09:17:42 INFO auth Request completed user_id=5006 status=200 response_ms=19 request_id=71f2a0d4-65cf-4b97-916d-09d057f08a3f ip=10.24.16.94
+2026-08-31 09:44:20 INFO api Fetched order order_id=96feb1a0-4c58-476d-a7bf-71e92dc7a7b1 status=200 response_ms=149 request_id=0356aff4-663e-4d99-bb3d-961ea43a189a ip=10.24.26.234
+2026-08-31 09:44:25 INFO api Cache hit key=product:5067 status=200 response_ms=114 request_id=c522d37b-1d33-4621-9a71-0dcfe8cf6c62 ip=10.24.30.185
+2026-08-31 09:35:36 INFO payments Request completed user_id=7108 status=200 response_ms=38 request_id=51d8e59d-3614-43b4-b10a-cbf0df5a05aa ip=10.24.17.173
+2026-08-31 09:17:50 INFO api Fetched order order_id=1afdfd12-4f58-473c-986e-f4936a898ab2 status=200 response_ms=19 request_id=05bb287c-2c87-4f3d-8cd3-efa53c26301a ip=10.24.13.18
+2026-08-31 09:44:40 INFO payments Cache hit key=product:6362 status=200 response_ms=30 request_id=fdcd2c3a-e1ca-4d79-abfe-8c845acc5c3a ip=10.24.18.117
+2026-08-31 09:17:54 INFO payments Fetched order order_id=ffe24d22-123f-493b-b710-036df9ce54b6 status=200 response_ms=152 request_id=780c6ed9-cad0-40b1-b348-cd87bbfa501f ip=10.24.26.78
+2026-08-31 09:26:54 INFO orders Cache hit key=product:9083 status=200 response_ms=58 request_id=764f2c20-4dd3-41a1-b63d-bc4399dc16e1 ip=10.24.24.231
+2026-08-31 09:26:57 INFO api Request completed user_id=7718 status=200 response_ms=14 request_id=c692bbdc-c808-4162-890b-e0a7593f62b7 ip=10.24.8.139
+2026-08-31 09:36:00 DEBUG database Health check passed status=200 response_ms=93 request_id=0fcf9d73-6ace-4e99-a6cf-6afa47ced0cd ip=10.24.1.195
+2026-08-31 09:45:05 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=34e81a9f-2db2-48e3-8971-af22bcf75e06 ip=10.24.4.53
+2026-08-31 09:27:06 INFO orders Login successful user_id=1981 status=200 response_ms=44 request_id=0fd22be4-d901-4f07-9336-42f48d3ff438 ip=10.24.23.72
+2026-08-31 09:18:06 INFO auth Fetched order order_id=91c9ca4c-bec6-4a19-bbec-b3c438564257 status=200 response_ms=113 request_id=71656194-64c4-4603-89bf-672dcebed186 ip=10.24.23.230
+2026-08-31 09:36:16 DEBUG orders Health check passed status=200 response_ms=156 request_id=34529e0c-d173-4b66-a298-2fc65cfebfff ip=10.24.4.130
+2026-08-31 09:27:15 INFO database Login successful user_id=2226 status=200 response_ms=159 request_id=98630b09-f5e5-4b72-8bc3-d99f88e56f22 ip=10.24.19.16
+2026-08-31 09:45:30 ERROR database Authentication failed user_id=4879 status=401 response_ms=1800 request_id=f2d320e4-8aa7-449e-8b6b-45fc0750117a ip=10.24.10.67
+2026-08-31 09:36:28 DEBUG orders Health check passed status=200 response_ms=89 request_id=f6ce5cc9-dd15-470e-a731-caa2e30e2f56 ip=10.24.15.70
+2026-08-31 09:27:24 INFO auth Fetched order order_id=30dc7ec5-53fe-4aeb-bd20-954aaa15b480 status=200 response_ms=157 request_id=4d28f06d-01c8-4794-9c56-e8fa4b52ca67 ip=10.24.4.40
+2026-08-31 09:18:18 INFO api Login successful user_id=8635 status=200 response_ms=88 request_id=5ab5017d-ed36-47ef-9fe0-876133d7f905 ip=10.24.14.31
+2026-08-31 09:36:40 INFO api Login successful user_id=6051 status=200 response_ms=126 request_id=49b9ec86-b04b-4eb0-a8ac-fbe45b814f2c ip=10.24.9.219
+2026-08-31 09:18:22 INFO auth Fetched order order_id=5cf54b79-0f99-4091-a19a-fdf01408d541 status=200 response_ms=162 request_id=a4db9955-9585-4eab-a995-bb2efeacccb2 ip=10.24.2.56
+2026-08-31 09:36:48 INFO api Request completed user_id=5066 status=200 response_ms=99 request_id=cb9aa14b-95aa-42c2-add2-8822b646ef20 ip=10.24.13.132
+2026-08-31 09:18:26 INFO database Cache hit key=product:5262 status=200 response_ms=52 request_id=5c53a3da-99df-45c2-8d77-124d76bfc076 ip=10.24.1.244
+2026-08-31 09:46:10 INFO orders Database query completed rows=5093 status=200 response_ms=32 request_id=518425ad-cb1c-4d82-8a5f-78b8f0f8b523 ip=10.24.15.27
+2026-08-31 09:27:45 INFO auth Request completed user_id=2010 status=200 response_ms=64 request_id=80160f78-fbc5-469c-aac9-aef3b6954fee ip=10.24.5.51
+2026-08-31 09:46:20 DEBUG payments Health check passed status=200 response_ms=157 request_id=521aa052-3823-4a0e-b1fd-c67df81df357 ip=10.24.19.67
+2026-08-31 09:18:34 INFO auth Request completed user_id=4239 status=200 response_ms=173 request_id=01196878-72a6-479a-9eef-8a721160db5e ip=10.24.15.208
+2026-08-31 09:27:54 INFO auth Cache hit key=product:3007 status=200 response_ms=18 request_id=186fa123-39bf-4ba2-a8d2-54676d9e9d4a ip=10.24.15.13
+2026-08-31 09:27:57 INFO inventory Login successful user_id=7471 status=200 response_ms=135 request_id=b4e93385-521e-4141-a13b-b139a46e0592 ip=10.24.1.98
+2026-08-31 09:46:40 INFO api Cache hit key=product:4517 status=200 response_ms=55 request_id=34dc8454-97a0-444a-8181-0335412055e2 ip=10.24.9.72
+2026-08-31 09:46:45 INFO api Request completed user_id=5026 status=200 response_ms=173 request_id=24895e67-e3c8-47cf-8d1e-1f79a3874548 ip=10.24.10.128
+2026-08-31 09:46:50 INFO inventory Login successful user_id=1999 status=200 response_ms=30 request_id=bd8e9050-178e-4476-be9f-923f132384f5 ip=10.24.9.99
+2026-08-31 09:28:09 ERROR orders Authentication failed user_id=9614 status=401 response_ms=1800 request_id=d193a65d-2ea7-450f-8330-3b488c9e2177 ip=10.24.8.162
+2026-08-31 09:18:48 DEBUG orders Health check passed status=200 response_ms=130 request_id=197207c9-34b9-4749-a10a-6b05e2dca5dc ip=10.24.18.201
+2026-08-31 09:47:05 INFO payments Database query completed rows=9231 status=200 response_ms=90 request_id=41c17582-83f7-4bbf-b53a-68ef03035db0 ip=10.24.13.70
+2026-08-31 09:28:18 INFO auth Cache hit key=product:4588 status=200 response_ms=15 request_id=6fd2a141-441a-4372-81f1-2ca54cbc3dbb ip=10.24.29.208
+2026-08-31 09:37:48 INFO auth Login successful user_id=9674 status=200 response_ms=99 request_id=30fc3ca7-4b50-4f46-942b-7416dc9aa3aa ip=10.24.25.150
+2026-08-31 09:28:24 INFO api Request completed user_id=5060 status=200 response_ms=176 request_id=d94d57b8-2be5-4314-8d70-f9cacf412e13 ip=10.24.8.69
+2026-08-31 09:18:58 ERROR api Unhandled exception NullPointerException status=500 response_ms=2800 request_id=ee5ccfd7-1ce4-41cc-9b83-e171f5c46657 ip=10.24.12.240
+2026-08-31 09:28:30 INFO api Fetched order order_id=d2e5a5d1-5c48-4479-9e72-594a6737a4c3 status=200 response_ms=99 request_id=da3c5d90-690a-4bd2-b604-651c54927bd2 ip=10.24.30.152
+2026-08-31 09:19:02 DEBUG database Health check passed status=200 response_ms=153 request_id=4fa0f789-ae59-48db-932d-11cb185ea25e ip=10.24.19.37
+2026-08-31 09:28:36 INFO orders Database query completed rows=6063 status=200 response_ms=52 request_id=a224580d-f965-4849-aaf1-79ef28b32844 ip=10.24.16.10
+2026-08-31 09:19:06 INFO auth Fetched order order_id=bbffa141-e22e-424c-b961-2edef4ad4dd4 status=200 response_ms=13 request_id=cd2d5cdf-99a2-4653-9d8e-9c8fddad5e57 ip=10.24.17.123
+2026-08-31 09:19:08 INFO payments Database query completed rows=4300 status=200 response_ms=41 request_id=070063d8-25fe-4fd8-a807-6e51f5638709 ip=10.24.11.184
+2026-08-31 09:28:45 INFO payments Request completed user_id=1359 status=200 response_ms=45 request_id=c284408e-885a-403c-8a5e-48648c4ce27a ip=10.24.19.181
+2026-08-31 09:28:48 INFO auth Database query completed rows=6978 status=200 response_ms=26 request_id=e8be077c-4f72-407e-bed7-684b4f7dc343 ip=10.24.12.181
+2026-08-31 09:48:05 INFO inventory Request completed user_id=6514 status=200 response_ms=85 request_id=d69fc28e-0eff-4f73-aadf-b18cf0033d14 ip=10.24.11.35
+2026-08-31 09:28:54 INFO database Login successful user_id=8982 status=200 response_ms=174 request_id=9d81f6b7-0946-420e-8013-24b27a474418 ip=10.24.11.45
+2026-08-31 09:38:36 DEBUG api Health check passed status=200 response_ms=104 request_id=60d8943a-6c29-43e7-8939-dd8438ca40c5 ip=10.24.10.188
+2026-08-31 09:38:40 INFO api Fetched order order_id=8ea0340b-05f9-41db-962e-21d41e54179d status=200 response_ms=154 request_id=6845a01b-0c86-45f4-8e5d-ba96bc4e7ea7 ip=10.24.13.218
+2026-08-31 09:19:22 INFO api Database query completed rows=6213 status=200 response_ms=164 request_id=30677a3e-96b1-4cac-a8da-f867a6c535d6 ip=10.24.8.164
+2026-08-31 09:19:24 INFO orders Fetched order order_id=74a560f4-e530-419d-bddf-645e9dd5702f status=200 response_ms=27 request_id=e616aac9-963e-460a-99c9-259c94b2a4f1 ip=10.24.8.89
+2026-08-31 09:38:52 DEBUG api Health check passed status=200 response_ms=179 request_id=c3696422-defe-4ae9-ba43-9cdb5942d797 ip=10.24.21.187
+2026-08-31 09:38:56 INFO orders Request completed user_id=5345 status=200 response_ms=61 request_id=253172ab-f0bc-43c4-b8e2-a1899fcac238 ip=10.24.8.178
+2026-08-31 09:19:30 INFO payments Cache hit key=product:2770 status=200 response_ms=8 request_id=5852d120-5a7a-4d00-9ff1-470005507c5a ip=10.24.2.99
+2026-08-31 09:48:50 INFO database Login successful user_id=3725 status=200 response_ms=113 request_id=7c931f38-e702-47d1-bc5b-c4ed5d2cf3fc ip=10.24.16.226
+2026-08-31 09:48:55 INFO payments Database query completed rows=7149 status=200 response_ms=33 request_id=be077448-855a-4026-b2f4-f324a5de68db ip=10.24.27.123
+2026-08-31 09:29:24 INFO api Login successful user_id=2207 status=200 response_ms=16 request_id=e2b4e0a4-de73-4c7b-9b42-a9028f44bddd ip=10.24.10.6
+2026-08-31 09:39:16 INFO payments Request completed user_id=2215 status=200 response_ms=95 request_id=67bfab5f-cb17-4c0b-8a83-647416226f7b ip=10.24.6.228
+2026-08-31 09:49:10 DEBUG api Health check passed status=200 response_ms=148 request_id=7026a658-3035-4e01-93b4-1394bd072740 ip=10.24.29.251
+2026-08-31 09:19:42 INFO payments Database query completed rows=8909 status=200 response_ms=15 request_id=1b950eb0-eb00-47ac-a70c-b0e779955e42 ip=10.24.14.242
+2026-08-31 09:29:36 CRITICAL inventory Payment processor unavailable status=503 response_ms=7100 request_id=310285d3-a073-4792-a658-3d65035ae104 ip=10.24.2.26
+2026-08-31 09:39:32 INFO api Fetched order order_id=98f67898-e46a-4ea1-98ba-f6a9785cfa4b status=200 response_ms=149 request_id=ea703eb3-1989-4489-a054-d6c0a8e0417d ip=10.24.24.237
+2026-08-31 09:39:36 INFO database Cache hit key=product:5872 status=200 response_ms=68 request_id=fe31ecd8-75ae-4c4f-97e4-277d6c2373cf ip=10.24.4.13
+2026-08-31 09:49:35 INFO inventory Database query completed rows=9043 status=200 response_ms=47 request_id=d85ad59b-d041-4a36-8289-b1118c2d9237 ip=10.24.2.93
+2026-08-31 09:19:52 INFO orders Request completed user_id=5825 status=200 response_ms=177 request_id=f8e0b51f-a4bc-46e6-a633-bcb8ad4fdb4d ip=10.24.21.154
+2026-08-31 09:49:45 INFO api Request completed user_id=1421 status=200 response_ms=60 request_id=7ab3fb97-8634-4e02-9765-0601b5b05ed5 ip=10.24.6.164
+2026-08-31 09:39:52 INFO auth Login successful user_id=2892 status=200 response_ms=86 request_id=628e168d-4aab-48bf-9934-71e642dc3ebf ip=10.24.26.102
+2026-08-31 09:49:55 DEBUG orders Health check passed status=200 response_ms=31 request_id=2b786db0-e352-4c91-a6b9-1f9104ad4a8b ip=10.24.21.140
+2026-08-31 09:50:00 ERROR api Connection refused host=cache-prod status=503 response_ms=3200 request_id=ee14525e-e544-4731-8dc0-ee33dc51b633 ip=10.24.12.48
+2026-08-31 09:50:05 INFO auth Cache hit key=product:8204 status=200 response_ms=127 request_id=c1556d99-7ff3-47a6-9305-cefed1113aa2 ip=10.24.9.58
+2026-08-31 09:40:08 INFO inventory Request completed user_id=3476 status=200 response_ms=178 request_id=052e6739-9f65-41d8-823c-c96185bd60d7 ip=10.24.4.22
+2026-08-31 09:40:12 INFO inventory Login successful user_id=4727 status=200 response_ms=149 request_id=a537a59a-4013-4a72-960b-3b22d9e93d95 ip=10.24.2.216
+2026-08-31 09:50:20 INFO inventory Login successful user_id=9773 status=200 response_ms=129 request_id=017027cf-b8bf-4dbf-97e7-d4569778eaff ip=10.24.19.226
+2026-08-31 09:30:15 INFO orders Cache hit key=product:2293 status=200 response_ms=109 request_id=462afb60-bf60-4bd2-9098-ed8191cbbfb8 ip=10.24.29.219
+2026-08-31 09:20:12 INFO inventory Database query completed rows=9467 status=200 response_ms=154 request_id=bb1c0f27-c21f-4fd1-ac30-5b324a1cdc62 ip=10.24.22.252
+2026-08-31 09:30:21 INFO auth Login successful user_id=3832 status=200 response_ms=50 request_id=f9c17f75-1f0a-4b34-b357-e575daa28b8c ip=10.24.7.207
+2026-08-31 09:30:24 INFO api Request completed user_id=7936 status=200 response_ms=28 request_id=9fa8fdfe-c610-492c-a7c6-4f5c848732c3 ip=10.24.22.112
+2026-08-31 09:30:27 INFO database Fetched order order_id=2f0237bf-b27d-4c63-b311-0e3f89174b57 status=200 response_ms=89 request_id=af0f8a58-e524-40ef-a2cc-fcd2d21896d3 ip=10.24.30.187
+2026-08-31 09:20:20 INFO auth Login successful user_id=7510 status=200 response_ms=149 request_id=91c3faaa-97ac-4fff-b020-3d37798f2c7c ip=10.24.11.220
+2026-08-31 09:40:44 INFO inventory Login successful user_id=1202 status=200 response_ms=167 request_id=0cebe68f-56a9-400f-b188-bcc87fce3c92 ip=10.24.19.134
+2026-08-31 09:51:00 INFO auth Login successful user_id=3451 status=200 response_ms=45 request_id=f20ef17d-a312-4bbb-9c92-fcca239f3027 ip=10.24.19.151
+2026-08-31 09:20:26 INFO auth Database query completed rows=2654 status=200 response_ms=81 request_id=a0bba7bb-a480-4530-adff-290b4e8ed8a9 ip=10.24.28.138
+2026-08-31 09:40:56 INFO orders Cache hit key=product:7275 status=200 response_ms=175 request_id=c9520137-c6a5-4c22-942a-fb282375ae01 ip=10.24.16.147
+2026-08-31 09:51:15 INFO auth Fetched order order_id=25961be6-f86a-4021-a62f-b570bd3f7c40 status=200 response_ms=111 request_id=540e6b72-3269-4eeb-975f-3b46f2ac14a9 ip=10.24.5.159
+2026-08-31 09:51:20 INFO auth Login successful user_id=6431 status=200 response_ms=68 request_id=21a024ad-0867-4cb9-ab3d-557a4fe403e5 ip=10.24.2.191
+2026-08-31 09:51:25 INFO payments Cache hit key=product:1331 status=200 response_ms=94 request_id=ba5bf5ef-3561-4d61-9c02-54e59fe5d581 ip=10.24.27.204
+2026-08-31 09:41:12 INFO payments Cache hit key=product:9054 status=200 response_ms=33 request_id=d9ed066b-6149-4dfd-8e29-306e1e7e9965 ip=10.24.28.59
+2026-08-31 09:30:57 DEBUG payments Health check passed status=200 response_ms=90 request_id=e641dfed-2a1f-461d-99b1-060585534d79 ip=10.24.9.187
+2026-08-31 09:51:40 DEBUG inventory Health check passed status=200 response_ms=56 request_id=cd75b358-8568-4959-845b-4c1542a961d4 ip=10.24.15.55
+2026-08-31 09:51:45 INFO database Login successful user_id=9462 status=200 response_ms=103 request_id=3aebf91e-1165-4698-9ded-567ac58187f9 ip=10.24.27.15
+2026-08-31 09:31:06 INFO auth Cache hit key=product:9303 status=200 response_ms=111 request_id=61d8a5d6-24d9-449d-971c-7b4491cde2e6 ip=10.24.5.200
+2026-08-31 09:20:46 INFO api Fetched order order_id=18905cbe-921f-4769-a5ca-79bdac24c87d status=200 response_ms=22 request_id=271f8ec1-2416-4462-9705-ab92009c0754 ip=10.24.8.9
+2026-08-31 09:52:00 INFO auth Cache hit key=product:4262 status=200 response_ms=78 request_id=6e6df657-eb67-408f-9c87-dcb027a32fa9 ip=10.24.12.211
+2026-08-31 09:52:05 INFO inventory Login successful user_id=3029 status=200 response_ms=15 request_id=888cb53e-dd00-46e9-8ccc-f3201c2717df ip=10.24.8.96
+2026-08-31 09:52:10 INFO inventory Login successful user_id=3909 status=200 response_ms=129 request_id=5c8408e8-fdc3-4cd9-99c3-31eecedf0981 ip=10.24.19.142
+2026-08-31 09:41:48 INFO payments Fetched order order_id=0923ac94-ff14-4ef8-a5d6-adbe98c15fe0 status=200 response_ms=31 request_id=c1355807-02d8-4e45-9670-50ad3ba3b8d6 ip=10.24.10.8
+2026-08-31 09:52:20 INFO auth Fetched order order_id=20e98b19-cc03-4bc0-873b-074ef8ab2259 status=200 response_ms=64 request_id=b8d4415a-8258-4462-ad88-b0b78f68c733 ip=10.24.21.58
+2026-08-31 09:31:27 DEBUG payments Health check passed status=200 response_ms=139 request_id=274cbd0a-3683-42ca-bffa-f37b88e4f18e ip=10.24.1.222
+2026-08-31 09:21:00 INFO orders Fetched order order_id=87af928d-bed9-40c4-b998-60301ec9cbfa status=200 response_ms=161 request_id=3362c722-2270-404d-97aa-f17c9ceb16ba ip=10.24.26.3
+2026-08-31 09:31:33 INFO payments Database query completed rows=6004 status=200 response_ms=172 request_id=a5256ff1-7c43-44ba-9313-cdfa82de7624 ip=10.24.9.109
+2026-08-31 09:52:40 INFO payments Login successful user_id=5128 status=200 response_ms=63 request_id=43370aa1-c2d4-4d98-b0d3-199c54e98b3a ip=10.24.15.78
+2026-08-31 09:52:45 INFO inventory Request completed user_id=1120 status=200 response_ms=138 request_id=d01a24c2-0331-4a48-bdc3-5a1564403d8d ip=10.24.22.248
+2026-08-31 09:42:16 DEBUG inventory Health check passed status=200 response_ms=84 request_id=bf4f02c3-de98-499f-8b6b-ca6cd115f17c ip=10.24.22.28
+2026-08-31 09:52:55 INFO auth Cache hit key=product:5529 status=200 response_ms=171 request_id=55b542bf-9318-4330-af23-048b4e6e2a9a ip=10.24.11.221
+2026-08-31 09:42:24 DEBUG payments Health check passed status=200 response_ms=56 request_id=fb341836-2148-419f-812c-0a6950a1720c ip=10.24.5.133
+2026-08-31 09:31:51 INFO auth Database query completed rows=7620 status=200 response_ms=177 request_id=3467db25-f4b9-449f-9348-11c76ce6ca4f ip=10.24.11.175
+2026-08-31 09:31:54 INFO database Request completed user_id=9148 status=200 response_ms=83 request_id=a8719fda-8d07-4d97-88a7-72672c118282 ip=10.24.9.233
+2026-08-31 09:53:15 INFO orders Login successful user_id=1578 status=200 response_ms=157 request_id=293c9222-3f0b-4dad-8156-7af5f5626275 ip=10.24.23.147
+2026-08-31 09:32:00 DEBUG payments Health check passed status=200 response_ms=144 request_id=9bda5c77-503b-4f0e-8163-988c12be5d2a ip=10.24.21.201
+2026-08-31 09:53:25 INFO database Cache hit key=product:9311 status=200 response_ms=84 request_id=cdf995de-acef-4b4d-b35d-4ae3c6316356 ip=10.24.28.44
+2026-08-31 09:32:06 INFO payments Request completed user_id=8713 status=200 response_ms=40 request_id=48e9b924-5744-463a-bd65-96f3d76f576b ip=10.24.24.67
+2026-08-31 09:32:09 INFO database Cache hit key=product:2463 status=200 response_ms=64 request_id=c1d33e52-3742-4262-88d0-f857ea749991 ip=10.24.12.58
+2026-08-31 09:42:56 INFO orders Cache hit key=product:7089 status=200 response_ms=74 request_id=d7f1df81-c141-4e7b-a4d3-483312650e2d ip=10.24.19.76
+2026-08-31 09:53:45 INFO auth Login successful user_id=1879 status=200 response_ms=170 request_id=4d60d57c-6bb1-406a-a8ac-ac541fd5efa7 ip=10.24.19.149
+2026-08-31 09:21:32 INFO orders Fetched order order_id=fc7a2d7d-2a31-413c-9334-5d9c410fbeaf status=200 response_ms=38 request_id=1442086d-ccb2-49cb-84d6-461f54e3eb3b ip=10.24.28.175
+2026-08-31 09:53:55 INFO inventory Cache hit key=product:7768 status=200 response_ms=21 request_id=9b8be6cd-532e-47c7-bc5e-f40b4857ad31 ip=10.24.28.219
+2026-08-31 09:32:24 INFO api Fetched order order_id=94aeef94-b9fc-4e6a-9bdd-07dacc89bf5f status=200 response_ms=112 request_id=e664af6e-0b30-49bb-9e67-f3b5446039a7 ip=10.24.19.229
+2026-08-31 09:54:05 INFO api Cache hit key=product:3954 status=200 response_ms=28 request_id=b62902aa-d1fd-4124-9de3-bfa0bf4c5b9e ip=10.24.16.86
+2026-08-31 09:32:30 DEBUG payments Health check passed status=200 response_ms=9 request_id=7483f33b-d709-4f4d-870e-cd40cca088fd ip=10.24.15.71
+2026-08-31 09:32:33 INFO api Database query completed rows=3595 status=200 response_ms=133 request_id=46f0b15d-1b0a-4ffe-b5cc-aaa8f933a7f9 ip=10.24.26.196
+2026-08-31 09:21:44 INFO api Database query completed rows=8105 status=200 response_ms=170 request_id=323a454b-524f-42d5-ab21-a4833ab0b926 ip=10.24.14.104
+2026-08-31 09:54:25 INFO orders Login successful user_id=1076 status=200 response_ms=17 request_id=3897709f-b079-4c22-80b7-41ac9c04c9e2 ip=10.24.18.52
+2026-08-31 09:43:36 INFO auth Cache hit key=product:9700 status=200 response_ms=56 request_id=5527e698-4965-4099-b066-1ad32d971bf0 ip=10.24.1.174
+2026-08-31 09:21:50 DEBUG database Health check passed status=200 response_ms=65 request_id=b280a05d-8d89-440f-b7e0-4391cd4d61af ip=10.24.23.225
+2026-08-31 09:43:44 INFO payments Fetched order order_id=c6c6ba49-ab47-43e3-9b81-1a18dba59741 status=200 response_ms=106 request_id=ba88aadb-4dbe-4c74-a0b8-3a62e276cd31 ip=10.24.17.151
+2026-08-31 09:43:48 INFO api Request completed user_id=1749 status=200 response_ms=84 request_id=59cfcee5-b8a6-4dd2-90e9-4440b91aaeca ip=10.24.10.117
+2026-08-31 09:43:52 DEBUG orders Health check passed status=200 response_ms=95 request_id=a6f54323-8a66-4d20-911b-12316dba1d64 ip=10.24.29.126
+2026-08-31 09:43:56 INFO api Fetched order order_id=fc9b1c6f-47da-481c-af0d-7b15dbd656b8 status=200 response_ms=12 request_id=0a63dca3-a5bd-420e-9e4a-0d7a9971a618 ip=10.24.8.58
+2026-08-31 09:33:00 DEBUG api Health check passed status=200 response_ms=158 request_id=48ed0e0b-f0e5-4a05-85e0-89181b8148fa ip=10.24.17.44
+2026-08-31 09:22:02 DEBUG payments Health check passed status=200 response_ms=104 request_id=801543aa-9adc-4df3-9585-b6316198e8c0 ip=10.24.29.164
+2026-08-31 09:44:08 INFO inventory Database query completed rows=1796 status=200 response_ms=160 request_id=683fb338-1509-449e-a225-24e46b63132c ip=10.24.2.170
+2026-08-31 09:22:06 INFO database Request completed user_id=1790 status=200 response_ms=37 request_id=61c1e60c-6d89-4466-bfc2-51a340247505 ip=10.24.14.114
+2026-08-31 09:55:20 INFO auth Database query completed rows=5140 status=200 response_ms=129 request_id=c8e7e80d-e5a7-47ad-9ac9-38ec8d0c15cb ip=10.24.23.40
+2026-08-31 09:33:15 DEBUG database Health check passed status=200 response_ms=85 request_id=619c9451-4309-49a9-875e-35bb116d74ba ip=10.24.14.170
+2026-08-31 09:22:12 INFO database Database query completed rows=5423 status=200 response_ms=167 request_id=d7080413-acd5-48c6-98e6-cb0726de7a71 ip=10.24.20.180
+2026-08-31 09:33:21 INFO orders Request completed user_id=9381 status=200 response_ms=166 request_id=b6dad2fd-cf22-4ae8-af0c-afe714b0e565 ip=10.24.4.73
+2026-08-31 09:22:16 INFO auth Login successful user_id=4254 status=200 response_ms=163 request_id=3920667f-d693-4c7e-9d2d-879e9a216300 ip=10.24.7.200
+2026-08-31 09:44:36 INFO inventory Fetched order order_id=45cade1f-46dc-429d-84d7-8bdf0609e707 status=200 response_ms=112 request_id=244e29d0-1605-4c6d-a97a-2fa190567951 ip=10.24.10.42
+2026-08-31 09:22:20 INFO inventory Login successful user_id=4402 status=200 response_ms=131 request_id=2b28c476-2926-4959-ac02-51794ff441f4 ip=10.24.11.61
+2026-08-31 09:22:22 DEBUG auth Health check passed status=200 response_ms=36 request_id=badfc2eb-07c0-4bc5-97cc-5d9088eac9f1 ip=10.24.27.147
+2026-08-31 09:56:00 INFO api Request completed user_id=9383 status=200 response_ms=27 request_id=a67f9a6d-4ffe-44c0-82bb-d61ded7f8069 ip=10.24.24.186
+2026-08-31 09:22:26 DEBUG payments Health check passed status=200 response_ms=124 request_id=805da00c-873b-4d4f-a85f-75e93e5f9fb5 ip=10.24.10.68
+2026-08-31 09:56:10 INFO auth Request completed user_id=3862 status=200 response_ms=18 request_id=e07132d1-5e3b-4563-bbbb-7693e078384d ip=10.24.28.75
+2026-08-31 09:45:00 INFO database Cache hit key=product:7979 status=200 response_ms=37 request_id=3e1d4db9-80c0-4ca9-873d-78c057882393 ip=10.24.4.218
+2026-08-31 09:22:32 INFO auth Fetched order order_id=b4bf06bb-3ec2-4bf3-b540-cfd32bc7cc39 status=200 response_ms=92 request_id=08f1c475-0e47-4411-b42f-55653e917aa9 ip=10.24.12.229
+2026-08-31 09:56:25 INFO inventory Cache hit key=product:2522 status=200 response_ms=103 request_id=827b61e2-1d51-4a8f-b0d4-797c02eca5f0 ip=10.24.27.88
+2026-08-31 09:33:54 INFO auth Login successful user_id=7557 status=200 response_ms=124 request_id=5376093a-2db9-48ce-b359-872f372b4c0e ip=10.24.9.214
+2026-08-31 09:56:35 INFO database Login successful user_id=7909 status=200 response_ms=174 request_id=eb021030-019c-441c-9f98-ed2ef67df52f ip=10.24.29.205
+2026-08-31 09:34:00 INFO auth Fetched order order_id=e72fe22c-3b85-404c-8b42-a5c28488698e status=200 response_ms=48 request_id=494c4e71-b173-4855-bd91-44b3d66a23d9 ip=10.24.4.107
+2026-08-31 09:56:45 DEBUG inventory Health check passed status=200 response_ms=54 request_id=bd18acf0-0d2b-4310-99b0-d4f0c048be43 ip=10.24.20.98
+2026-08-31 09:45:28 INFO inventory Request completed user_id=3140 status=200 response_ms=131 request_id=aa601afb-8ebd-4a70-b0a8-a75beab24d79 ip=10.24.30.125
+2026-08-31 09:22:46 INFO orders Login successful user_id=1753 status=200 response_ms=24 request_id=24758ff2-02a9-4515-8d03-ad577b5b00be ip=10.24.9.168
+2026-08-31 09:45:36 DEBUG auth Health check passed status=200 response_ms=155 request_id=e8e4687b-82a0-4923-afad-5b370270d062 ip=10.24.24.145
+2026-08-31 09:34:15 INFO database Cache hit key=product:9504 status=200 response_ms=141 request_id=ec49b347-e8ad-46de-b27e-84a38bdfe76b ip=10.24.23.180
+2026-08-31 09:22:52 DEBUG orders Health check passed status=200 response_ms=131 request_id=b78c0709-adc9-4605-b6aa-2995a42a3418 ip=10.24.12.170
+2026-08-31 09:57:15 INFO api Database query completed rows=1894 status=200 response_ms=10 request_id=6f973df5-9b01-4772-a5e0-656d61a56d1f ip=10.24.21.240
+2026-08-31 09:34:24 INFO inventory Login successful user_id=9123 status=200 response_ms=50 request_id=2c0361fa-e7e8-4792-a507-457bf66e849d ip=10.24.3.193
+2026-08-31 09:57:25 ERROR payments Authentication failed user_id=6421 status=401 response_ms=1800 request_id=333738f6-9f92-4ae2-8b88-fcfbbbd5f2ec ip=10.24.9.13
+2026-08-31 09:34:30 DEBUG inventory Health check passed status=200 response_ms=111 request_id=7ef16bf3-005d-4dcc-85dc-bd2df4c899d9 ip=10.24.27.61
+2026-08-31 09:23:02 INFO orders Login successful user_id=8341 status=200 response_ms=30 request_id=23dba6ae-c2a8-4bf2-a9fe-249dfa88ddac ip=10.24.28.128
+2026-08-31 09:57:40 INFO payments Request completed user_id=9148 status=200 response_ms=175 request_id=1dac9681-a6f5-4fa3-9c57-1200d42d9d4a ip=10.24.1.27
+2026-08-31 09:57:45 INFO orders Request completed user_id=9996 status=200 response_ms=8 request_id=d9e67150-7524-418c-aa4e-cf9e39f116ad ip=10.24.27.24
+2026-08-31 09:46:16 INFO inventory Database query completed rows=4389 status=200 response_ms=175 request_id=4898895a-34f7-4793-a8e4-50da457bdcd6 ip=10.24.22.117
+2026-08-31 09:46:20 INFO payments Request completed user_id=4652 status=200 response_ms=124 request_id=f140b1d2-f9d2-4194-9ad6-30484ed05511 ip=10.24.11.144
+2026-08-31 09:58:00 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=1cdd83d6-3e24-4529-8e77-e01932b0b3e2 ip=10.24.23.116
+2026-08-31 09:23:14 DEBUG auth Health check passed status=200 response_ms=8 request_id=abee9aca-efeb-4523-b336-9feb2705e7bc ip=10.24.11.91
+2026-08-31 09:46:32 INFO inventory Database query completed rows=7125 status=200 response_ms=35 request_id=27ffdf7c-0036-439e-b16a-760a258fa053 ip=10.24.2.230
+2026-08-31 09:34:57 INFO orders Fetched order order_id=6bbca99c-bb69-46b0-aa42-60f2c1d056fc status=200 response_ms=35 request_id=dfa941cc-d4e8-4f61-bd6d-8dd0f040c062 ip=10.24.9.157
+2026-08-31 09:35:00 INFO api Request completed user_id=7437 status=200 response_ms=63 request_id=cef12055-aa8c-440a-9062-6e047143372e ip=10.24.15.212
+2026-08-31 09:35:03 INFO database Cache hit key=product:2765 status=200 response_ms=114 request_id=b5801ba6-1e95-4027-8f33-9998167053ed ip=10.24.2.238
+2026-08-31 09:23:24 INFO orders Login successful user_id=9260 status=200 response_ms=42 request_id=5b002e68-5099-4f66-856a-c1c06586c4db ip=10.24.16.2
+2026-08-31 09:23:26 INFO inventory Login successful user_id=8912 status=200 response_ms=138 request_id=1c41f15f-a925-4097-943a-3b7ec228508e ip=10.24.25.236
+2026-08-31 09:35:12 ERROR database Unhandled exception NullPointerException status=500 response_ms=2800 request_id=558f7ca0-1033-4c9b-bb17-50faaef2ae02 ip=10.24.24.209
+2026-08-31 09:35:15 INFO auth Login successful user_id=6273 status=200 response_ms=137 request_id=45db1238-b7b4-4c9f-a03e-c565d9e2b46a ip=10.24.29.99
+2026-08-31 09:58:50 DEBUG inventory Health check passed status=200 response_ms=78 request_id=5e3f0909-a5b5-48f8-8a14-6a05884d7587 ip=10.24.13.247
+2026-08-31 09:47:08 INFO payments Login successful user_id=3185 status=200 response_ms=43 request_id=f69efc47-518a-4f8f-a360-330f50d008d5 ip=10.24.14.155
+2026-08-31 09:47:12 INFO database Database query completed rows=6143 status=200 response_ms=149 request_id=f4e25ffe-507e-4409-b476-fc85d0b49319 ip=10.24.21.56
+2026-08-31 09:35:27 INFO api Database query completed rows=5760 status=200 response_ms=96 request_id=f21ee6e2-fd69-461b-b567-9d7f6b05b984 ip=10.24.30.173
+2026-08-31 09:35:30 DEBUG database Health check passed status=200 response_ms=136 request_id=4390e478-5709-4eb4-9d99-87ceb571f345 ip=10.24.18.178
+2026-08-31 09:47:24 INFO database Request completed user_id=6771 status=200 response_ms=151 request_id=915ca0b3-11fb-45c2-96f2-4a18fd5fa6bc ip=10.24.16.150
+2026-08-31 09:59:20 DEBUG database Health check passed status=200 response_ms=81 request_id=8bcb1087-e5b0-4da8-aba8-91fc63ccf56f ip=10.24.29.217
+2026-08-31 09:59:25 INFO auth Database query completed rows=2744 status=200 response_ms=14 request_id=c5820e1d-3398-4ba3-a404-309d6ef0dd08 ip=10.24.13.38
+2026-08-31 09:23:48 INFO database Request completed user_id=4275 status=200 response_ms=76 request_id=c679caaa-452e-4a29-9b0b-72d767354c7d ip=10.24.25.202
+2026-08-31 09:35:45 DEBUG payments Health check passed status=200 response_ms=45 request_id=c576297e-ede9-4af5-8553-03ab5328f6ec ip=10.24.27.16
+2026-08-31 09:47:44 INFO api Database query completed rows=1529 status=200 response_ms=99 request_id=80c8e255-b542-4b9b-93ff-c9b057b9b8da ip=10.24.27.116
+2026-08-31 09:23:54 DEBUG inventory Health check passed status=200 response_ms=173 request_id=5ca62b70-d547-486f-86df-f295fc1b67a5 ip=10.24.18.100
+2026-08-31 09:35:54 DEBUG inventory Health check passed status=200 response_ms=178 request_id=3a2f7aaa-f05d-48b9-8807-d0160e3e9e94 ip=10.24.2.238
+2026-08-31 09:59:55 INFO orders Login successful user_id=6122 status=200 response_ms=149 request_id=31542af2-cca0-470e-804e-8f7fe344810b ip=10.24.2.4
+2026-08-31 09:48:00 INFO api Database query completed rows=8259 status=200 response_ms=65 request_id=43140805-0236-42a5-8a1d-8fabd4589729 ip=10.24.30.163
+2026-08-31 09:48:04 INFO inventory Database query completed rows=4218 status=200 response_ms=57 request_id=27e86144-6f16-4396-b0a1-af151c0a7cb3 ip=10.24.10.115
+2026-08-31 09:36:06 INFO database Request completed user_id=4063 status=200 response_ms=52 request_id=47ca259e-61a0-4679-95d3-3bbc0c95b877 ip=10.24.24.132
+2026-08-31 09:24:06 INFO orders Request completed user_id=8020 status=200 response_ms=79 request_id=ba60d788-c85b-4ffa-84df-16e82f10d620 ip=10.24.18.68
+2026-08-31 09:36:12 INFO api Database query completed rows=5178 status=200 response_ms=9 request_id=aae392db-8244-47d6-9107-2be01007ac3c ip=10.24.11.120
+2026-08-31 09:36:15 INFO auth Fetched order order_id=1b86a93b-1939-4352-b5d3-64627f2dd457 status=200 response_ms=160 request_id=32fe0341-0d8d-492d-9d72-aa39b39502c6 ip=10.24.2.199
+2026-08-31 09:48:24 INFO orders Database query completed rows=6866 status=200 response_ms=26 request_id=031e9c36-586a-4bd4-838a-f9cd59b6fefb ip=10.24.26.182
+2026-08-31 09:48:28 ERROR inventory Authentication failed user_id=4012 status=401 response_ms=1800 request_id=04997c53-2977-47a4-82b1-7fe9f3b17eaf ip=10.24.17.18
+2026-08-31 09:36:24 INFO orders Database query completed rows=9798 status=200 response_ms=111 request_id=4c1628fa-5d1a-4203-a950-ccb91b6d412b ip=10.24.3.90
+2026-08-31 09:36:27 DEBUG api Health check passed status=200 response_ms=92 request_id=7320aa95-20b8-42c4-8e4a-a4613996b669 ip=10.24.12.76
+2026-08-31 09:36:30 INFO inventory Database query completed rows=8780 status=200 response_ms=151 request_id=d5398e03-548d-4b2e-8d95-4546e2703499 ip=10.24.27.193
+2026-08-31 09:24:22 DEBUG auth Health check passed status=200 response_ms=122 request_id=051087e7-62fc-478e-9e48-d0d996c0cdb2 ip=10.24.8.232
+2026-08-31 09:36:36 DEBUG auth Health check passed status=200 response_ms=105 request_id=d5813ccd-ced6-4103-83ee-08293d21fe85 ip=10.24.30.204
+2026-08-31 09:24:26 INFO orders Cache hit key=product:9851 status=200 response_ms=80 request_id=c4423558-15e0-4088-bc97-b800b90f1913 ip=10.24.1.234
+2026-08-31 09:48:56 INFO inventory Database query completed rows=8300 status=200 response_ms=132 request_id=9055ae94-4d83-44e5-b05d-67bdebcb7089 ip=10.24.2.76
+2026-08-31 09:36:45 ERROR payments Unhandled exception NullPointerException status=500 response_ms=2800 request_id=db5cbec4-38af-4c5b-9d7c-1a81945e564d ip=10.24.4.43
+2026-08-31 09:24:32 INFO database Request completed user_id=4453 status=200 response_ms=179 request_id=0ca71522-ce07-4074-aaee-8276893f2c30 ip=10.24.21.199
+2026-08-31 09:36:51 INFO database Login successful user_id=2702 status=200 response_ms=60 request_id=cdc0944e-6330-423c-a491-c7073d048272 ip=10.24.18.213
+2026-08-31 10:01:30 INFO database Request completed user_id=3519 status=200 response_ms=14 request_id=fec136e0-20d3-4024-9ddc-be0e6dcb1e3d ip=10.24.15.184
+2026-08-31 09:49:16 INFO auth Request completed user_id=2200 status=200 response_ms=21 request_id=f6a80eba-375c-4de6-b664-c99c12c84660 ip=10.24.6.204
+2026-08-31 09:49:20 ERROR inventory Database timeout host=db-primary status=504 response_ms=4900 request_id=a890146d-214d-4c4b-82d9-78d25e8f57f3 ip=10.24.30.67
+2026-08-31 10:01:45 INFO orders Login successful user_id=7626 status=200 response_ms=118 request_id=f7175d85-1d88-4521-b445-36eba7df0663 ip=10.24.11.5
+2026-08-31 10:01:50 INFO database Request completed user_id=9762 status=200 response_ms=9 request_id=ae50495b-503f-40db-bde7-186f2b78e3f6 ip=10.24.21.185
+2026-08-31 09:24:46 INFO database Database query completed rows=1745 status=200 response_ms=26 request_id=d53363ea-102f-4be1-b095-255dd041a2e8 ip=10.24.12.238
+2026-08-31 09:24:48 DEBUG payments Health check passed status=200 response_ms=163 request_id=0170d881-404e-4b26-9fec-e5d01919fd3b ip=10.24.3.73
+2026-08-31 10:02:05 INFO orders Login successful user_id=1504 status=200 response_ms=129 request_id=642c60ac-25b7-4f10-ae2b-fce99dd7a32b ip=10.24.6.137
+2026-08-31 09:37:18 DEBUG api Health check passed status=200 response_ms=147 request_id=e4aac1dc-2446-4888-acae-c9c67d8b0844 ip=10.24.10.246
+2026-08-31 09:37:21 WARN payments Unexpected request path=/internal/debug status=404 response_ms=950 request_id=e0eca30e-7129-4178-b685-0e0468afa94a ip=10.24.1.142
+2026-08-31 09:37:24 INFO auth Request completed user_id=1082 status=200 response_ms=154 request_id=4f997426-5dc4-45dc-826b-8b18da839dee ip=10.24.20.101
+2026-08-31 09:24:58 INFO payments Fetched order order_id=2803859c-da7f-4668-bbf0-cd8737a3b78b status=200 response_ms=62 request_id=425326db-ece1-4fb0-b461-15fee988b3dd ip=10.24.14.232
+2026-08-31 09:37:30 INFO api Fetched order order_id=6f2934e1-92cc-4249-a421-ba36ba9a3531 status=200 response_ms=165 request_id=df62bc8c-8ec9-4f24-8716-60a911f24b17 ip=10.24.27.65
+2026-08-31 09:37:33 INFO auth Fetched order order_id=5683240e-f314-45a2-96fe-a8c45c6b573d status=200 response_ms=148 request_id=b6cc5cc9-8d97-45c7-a66a-532b36e39048 ip=10.24.15.166
+2026-08-31 09:25:04 DEBUG payments Health check passed status=200 response_ms=72 request_id=b757303d-8e79-4c58-bc92-9ddb5204a636 ip=10.24.4.51
+2026-08-31 10:02:45 INFO payments Cache hit key=product:3100 status=200 response_ms=179 request_id=a4e6757e-078b-4958-b564-289d834c6588 ip=10.24.21.61
+2026-08-31 09:25:08 INFO payments Database query completed rows=2143 status=200 response_ms=57 request_id=a83509b1-4fcd-4087-891b-c5542858e8c3 ip=10.24.11.125
+2026-08-31 10:02:55 INFO payments Database query completed rows=6008 status=200 response_ms=157 request_id=12af719f-9926-4aa3-a08b-3dd0d4a6654b ip=10.24.5.145
+2026-08-31 09:50:24 INFO payments Login successful user_id=3762 status=200 response_ms=9 request_id=6732e37c-49c2-4ec8-9202-895fbb1603ce ip=10.24.11.64
+2026-08-31 09:37:51 DEBUG database Health check passed status=200 response_ms=78 request_id=225a17d8-67b1-4db0-9482-6956a7ec76b8 ip=10.24.27.93
+2026-08-31 09:37:54 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=551da50c-ddac-4015-865a-fc76a14c3a35 ip=10.24.29.123
+2026-08-31 10:03:15 INFO orders Cache hit key=product:6004 status=200 response_ms=132 request_id=d0f16877-0349-4073-88a6-c875e56a52c6 ip=10.24.18.28
+2026-08-31 09:38:00 INFO database Database query completed rows=2343 status=200 response_ms=79 request_id=b1ca5f52-3f24-4de8-ba67-b23ba4c870ad ip=10.24.28.212
+2026-08-31 09:38:03 INFO inventory Fetched order order_id=4e1a3355-ae60-4e8e-b935-fe2285573cfd status=200 response_ms=168 request_id=caa14bb4-8b95-41dc-93c7-7a9d0ad36e8d ip=10.24.3.187
+2026-08-31 09:25:24 INFO auth Database query completed rows=1511 status=200 response_ms=156 request_id=99955881-cc5d-4a0f-8216-dd988692065c ip=10.24.19.104
+2026-08-31 09:38:09 INFO auth Database query completed rows=5269 status=200 response_ms=147 request_id=809cb174-3a69-4621-a8ef-1b3c97fff6e8 ip=10.24.29.139
+2026-08-31 10:03:40 INFO database Fetched order order_id=6978384a-f411-477d-92e5-40a4f15685cb status=200 response_ms=108 request_id=7e0f4ae4-5d86-4f75-93ee-c30be569c87b ip=10.24.8.229
+2026-08-31 09:51:00 INFO api Login successful user_id=9210 status=200 response_ms=138 request_id=2f3fec22-afbe-44c3-8cb3-149e828e525e ip=10.24.3.102
+2026-08-31 09:51:04 INFO inventory Request completed user_id=4913 status=200 response_ms=165 request_id=cc540ac0-9d4a-4007-93e3-a3c8c76e7c2d ip=10.24.22.43
+2026-08-31 09:38:21 INFO orders Fetched order order_id=ca8db2db-8add-4204-adcf-b8a7f53c2ad9 status=200 response_ms=152 request_id=27e7941f-46bb-49d3-b50c-7a2d8be41aaf ip=10.24.19.169
+2026-08-31 09:38:24 DEBUG database Health check passed status=200 response_ms=99 request_id=702e1609-9465-4466-b89f-1093672801c4 ip=10.24.2.57
+2026-08-31 10:04:05 INFO api Request completed user_id=5331 status=200 response_ms=102 request_id=9fa55c8f-bd9e-4ead-8fc0-6c389f411eb2 ip=10.24.8.11
+2026-08-31 09:38:30 INFO inventory Cache hit key=product:7358 status=200 response_ms=128 request_id=903cc29e-8a9b-469c-8c83-72daccb8e644 ip=10.24.30.117
+2026-08-31 09:25:42 DEBUG auth Health check passed status=200 response_ms=34 request_id=43ec05a2-eeb4-486b-afda-57e6dba084b7 ip=10.24.23.248
+2026-08-31 09:51:28 INFO database Cache hit key=product:9918 status=200 response_ms=153 request_id=933a48f2-ab51-4b5d-96ed-ccbde5041c5d ip=10.24.6.97
+2026-08-31 10:04:25 INFO payments Database query completed rows=2275 status=200 response_ms=140 request_id=f657d3e1-fd53-451f-bb3b-3be1b704f6b5 ip=10.24.9.97
+2026-08-31 09:38:42 INFO inventory Login successful user_id=6781 status=200 response_ms=96 request_id=d88dee1c-b4b4-43b4-b36f-fa9027fe2fd7 ip=10.24.16.203
+2026-08-31 10:04:35 ERROR inventory Database timeout host=db-primary status=504 response_ms=4900 request_id=1c39712b-f2a9-49e5-85ce-f59763338e8e ip=10.24.29.36
+2026-08-31 10:04:40 INFO api Fetched order order_id=91bf2201-7919-45d5-8e9d-a08fab1b6f64 status=200 response_ms=139 request_id=937ae884-118d-4403-a063-8b54baaba1a9 ip=10.24.21.72
+2026-08-31 09:38:51 INFO api Fetched order order_id=38b6d5d5-5c77-425e-87b0-ce51c691e6e2 status=200 response_ms=100 request_id=9155c16f-6843-4897-8146-bbd43addd4cb ip=10.24.20.184
+2026-08-31 09:25:56 ERROR database Authentication failed user_id=7793 status=401 response_ms=1800 request_id=c702f74f-cf1f-486e-b11b-d96795e32aba ip=10.24.26.85
+2026-08-31 09:25:58 DEBUG orders Health check passed status=200 response_ms=130 request_id=5dc1a5ff-d9c0-403e-b577-7df4ca36e181 ip=10.24.7.152
+2026-08-31 09:39:00 INFO database Login successful user_id=1367 status=200 response_ms=70 request_id=e753d556-cc38-4382-b3a7-065f79225e11 ip=10.24.2.33
+2026-08-31 09:39:03 DEBUG api Health check passed status=200 response_ms=18 request_id=48b79cdb-4095-48c7-8753-d824288bf863 ip=10.24.29.147
+2026-08-31 09:39:06 INFO auth Fetched order order_id=2a9761ba-3e30-49a4-ba31-03a38cdc7549 status=200 response_ms=54 request_id=7df33c96-8e02-441a-bc64-6a36273d6d22 ip=10.24.17.246
+2026-08-31 10:05:15 INFO inventory Database query completed rows=1305 status=200 response_ms=177 request_id=3df58a6b-d1f9-4d8e-a6fe-2bd0cfae2af5 ip=10.24.27.73
+2026-08-31 09:26:08 INFO api Login successful user_id=8723 status=200 response_ms=131 request_id=513edb39-5621-43e6-b3d0-19410039ab0b ip=10.24.6.57
+2026-08-31 10:05:25 INFO inventory Fetched order order_id=52cfa130-a4b8-4125-b897-279217ffb87d status=200 response_ms=167 request_id=8a555e13-2b7c-41de-b693-a6cf4fa6a342 ip=10.24.22.131
+2026-08-31 09:52:24 DEBUG api Health check passed status=200 response_ms=124 request_id=d6b41569-6a2a-439b-bbf6-b1dbaeb44690 ip=10.24.20.152
+2026-08-31 09:26:14 INFO api Login successful user_id=7315 status=200 response_ms=41 request_id=ed1f7ab4-0e16-434a-9ae2-8ce911e04cce ip=10.24.4.5
+2026-08-31 09:39:24 INFO inventory Database query completed rows=7877 status=200 response_ms=46 request_id=702c2654-1007-4ee3-bc17-d92f83955f6e ip=10.24.20.25
+2026-08-31 09:39:27 INFO orders Database query completed rows=1639 status=200 response_ms=144 request_id=341c3a23-7e0f-4c19-93a3-6c7c973c26a2 ip=10.24.17.193
+2026-08-31 09:26:20 INFO auth Login successful user_id=3135 status=200 response_ms=162 request_id=98b2d823-c206-45a5-8ec1-2ba62b6292a6 ip=10.24.18.212
+2026-08-31 09:26:22 DEBUG database Health check passed status=200 response_ms=141 request_id=1017bdcc-6ac6-4a84-9902-db8c110387f9 ip=10.24.14.95
+2026-08-31 09:26:24 INFO database Database query completed rows=8028 status=200 response_ms=66 request_id=4369fa75-8d73-4da7-a090-48796b719a24 ip=10.24.26.124
+2026-08-31 10:06:05 INFO payments Database query completed rows=2600 status=200 response_ms=116 request_id=63ea8d85-4d37-4666-98a9-1690972ac8ec ip=10.24.5.66
+2026-08-31 10:06:10 INFO api Request completed user_id=5641 status=200 response_ms=161 request_id=cea1593c-073f-46ba-b6ce-8fd3c614824d ip=10.24.29.140
+2026-08-31 10:06:15 INFO payments Fetched order order_id=e458c1a4-fe59-4737-9d89-ad2fc283f9d6 status=200 response_ms=9 request_id=43ef7443-4f65-4e0f-b22d-684c1ee78e94 ip=10.24.19.134
+2026-08-31 09:26:32 INFO inventory Request completed user_id=7144 status=200 response_ms=175 request_id=75fe945a-4241-43d1-b2e4-efa13db16577 ip=10.24.7.177
+2026-08-31 09:53:08 INFO orders Cache hit key=product:2746 status=200 response_ms=47 request_id=587cc525-9509-4379-ad0a-664a871f8ebf ip=10.24.14.167
+2026-08-31 09:53:12 INFO payments Database query completed rows=7939 status=200 response_ms=152 request_id=c19ef8cf-b4f6-400d-89ed-9fa2b2ec7bf5 ip=10.24.12.157
+2026-08-31 09:53:16 INFO database Login successful user_id=4337 status=200 response_ms=113 request_id=41db5af7-fb60-4b49-8ef1-ef9c2033807a ip=10.24.18.201
+2026-08-31 10:06:40 INFO api Cache hit key=product:8925 status=200 response_ms=72 request_id=83382771-03a2-430c-93d9-6308651a57b8 ip=10.24.10.148
+2026-08-31 09:53:24 INFO database Login successful user_id=3262 status=200 response_ms=176 request_id=6bb089cc-a63e-42a3-8280-84d6fecc52a6 ip=10.24.4.192
+2026-08-31 09:40:06 DEBUG orders Health check passed status=200 response_ms=33 request_id=0ad6d509-40a1-491c-8db9-c84ded2f257d ip=10.24.7.131
+2026-08-31 10:06:55 INFO payments Database query completed rows=1852 status=200 response_ms=49 request_id=a892d794-0331-4bc7-ad14-ca35043879f3 ip=10.24.13.247
+2026-08-31 09:26:48 INFO auth Fetched order order_id=d38f9ef1-5ba8-456b-809c-08f7a7f269bd status=200 response_ms=161 request_id=47fabf8c-1b05-4617-b1df-3e6d5eedde23 ip=10.24.14.23
+2026-08-31 09:26:50 INFO payments Fetched order order_id=bdfe0ed7-1ffa-49f2-8073-cf7902e91341 status=200 response_ms=28 request_id=5845b927-a2b7-467c-8464-abbabc63d42f ip=10.24.20.10
+2026-08-31 10:07:10 INFO orders Database query completed rows=9536 status=200 response_ms=81 request_id=f4b3a7b3-5305-41fb-a3c8-acadc5c7d57e ip=10.24.23.247
+2026-08-31 09:26:54 DEBUG api Health check passed status=200 response_ms=120 request_id=56f05b78-e604-4ee2-9210-a1d3ca985c7a ip=10.24.1.52
+2026-08-31 09:53:52 INFO api Request completed user_id=9364 status=200 response_ms=140 request_id=ba37ef31-cba6-4940-bb34-58d0173ad5cd ip=10.24.23.60
+2026-08-31 09:40:27 INFO database Request completed user_id=6893 status=200 response_ms=69 request_id=03891626-781b-43ab-bea9-40248cc268f1 ip=10.24.21.1
+2026-08-31 09:40:30 INFO auth Cache hit key=product:7544 status=200 response_ms=98 request_id=3c427457-bbae-4b28-b814-83c9aaf4fe2e ip=10.24.22.102
+2026-08-31 10:07:35 INFO inventory Fetched order order_id=292f3416-62f6-4007-be71-334bb2beef95 status=200 response_ms=11 request_id=4ec9e92c-636d-4aae-af37-67f511591cc1 ip=10.24.24.181
+2026-08-31 09:27:04 INFO auth Database query completed rows=5661 status=200 response_ms=151 request_id=63f87a48-26fd-47b6-978a-0f8ddf829c03 ip=10.24.30.150
+2026-08-31 09:54:12 INFO payments Cache hit key=product:4707 status=200 response_ms=163 request_id=e64e9a2b-4c0f-4d99-ae88-5ab409394461 ip=10.24.7.117
+2026-08-31 10:07:50 INFO inventory Request completed user_id=5277 status=200 response_ms=52 request_id=6ca18e1a-5e93-40a2-b3c5-f3d111a8f6af ip=10.24.14.130
+2026-08-31 09:27:10 INFO inventory Request completed user_id=9243 status=200 response_ms=83 request_id=3cd4b1da-f279-4ff6-bee2-e46a6826f37a ip=10.24.11.243
+2026-08-31 09:27:12 INFO inventory Cache hit key=product:9813 status=200 response_ms=155 request_id=031c5981-a15f-4d25-8327-c0916dfae088 ip=10.24.9.178
+2026-08-31 10:08:05 INFO orders Database query completed rows=8923 status=200 response_ms=70 request_id=36998371-c2f2-4933-9d61-52aaa276a067 ip=10.24.25.87
+2026-08-31 10:08:10 INFO database Login successful user_id=1448 status=200 response_ms=131 request_id=d82f044b-4b4e-4e97-933b-8a87e99a3476 ip=10.24.4.67
+2026-08-31 09:27:18 DEBUG orders Health check passed status=200 response_ms=66 request_id=58281974-bd9c-4a8b-81d2-0ae8dbdda5af ip=10.24.26.81
+2026-08-31 10:08:20 INFO payments Database query completed rows=9776 status=200 response_ms=10 request_id=4162b276-5b61-44d9-b400-237d4423b3a7 ip=10.24.23.214
+2026-08-31 09:54:44 INFO api Cache hit key=product:2523 status=200 response_ms=110 request_id=2a25a6fc-514f-4154-a9f1-b8979894dbb6 ip=10.24.22.192
+2026-08-31 09:54:48 INFO auth Database query completed rows=3924 status=200 response_ms=129 request_id=0339f5d2-ae61-40df-bbee-7ac48052f05b ip=10.24.11.91
+2026-08-31 09:41:09 INFO inventory Cache hit key=product:3994 status=200 response_ms=56 request_id=fbf8ce24-ee62-4f3b-83b1-1093cb0c3721 ip=10.24.16.189
+2026-08-31 09:41:12 DEBUG api Health check passed status=200 response_ms=75 request_id=a11a58ce-d290-4179-8f4a-4eb636da8ec0 ip=10.24.7.59
+2026-08-31 09:41:15 INFO api Database query completed rows=6833 status=200 response_ms=47 request_id=ed262bf9-60ba-4aac-adeb-c4311f467376 ip=10.24.25.28
+2026-08-31 09:27:32 DEBUG auth Health check passed status=200 response_ms=165 request_id=08461607-d556-42a7-89c8-02b9f32537e5 ip=10.24.1.196
+2026-08-31 09:27:34 INFO orders Cache hit key=product:6167 status=200 response_ms=134 request_id=c8d2e39e-8109-419a-96c9-ff61fb869187 ip=10.24.29.253
+2026-08-31 09:55:12 INFO orders Fetched order order_id=deeb4625-20c2-42da-983a-4fc7d51e5100 status=200 response_ms=79 request_id=69148146-3c40-40e3-8bce-5e8e7b2e6c1e ip=10.24.13.57
+2026-08-31 09:41:27 INFO auth Database query completed rows=7933 status=200 response_ms=130 request_id=bca3f90c-2767-4c41-8a66-0e4714751343 ip=10.24.18.9
+2026-08-31 09:55:20 DEBUG orders Health check passed status=200 response_ms=125 request_id=dd654e44-5733-40ca-8fe5-3336fb2abbff ip=10.24.4.179
+2026-08-31 10:09:15 DEBUG payments Health check passed status=200 response_ms=11 request_id=18c08757-0daf-4515-92e1-8ec30538a682 ip=10.24.22.54
+2026-08-31 10:09:20 INFO inventory Request completed user_id=6331 status=200 response_ms=100 request_id=49b2bdd3-db2f-4b44-afb2-51c583384e30 ip=10.24.20.221
+2026-08-31 09:55:32 INFO api Database query completed rows=5306 status=200 response_ms=68 request_id=10dbe70a-5f82-49f1-9496-ba6b22118062 ip=10.24.9.121
+2026-08-31 09:55:36 INFO payments Fetched order order_id=c92fcec5-dd79-4842-b2a1-55b6a2be78ef status=200 response_ms=116 request_id=511ce3e0-07e3-4a44-bbc7-f62373feb528 ip=10.24.7.108
+2026-08-31 09:55:40 INFO payments Login successful user_id=5581 status=200 response_ms=123 request_id=915695d9-a681-450a-b33c-6c7046880136 ip=10.24.6.147
+2026-08-31 09:41:48 DEBUG inventory Health check passed status=200 response_ms=33 request_id=2e494921-0367-4a5d-b18d-54316045b53e ip=10.24.24.70
+2026-08-31 09:41:51 INFO inventory Login successful user_id=7240 status=200 response_ms=58 request_id=41d13b64-60ce-4fe4-adbe-10a14db4a28b ip=10.24.5.205
+2026-08-31 09:41:54 INFO orders Request completed user_id=3893 status=200 response_ms=115 request_id=ffcf941a-8380-454e-8349-1773cc1e8ce2 ip=10.24.16.35
+2026-08-31 09:55:56 INFO orders Cache hit key=product:5111 status=200 response_ms=151 request_id=f43083d5-93dc-4feb-ba41-6c0323ec37cc ip=10.24.28.146
+2026-08-31 09:28:00 INFO orders Request completed user_id=3676 status=200 response_ms=23 request_id=3cadde50-7aac-4cdf-a2c0-ff8fb6c0b5d3 ip=10.24.7.209
+2026-08-31 09:56:04 DEBUG orders Health check passed status=200 response_ms=123 request_id=6afe2bc1-48fa-457a-89e2-6dd1230b56cf ip=10.24.24.86
+2026-08-31 09:56:08 INFO payments Cache hit key=product:5222 status=200 response_ms=96 request_id=c5b01e02-463c-4557-bfe3-30e52a615286 ip=10.24.1.106
+2026-08-31 09:28:06 DEBUG payments Health check passed status=200 response_ms=155 request_id=7d7c0ca2-5b5a-4a66-a1af-129de4ded761 ip=10.24.19.167
+2026-08-31 09:42:12 INFO payments Cache hit key=product:6326 status=200 response_ms=180 request_id=8a14c489-96e0-4fc6-b27b-f06f5c399284 ip=10.24.17.125
+2026-08-31 10:10:25 INFO auth Login successful user_id=5694 status=200 response_ms=126 request_id=fbbfa201-5855-411a-a868-12142caafa20 ip=10.24.21.245
+2026-08-31 09:42:18 DEBUG api Health check passed status=200 response_ms=115 request_id=ec62be0b-e89d-4d96-83e5-28542624b0f6 ip=10.24.21.157
+2026-08-31 10:10:35 INFO auth Request completed user_id=3654 status=200 response_ms=95 request_id=d6ef3696-b2f0-4b90-b4a3-f1fb5443d9c4 ip=10.24.8.81
+2026-08-31 09:56:32 INFO database Cache hit key=product:5382 status=200 response_ms=162 request_id=67267bd0-fed0-4d71-8cf3-cb229df182ef ip=10.24.21.102
+2026-08-31 09:56:36 INFO orders Cache hit key=product:9535 status=200 response_ms=123 request_id=ab8418e0-f03c-4ea3-91b7-b7c2077a99d8 ip=10.24.14.43
+2026-08-31 09:42:30 INFO auth Fetched order order_id=faddd42d-67fc-4420-989d-4bde9256c420 status=200 response_ms=177 request_id=14b8b4ba-25a1-426c-bd96-ecd929c45869 ip=10.24.9.241
+2026-08-31 09:28:22 INFO api Fetched order order_id=e805369c-1ea6-488e-93a0-8d8c1228c618 status=200 response_ms=34 request_id=b0465ed9-066e-43a5-a0e2-d9d4be686079 ip=10.24.4.17
+2026-08-31 10:11:00 INFO inventory Request completed user_id=1431 status=200 response_ms=109 request_id=1520681f-9f4a-4da0-b684-23759180acca ip=10.24.17.196
+2026-08-31 09:28:26 INFO auth Cache hit key=product:3544 status=200 response_ms=29 request_id=384f95ab-3833-4d6b-a004-f0ca1b71e5e2 ip=10.24.21.239
+2026-08-31 10:11:10 INFO payments Fetched order order_id=47e9b697-c4b1-4416-af4b-cb576da36b72 status=200 response_ms=80 request_id=13fddb6e-b574-47ca-8ccc-e606c6fa55df ip=10.24.15.161
+2026-08-31 09:42:45 INFO api Database query completed rows=3795 status=200 response_ms=15 request_id=66ced81d-afec-4764-ab13-815bb9e6d2d1 ip=10.24.2.170
+2026-08-31 09:57:04 INFO payments Login successful user_id=8654 status=200 response_ms=146 request_id=3ccae5e5-c551-4cfa-8b4f-b6fcb631dcce ip=10.24.30.70
+2026-08-31 10:11:25 DEBUG api Health check passed status=200 response_ms=53 request_id=f40668a0-b494-47df-9bda-03832b99ffcd ip=10.24.19.153
+2026-08-31 10:11:30 DEBUG database Health check passed status=200 response_ms=142 request_id=2f76c6f8-0caa-4aa5-be6b-a3f40e908175 ip=10.24.21.164
+2026-08-31 09:57:16 CRITICAL payments Payment processor unavailable status=503 response_ms=7100 request_id=7dee9a66-af61-4d5e-8671-22a82d64f0a0 ip=10.24.8.207
+2026-08-31 09:28:40 INFO orders Cache hit key=product:6992 status=200 response_ms=113 request_id=e21267a0-fc82-4ef3-8a61-04e56fbbd3e9 ip=10.24.9.40
+2026-08-31 09:57:24 INFO auth Request completed user_id=9574 status=200 response_ms=42 request_id=f5fff25c-8b9d-4f7a-a4a6-4cab0a2f83f8 ip=10.24.12.74
+2026-08-31 10:11:50 INFO inventory Request completed user_id=9059 status=200 response_ms=130 request_id=bcacd52c-a2b7-40c5-b9a6-ce49f9eb0dda ip=10.24.10.3
+2026-08-31 10:11:55 INFO payments Database query completed rows=4788 status=200 response_ms=9 request_id=88291ae1-76d6-49f9-8082-906d73b9d3a7 ip=10.24.18.96
+2026-08-31 09:43:12 ERROR orders Unhandled exception NullPointerException status=500 response_ms=2800 request_id=8ddd8ae3-af04-412e-b14e-d8755d5db9a7 ip=10.24.13.64
+2026-08-31 09:43:15 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=b62fb577-1662-4b97-a5de-feef7b6ef6de ip=10.24.27.97
+2026-08-31 09:43:18 INFO payments Request completed user_id=7917 status=200 response_ms=168 request_id=c8e96339-32a0-474f-93e4-f92c7e8af896 ip=10.24.8.133
+2026-08-31 09:57:48 DEBUG payments Health check passed status=200 response_ms=76 request_id=855bdf70-7d5a-4203-89ca-4241873bd31c ip=10.24.14.49
+2026-08-31 09:28:56 INFO api Fetched order order_id=71f7ac7b-ccd8-4e23-9a08-ad35ee81db43 status=200 response_ms=36 request_id=93289302-a67a-41cb-9d5d-3d10f768ea01 ip=10.24.21.117
+2026-08-31 10:12:25 DEBUG payments Health check passed status=200 response_ms=56 request_id=b29f503b-0303-4053-bc3b-c117025834c4 ip=10.24.11.5
+2026-08-31 09:43:30 INFO auth Database query completed rows=1362 status=200 response_ms=55 request_id=a942b1df-4058-4f54-95f6-0b997c032aa3 ip=10.24.4.73
+2026-08-31 09:58:04 DEBUG api Health check passed status=200 response_ms=10 request_id=0fab2bbe-7d8a-42c0-a721-783310626ba7 ip=10.24.8.24
+2026-08-31 09:43:36 INFO auth Login successful user_id=4558 status=200 response_ms=95 request_id=2ab77737-5383-4723-a574-380284e1fc98 ip=10.24.14.80
+2026-08-31 10:12:45 INFO payments Login successful user_id=1519 status=200 response_ms=92 request_id=51b890d6-c6a8-4b25-ac92-05a2b9eed210 ip=10.24.3.216
+2026-08-31 09:43:42 INFO auth Cache hit key=product:7429 status=200 response_ms=26 request_id=3e3e16b6-f9d0-4227-bbfa-954b565fc546 ip=10.24.18.121
+2026-08-31 09:43:45 INFO api Cache hit key=product:7251 status=200 response_ms=11 request_id=18a4be85-dc6f-43ff-a759-cda252a1b7aa ip=10.24.4.250
+2026-08-31 09:43:48 INFO orders Login successful user_id=5049 status=200 response_ms=16 request_id=e412a711-3656-4c43-b2f7-3e2ae66916b0 ip=10.24.7.118
+2026-08-31 09:29:14 DEBUG inventory Health check passed status=200 response_ms=129 request_id=4b74d6c7-8340-4184-8a38-ac81a7dadd25 ip=10.24.13.175
+2026-08-31 09:58:32 INFO payments Fetched order order_id=e4b2bdc7-fa6e-490e-bd66-36462179a285 status=200 response_ms=148 request_id=f9f1cd1f-3a0b-4b20-83f0-dc3348dd859b ip=10.24.17.32
+2026-08-31 09:58:36 DEBUG orders Health check passed status=200 response_ms=58 request_id=89ea7a7a-896a-414e-a76d-76d1eb2cf58b ip=10.24.12.228
+2026-08-31 09:29:20 INFO database Fetched order order_id=265a6be0-48d9-400f-874f-8d6378312697 status=200 response_ms=68 request_id=b62c28a0-ee51-4551-bc71-20f0c16ccd03 ip=10.24.21.112
+2026-08-31 09:58:44 INFO auth Fetched order order_id=f6d55b9e-f09c-4dae-bac8-e71c46530ed2 status=200 response_ms=157 request_id=b8f9b398-6622-43a5-97ad-7c90b52acfed ip=10.24.4.102
+2026-08-31 09:44:06 INFO auth Request completed user_id=8786 status=200 response_ms=160 request_id=4b22e18a-9c03-4192-9c46-1f46f4d3ee6d ip=10.24.5.96
+2026-08-31 09:29:26 INFO api Fetched order order_id=9450d667-cf1c-41f9-b9d4-d6b81075afe5 status=200 response_ms=31 request_id=3283d36a-2c1a-413b-bf5c-1e524e342d7e ip=10.24.22.159
+2026-08-31 09:58:56 INFO database Request completed user_id=1979 status=200 response_ms=99 request_id=d74e901a-d31d-4efa-bb10-7dd14c75fed3 ip=10.24.21.40
+2026-08-31 09:29:30 INFO api Login successful user_id=4812 status=200 response_ms=89 request_id=a8d3ec8a-0e06-4f05-acba-6883fe34abea ip=10.24.18.202
+2026-08-31 09:59:04 DEBUG orders Health check passed status=200 response_ms=13 request_id=15c646d2-6dee-41de-8ece-aecbd239de7e ip=10.24.23.97
+2026-08-31 09:59:08 INFO database Fetched order order_id=3c34fbc3-fd82-434e-bf8b-378a7d5ac913 status=200 response_ms=18 request_id=bc78f438-94f4-4241-9f3c-9d6f317cd675 ip=10.24.16.181
+2026-08-31 10:14:00 INFO inventory Cache hit key=product:9892 status=200 response_ms=133 request_id=964fe78f-fbd0-47f7-bcfa-690b20e575bc ip=10.24.7.146
+2026-08-31 09:44:27 INFO inventory Cache hit key=product:6303 status=200 response_ms=127 request_id=a67b0c17-20a8-4b11-9846-058adfcb9a2f ip=10.24.9.223
+2026-08-31 09:44:30 INFO auth Database query completed rows=3539 status=200 response_ms=123 request_id=bc76951d-ea34-411c-972d-9f0736828b2b ip=10.24.10.210
+2026-08-31 09:59:24 INFO inventory Cache hit key=product:8439 status=200 response_ms=8 request_id=5e6b9893-3d76-495a-8008-e760df9947e5 ip=10.24.25.164
+2026-08-31 10:14:20 INFO database Fetched order order_id=5afc7214-18fc-49a4-819a-7519ae9aa833 status=200 response_ms=166 request_id=3439e0a3-09f4-4b35-93f3-2744f946d3cd ip=10.24.28.94
+2026-08-31 09:44:39 DEBUG payments Health check passed status=200 response_ms=176 request_id=1c39ec52-070a-448e-82cd-3f78a96c63bf ip=10.24.18.210
+2026-08-31 10:14:30 INFO api Database query completed rows=9151 status=200 response_ms=149 request_id=b9ac1af0-d506-459d-9847-332e9b60b462 ip=10.24.5.157
+2026-08-31 09:59:40 INFO payments Login successful user_id=6276 status=200 response_ms=36 request_id=1fd2f3fb-1cfb-4af2-b8f6-c3590435d867 ip=10.24.4.134
+2026-08-31 09:29:52 INFO auth Fetched order order_id=274b866a-5e2b-4026-811c-e6e690fa7ed6 status=200 response_ms=16 request_id=2834696f-bd4d-4f60-af64-204dc6fb90f7 ip=10.24.7.28
+2026-08-31 10:14:45 INFO api Request completed user_id=1521 status=200 response_ms=154 request_id=37bd6335-d0f5-483c-844e-979a1d248ebd ip=10.24.21.215
+2026-08-31 10:14:50 INFO database Login successful user_id=9615 status=200 response_ms=167 request_id=23da4f50-9c65-48e2-83d4-d206b8caeb90 ip=10.24.23.152
+2026-08-31 09:59:56 INFO auth Cache hit key=product:4616 status=200 response_ms=163 request_id=984e55a2-5287-4564-9980-8cc44872cd44 ip=10.24.23.19
+2026-08-31 09:30:00 DEBUG api Health check passed status=200 response_ms=28 request_id=37cda162-014c-4402-9f7f-17fa8fcf5d64 ip=10.24.15.206
+2026-08-31 09:30:02 INFO payments Database query completed rows=7814 status=200 response_ms=102 request_id=4da319d8-ca19-4872-bc70-f2267f0a84f2 ip=10.24.26.182
+2026-08-31 09:30:04 INFO inventory Cache hit key=product:9667 status=200 response_ms=18 request_id=cb583a75-3be7-4d81-9d82-59edd8254d15 ip=10.24.24.19
+2026-08-31 10:00:12 INFO auth Fetched order order_id=cd2fdae4-a5a3-4471-a2df-fcae371bd839 status=200 response_ms=32 request_id=8031ee57-3a71-428d-be85-aab61b3f50cd ip=10.24.4.186
+2026-08-31 09:45:12 INFO inventory Login successful user_id=4104 status=200 response_ms=57 request_id=4ecbdc23-4104-4a01-87b0-103232e89494 ip=10.24.17.169
+2026-08-31 09:45:15 DEBUG inventory Health check passed status=200 response_ms=150 request_id=a0af4299-cfa4-4b45-9803-bc4dbbd518ab ip=10.24.24.143
+2026-08-31 10:15:30 INFO database Request completed user_id=6864 status=200 response_ms=180 request_id=3c4a0809-a0e8-4da7-baed-be346512298b ip=10.24.15.180
+2026-08-31 10:15:35 INFO auth Fetched order order_id=02556668-928c-411c-80c5-553b81fd729a status=200 response_ms=148 request_id=a10ef41d-5763-4c50-9e0a-1a2b0d567e86 ip=10.24.13.130
+2026-08-31 10:00:32 INFO database Fetched order order_id=19c16178-ef43-4c68-ae7f-2a319721d55b status=200 response_ms=161 request_id=5e42e585-43cf-46a1-a506-280542c852c6 ip=10.24.15.239
+2026-08-31 10:00:36 INFO payments Database query completed rows=6319 status=200 response_ms=103 request_id=1da06a9f-6448-4c91-b44b-6f14b6eb463a ip=10.24.14.196
+2026-08-31 10:15:50 INFO database Cache hit key=product:4943 status=200 response_ms=152 request_id=4d7f0772-503b-49d7-9c4f-b00f34ee9bd9 ip=10.24.18.55
+2026-08-31 10:15:55 DEBUG inventory Health check passed status=200 response_ms=100 request_id=14132c6c-b4e4-446e-9119-5433139f80b6 ip=10.24.15.115
+2026-08-31 10:16:00 DEBUG auth Health check passed status=200 response_ms=80 request_id=fce2e076-6c0a-4cc0-8959-a97d7c25e0dc ip=10.24.20.5
+2026-08-31 09:45:39 INFO payments Request completed user_id=5920 status=200 response_ms=64 request_id=e225f4b3-221d-4a24-b825-00e333403456 ip=10.24.7.220
+2026-08-31 10:00:56 DEBUG auth Health check passed status=200 response_ms=149 request_id=61cf7737-fe63-4ae8-9719-3dfe6dd2aaec ip=10.24.17.143
+2026-08-31 09:45:45 INFO auth Request completed user_id=8542 status=200 response_ms=99 request_id=508fae78-683b-4c61-8e42-992d5795d44f ip=10.24.5.36
+2026-08-31 10:01:04 INFO payments Database query completed rows=5093 status=200 response_ms=67 request_id=ca469178-1d89-4f1a-8f9a-c9c94d54ee69 ip=10.24.9.208
+2026-08-31 10:01:08 INFO auth Database query completed rows=7550 status=200 response_ms=153 request_id=ceabb8ef-6012-41cf-bfe6-184e78fcc80b ip=10.24.30.56
+2026-08-31 09:30:36 INFO database Cache hit key=product:8905 status=200 response_ms=52 request_id=2e6b9d9a-c362-48a8-9ad5-9fcc3eff85f6 ip=10.24.16.212
+2026-08-31 09:30:38 WARN inventory Unexpected request path=/internal/debug status=404 response_ms=950 request_id=aa421b7b-c8a7-46a3-baa2-7961d3c52faa ip=10.24.2.188
+2026-08-31 10:16:40 INFO auth Request completed user_id=6478 status=200 response_ms=97 request_id=062286f4-9c76-40ed-947f-b0ff17644dfe ip=10.24.29.210
+2026-08-31 10:16:45 INFO orders Request completed user_id=4714 status=200 response_ms=175 request_id=50787aef-ca80-408c-a512-70480368384a ip=10.24.28.155
+2026-08-31 09:30:44 DEBUG database Health check passed status=200 response_ms=21 request_id=c97166c5-0b23-42d7-95c4-9f44b08cc454 ip=10.24.10.135
+2026-08-31 09:30:46 INFO payments Database query completed rows=3450 status=200 response_ms=91 request_id=65354134-4e10-4901-8186-7e4a95cfb486 ip=10.24.17.179
+2026-08-31 09:46:12 INFO api Request completed user_id=7436 status=200 response_ms=122 request_id=068b4ba4-5a2e-4f5f-8bb7-82457b2c241b ip=10.24.25.153
+2026-08-31 09:30:50 INFO api Login successful user_id=5747 status=200 response_ms=108 request_id=bea4e5c1-4f44-4622-a4c7-a8f97e46659f ip=10.24.5.34
+2026-08-31 10:01:44 INFO auth Login successful user_id=1807 status=200 response_ms=148 request_id=3f50aa06-a5ab-4476-b8d1-d53acb858fae ip=10.24.13.68
+2026-08-31 09:30:54 INFO orders Database query completed rows=8118 status=200 response_ms=41 request_id=de437fa4-376c-4277-a77e-a006fa489c36 ip=10.24.25.35
+2026-08-31 10:17:20 ERROR inventory Authentication failed user_id=8993 status=401 response_ms=1800 request_id=1c04880d-918d-46f7-9619-c67845562d3b ip=10.24.13.167
+2026-08-31 09:46:27 INFO inventory Database query completed rows=9589 status=200 response_ms=71 request_id=508210bf-1b86-4a9b-ac08-4e714bd0ea48 ip=10.24.8.19
+2026-08-31 10:02:00 INFO orders Cache hit key=product:2467 status=200 response_ms=36 request_id=27155d58-fa77-41c5-88e9-79239c4ebdfe ip=10.24.22.106
+2026-08-31 10:17:35 INFO payments Cache hit key=product:4120 status=200 response_ms=90 request_id=60852a2b-de38-4d56-8dac-bf0363a78752 ip=10.24.12.153
+2026-08-31 09:31:04 INFO payments Fetched order order_id=66f586e8-d6d2-4e36-9cc8-152a9c88c74f status=200 response_ms=165 request_id=0600a2cc-b36a-4c3f-845c-56eaaf86a83a ip=10.24.27.254
+2026-08-31 10:17:45 INFO inventory Fetched order order_id=8c5bdd18-747a-4b24-bac9-41403d800b99 status=200 response_ms=19 request_id=faef7c3e-32d7-4243-bc62-ce019c0ed3ab ip=10.24.30.210
+2026-08-31 09:46:42 DEBUG api Health check passed status=200 response_ms=47 request_id=4bd0fb21-5b76-44da-a63c-bb9797a45b1b ip=10.24.25.187
+2026-08-31 09:31:10 DEBUG auth Health check passed status=200 response_ms=70 request_id=b7eaec13-8599-4c48-9738-98388ef5b76e ip=10.24.20.238
+2026-08-31 09:46:48 INFO payments Request completed user_id=6624 status=200 response_ms=36 request_id=43cd5cd1-f320-4889-b650-1697637eb06b ip=10.24.10.116
+2026-08-31 10:18:05 INFO auth Cache hit key=product:4424 status=200 response_ms=145 request_id=26241ee2-c3d0-4d2a-9944-c94157feac6f ip=10.24.7.53
+2026-08-31 10:02:32 INFO inventory Login successful user_id=3315 status=200 response_ms=179 request_id=96153090-5905-444a-91f8-60db47683736 ip=10.24.1.97
+2026-08-31 09:31:18 INFO payments Fetched order order_id=91dba8b0-639c-4db3-9669-c89917bb1c06 status=200 response_ms=80 request_id=57418c13-c749-43a8-bf72-3b7b5d7dea19 ip=10.24.7.203
+2026-08-31 10:02:40 CRITICAL auth Payment processor unavailable status=503 response_ms=7100 request_id=fc4a8023-b868-4721-8bd6-c3470c75adb2 ip=10.24.3.100
+2026-08-31 10:02:44 DEBUG database Health check passed status=200 response_ms=35 request_id=f6b5b6f9-053e-4e18-b64c-2e471c4793c3 ip=10.24.1.75
+2026-08-31 10:18:30 INFO api Login successful user_id=9331 status=200 response_ms=33 request_id=8869a4ff-1008-4615-8b51-2709d889ba0f ip=10.24.29.81
+2026-08-31 10:18:35 INFO inventory Database query completed rows=2442 status=200 response_ms=55 request_id=0992610d-426d-4551-b79c-d032816fd1b0 ip=10.24.7.129
+2026-08-31 10:18:40 DEBUG inventory Health check passed status=200 response_ms=18 request_id=b0c93d1c-89e7-4e75-b28c-6124c08d09d9 ip=10.24.8.237
+2026-08-31 10:03:00 INFO payments Login successful user_id=7445 status=200 response_ms=48 request_id=99bca320-10b6-4f85-a4ac-ba63ed4c14a0 ip=10.24.1.89
+2026-08-31 10:03:04 DEBUG payments Health check passed status=200 response_ms=68 request_id=5db77aa6-c268-4120-8e4d-aa81609f737c ip=10.24.17.71
+2026-08-31 09:31:34 INFO database Cache hit key=product:7343 status=200 response_ms=15 request_id=5f56d7a0-f100-4ee7-9d03-bf3bfe7f5ffd ip=10.24.18.243
+2026-08-31 10:03:12 INFO api Fetched order order_id=e4d67107-8e17-4ca3-ac51-9c213fd2d266 status=200 response_ms=108 request_id=33f2c625-a38f-45c3-be0e-f97cf927ec49 ip=10.24.22.36
+2026-08-31 09:31:38 INFO database Login successful user_id=9531 status=200 response_ms=164 request_id=f65fd7c3-a8c4-4aa8-82f8-67e33e9704a1 ip=10.24.28.161
+2026-08-31 09:47:30 INFO orders Fetched order order_id=be9fd043-5170-4a52-a236-1a1a3c9c60a3 status=200 response_ms=117 request_id=020d0d0f-0553-4d82-aaa1-9adb7dab20d7 ip=10.24.10.233
+2026-08-31 10:03:24 INFO orders Database query completed rows=3158 status=200 response_ms=60 request_id=4fda3100-a48a-41a0-881d-6795b5a50894 ip=10.24.21.36
+2026-08-31 09:47:36 INFO api Cache hit key=product:9582 status=200 response_ms=42 request_id=83939d6d-9e09-4aed-98b4-b9c7cc10b263 ip=10.24.14.233
+2026-08-31 09:47:39 INFO database Database query completed rows=3589 status=200 response_ms=89 request_id=a5f4b9d1-260b-4581-8df9-7d39911369d2 ip=10.24.3.143
+2026-08-31 09:31:48 INFO api Cache hit key=product:3384 status=200 response_ms=15 request_id=cb86ec95-0c73-4fe3-be00-ba68140a8897 ip=10.24.25.82
+2026-08-31 10:19:35 INFO orders Cache hit key=product:8258 status=200 response_ms=171 request_id=a3fecd7e-2806-4402-befa-6f596f098b90 ip=10.24.30.190
+2026-08-31 10:03:44 INFO api Fetched order order_id=21b1e965-563d-4c90-8668-2b2eb2e42ed8 status=200 response_ms=41 request_id=75914296-fefd-43bc-ba82-00af64b6286b ip=10.24.6.7
+2026-08-31 10:03:48 INFO inventory Database query completed rows=4783 status=200 response_ms=160 request_id=21673967-3609-49f0-b188-89b5d69bf9c7 ip=10.24.8.60
+2026-08-31 09:31:56 INFO payments Request completed user_id=8808 status=200 response_ms=42 request_id=e90dd9c8-54e5-4303-9a95-602b940dfa63 ip=10.24.17.217
+2026-08-31 10:19:55 DEBUG database Health check passed status=200 response_ms=55 request_id=0bd825c4-898f-438f-9b45-1b071c1cc01c ip=10.24.28.100
+2026-08-31 10:20:00 INFO orders Fetched order order_id=b40d05ad-66ae-441a-ae2e-7a769fb2f369 status=200 response_ms=57 request_id=a5791ea1-5a93-4cc7-a902-407e02aaa95c ip=10.24.8.9
+2026-08-31 10:20:05 INFO auth Cache hit key=product:7767 status=200 response_ms=64 request_id=4280b502-23f5-404b-ac25-f9a1705f3100 ip=10.24.24.172
+2026-08-31 09:48:06 INFO api Request completed user_id=3901 status=200 response_ms=120 request_id=5515e186-b553-48f8-8633-c6c780e912f8 ip=10.24.28.158
+2026-08-31 10:20:15 INFO database Cache hit key=product:8496 status=200 response_ms=71 request_id=5637f09a-a3f9-4485-8104-8d5543ff2528 ip=10.24.14.104
+2026-08-31 09:32:08 DEBUG inventory Health check passed status=200 response_ms=88 request_id=721928d3-fd19-4ffe-b69c-19c0c54e68b2 ip=10.24.13.157
+2026-08-31 09:32:10 INFO inventory Request completed user_id=8399 status=200 response_ms=124 request_id=ca158d0b-a050-424b-af1a-f79409d31341 ip=10.24.27.225
+2026-08-31 09:32:12 INFO api Database query completed rows=9812 status=200 response_ms=109 request_id=ef568f4f-4b9e-42c0-a2ba-2cec8be6f94d ip=10.24.24.11
+2026-08-31 10:20:35 DEBUG inventory Health check passed status=200 response_ms=56 request_id=ad493305-dfaa-4a7a-bd6f-3a1e267b1c5b ip=10.24.10.113
+2026-08-31 10:20:40 INFO payments Cache hit key=product:8558 status=200 response_ms=50 request_id=dc1859ca-eeed-48e9-a8b0-51cf82a5f3bd ip=10.24.14.76
+2026-08-31 09:32:18 INFO database Database query completed rows=3330 status=200 response_ms=126 request_id=c70a4116-6d62-4781-a0bc-c0eac00c9d1f ip=10.24.27.166
+2026-08-31 10:20:50 DEBUG auth Health check passed status=200 response_ms=36 request_id=a4570c33-cf97-43a0-afe5-d54497be3ab8 ip=10.24.6.200
+2026-08-31 09:48:33 INFO orders Login successful user_id=6299 status=200 response_ms=123 request_id=51cd12e7-47a7-4ea5-aa14-ae5975078266 ip=10.24.1.46
+2026-08-31 10:21:00 DEBUG inventory Health check passed status=200 response_ms=124 request_id=2b145dfd-ed04-4bf0-88c1-62b9eec77a6a ip=10.24.3.65
+2026-08-31 10:04:52 DEBUG database Health check passed status=200 response_ms=39 request_id=7a3916c0-ed86-4ab9-bde7-d294e1e7c7ce ip=10.24.3.30
+2026-08-31 10:21:10 INFO database Cache hit key=product:2397 status=200 response_ms=142 request_id=3f7dd6b2-7248-424c-a677-19006dbdc5c3 ip=10.24.23.99
+2026-08-31 09:48:45 INFO orders Database query completed rows=7235 status=200 response_ms=19 request_id=7e4518e6-9db1-4f30-8eb4-75cbcd5e403e ip=10.24.25.44
+2026-08-31 10:05:04 DEBUG inventory Health check passed status=200 response_ms=49 request_id=3a8ccd84-88f1-4cb6-b371-cb22439b2559 ip=10.24.28.38
+2026-08-31 09:48:51 INFO database Request completed user_id=7874 status=200 response_ms=86 request_id=5ba8d555-ab7d-4d00-9274-0d28ee5c6904 ip=10.24.10.187
+2026-08-31 10:21:30 DEBUG payments Health check passed status=200 response_ms=38 request_id=4633e543-0220-43fc-b529-673943cf3907 ip=10.24.29.34
+2026-08-31 09:48:57 INFO auth Database query completed rows=5146 status=200 response_ms=11 request_id=83a6c2fa-7ee0-463c-9424-3c9ef679987a ip=10.24.15.128
+2026-08-31 10:21:40 INFO inventory Request completed user_id=9084 status=200 response_ms=68 request_id=d53a1010-c93d-42f8-a1c2-e0cafad950ca ip=10.24.7.151
+2026-08-31 10:21:45 INFO orders Login successful user_id=8239 status=200 response_ms=28 request_id=e5a334a0-d48d-4583-8693-7dd644a9493c ip=10.24.20.154
+2026-08-31 09:32:44 INFO api Database query completed rows=5556 status=200 response_ms=166 request_id=30f23ac1-6d14-4f2d-a014-eb20e351a77a ip=10.24.21.143
+2026-08-31 09:49:09 INFO auth Fetched order order_id=694c35c2-9f0a-4ab5-8ce5-faf346fce055 status=200 response_ms=22 request_id=72d7dae7-b877-4177-82eb-178961359b2c ip=10.24.21.90
+2026-08-31 09:32:48 INFO api Request completed user_id=5889 status=200 response_ms=92 request_id=5648ea0c-d99b-4fb2-a65a-75eceeb9df75 ip=10.24.30.23
+2026-08-31 09:32:50 INFO auth Login successful user_id=3920 status=200 response_ms=49 request_id=91520f30-1345-495a-8662-cb958d3980a2 ip=10.24.22.73
+2026-08-31 09:49:18 DEBUG orders Health check passed status=200 response_ms=17 request_id=ff22d16d-162b-43e1-bc34-a133edd25d1c ip=10.24.3.197
+2026-08-31 10:05:48 INFO payments Cache hit key=product:7208 status=200 response_ms=25 request_id=a243ea56-985f-4a19-b7c0-7f1d8db7b5e6 ip=10.24.25.110
+2026-08-31 09:32:56 INFO payments Login successful user_id=3204 status=200 response_ms=39 request_id=cd5ad6c0-2d30-4fc0-8205-8873fdd799d9 ip=10.24.23.221
+2026-08-31 10:05:56 INFO payments Database query completed rows=7779 status=200 response_ms=142 request_id=41083dbc-07be-4566-8cbc-c8fd843c4127 ip=10.24.7.179
+2026-08-31 09:49:30 INFO inventory Request completed user_id=2790 status=200 response_ms=154 request_id=fef341eb-fd90-449b-8347-77ca1f9baf01 ip=10.24.24.251
+2026-08-31 09:33:02 DEBUG orders Health check passed status=200 response_ms=117 request_id=93d923ae-7518-48b2-8756-41526a4fdf94 ip=10.24.20.218
+2026-08-31 10:06:08 INFO payments Database query completed rows=6797 status=200 response_ms=41 request_id=03f35fcc-8b10-4b9b-8787-0713d1f868cf ip=10.24.20.145
+2026-08-31 10:22:45 DEBUG inventory Health check passed status=200 response_ms=134 request_id=56ce2538-e74c-4033-a0ab-ebc292c2164e ip=10.24.26.47
+2026-08-31 09:49:42 INFO database Cache hit key=product:4171 status=200 response_ms=8 request_id=f9e82c8f-80d8-4489-ad45-6761a5f796e1 ip=10.24.4.7
+2026-08-31 10:22:55 INFO database Request completed user_id=4396 status=200 response_ms=165 request_id=9ca3a52b-50d4-453e-b840-e52fee39e1fc ip=10.24.14.106
+2026-08-31 09:33:12 INFO payments Cache hit key=product:4478 status=200 response_ms=10 request_id=69233911-95f4-4ce0-9710-38e428cc1d5b ip=10.24.21.52
+2026-08-31 10:06:28 INFO payments Request completed user_id=6042 status=200 response_ms=84 request_id=6a67c92b-dfda-482c-9619-dcb7dc89026a ip=10.24.17.141
+2026-08-31 10:06:32 INFO auth Request completed user_id=6460 status=200 response_ms=95 request_id=0c56626b-d29d-47e0-ab72-d1de9cd793a1 ip=10.24.13.186
+2026-08-31 09:33:18 INFO api Fetched order order_id=02c611da-6474-461b-8c55-72fdb933cf12 status=200 response_ms=94 request_id=f6fe6d21-dbe0-4716-bcb7-4b4a3d696d99 ip=10.24.30.173
+2026-08-31 10:23:20 INFO orders Request completed user_id=3224 status=200 response_ms=131 request_id=01a582c7-0c57-47a5-9fd5-91b3bb74b693 ip=10.24.5.161
+2026-08-31 10:23:25 INFO inventory Cache hit key=product:8577 status=200 response_ms=113 request_id=7f3d91f1-1bbd-4737-88aa-0c8b435dd0c4 ip=10.24.30.191
+2026-08-31 09:33:24 INFO inventory Cache hit key=product:6169 status=200 response_ms=150 request_id=e07b92e5-2b73-4ddf-acd9-8dd5c15d0866 ip=10.24.18.5
+2026-08-31 09:50:09 DEBUG inventory Health check passed status=200 response_ms=98 request_id=544c8057-7bac-4c4d-9ca5-e3a85a60be77 ip=10.24.3.249
+2026-08-31 09:50:12 INFO payments Request completed user_id=6556 status=200 response_ms=104 request_id=0b59cde9-c4f5-470b-a678-4358a61f384c ip=10.24.21.137
+2026-08-31 09:50:15 INFO inventory Database query completed rows=7382 status=200 response_ms=55 request_id=57aed516-1c55-4d3d-8966-ef1914c88207 ip=10.24.20.30
+2026-08-31 10:07:04 INFO database Cache hit key=product:1518 status=200 response_ms=77 request_id=a6f3fbce-668f-43e8-a2c9-17e2baf42433 ip=10.24.14.23
+2026-08-31 10:23:55 INFO api Cache hit key=product:8404 status=200 response_ms=85 request_id=ad43aa23-db5a-4f77-892c-e4b5796413b1 ip=10.24.7.135
+2026-08-31 10:07:12 INFO api Request completed user_id=7131 status=200 response_ms=17 request_id=b32c8a7b-992a-438a-b07f-3549597df73d ip=10.24.25.52
+2026-08-31 09:33:38 INFO orders Database query completed rows=1408 status=200 response_ms=131 request_id=0cf95066-b5e5-4e85-bedc-acc3338ed308 ip=10.24.29.129
+2026-08-31 09:50:30 INFO api Cache hit key=product:8921 status=200 response_ms=142 request_id=58e16eca-ddd0-4e69-9eac-6613069abe21 ip=10.24.10.199
+2026-08-31 10:07:24 INFO api Request completed user_id=9456 status=200 response_ms=41 request_id=4b203f8b-60ae-43d2-84e5-ade5f1281484 ip=10.24.7.186
+2026-08-31 09:33:44 INFO orders Login successful user_id=9558 status=200 response_ms=37 request_id=4b4960c6-2afb-412c-83cd-2bade8417018 ip=10.24.1.80
+2026-08-31 09:33:46 INFO database Database query completed rows=2426 status=200 response_ms=93 request_id=9b205d29-82bf-4aec-8427-898ffceee4d5 ip=10.24.15.228
+2026-08-31 09:33:48 INFO auth Database query completed rows=6119 status=200 response_ms=13 request_id=e67dd255-cbec-47bc-86ae-ac237e173c8c ip=10.24.19.195
+2026-08-31 10:07:40 INFO database Fetched order order_id=406a3899-0bf3-4e6f-a987-60a78f040eba status=200 response_ms=59 request_id=72dd533d-dcab-43e8-be7b-d12d1ed5d1d8 ip=10.24.7.74
+2026-08-31 10:07:44 INFO inventory Cache hit key=product:8227 status=200 response_ms=179 request_id=e1a7b40c-9145-4d85-be48-5fa1ce721f88 ip=10.24.4.70
+2026-08-31 09:50:51 INFO api Cache hit key=product:2875 status=200 response_ms=11 request_id=575b4f32-e744-4cb0-bcba-322bf271beb7 ip=10.24.20.144
+2026-08-31 09:33:56 INFO api Database query completed rows=6739 status=200 response_ms=148 request_id=f7408c9d-25a6-444f-af39-5d3a3ed1bc37 ip=10.24.11.70
+2026-08-31 09:50:57 INFO database Cache hit key=product:5011 status=200 response_ms=51 request_id=98559e8f-cea8-45e2-829b-2cdba236a92f ip=10.24.3.80
+2026-08-31 10:08:00 INFO inventory Login successful user_id=1831 status=200 response_ms=41 request_id=a87ddbca-c973-4cfe-8183-36a417de4bac ip=10.24.1.121
+2026-08-31 09:34:02 INFO auth Login successful user_id=1881 status=200 response_ms=30 request_id=55451253-af95-47e4-ab15-e1458ea9e186 ip=10.24.14.101
+2026-08-31 09:51:06 INFO database Database query completed rows=8304 status=200 response_ms=165 request_id=84c8ad30-81ec-413d-b155-2d60c17e8996 ip=10.24.12.80
+2026-08-31 10:08:12 DEBUG api Health check passed status=200 response_ms=28 request_id=14d21b3d-310d-4f2c-ad82-2bff44eb0f38 ip=10.24.30.194
+2026-08-31 10:25:20 INFO inventory Fetched order order_id=5bd6fd35-f68e-407d-b977-3a7d04d74ed6 status=200 response_ms=127 request_id=1b29d6c7-043a-4e59-8f24-fb8e39e27b51 ip=10.24.4.117
+2026-08-31 10:08:20 DEBUG database Health check passed status=200 response_ms=128 request_id=6d492e8e-058f-4668-a15e-5a35cb3dfecc ip=10.24.8.243
+2026-08-31 09:51:18 INFO api Database query completed rows=5227 status=200 response_ms=101 request_id=de25b5dc-f4b7-4a0a-abe1-64838791b014 ip=10.24.13.47
+2026-08-31 10:08:28 INFO payments Login successful user_id=8987 status=200 response_ms=15 request_id=3338794e-c76c-49a9-872c-a3aac41df3fa ip=10.24.3.122
+2026-08-31 09:34:16 INFO payments Login successful user_id=8556 status=200 response_ms=51 request_id=053b45da-ae89-4fd2-a7d3-0279d317d6e7 ip=10.24.10.197
+2026-08-31 10:08:36 INFO inventory Database query completed rows=3087 status=200 response_ms=138 request_id=b16a2a56-28bb-4211-972c-0863f5e924bd ip=10.24.4.104
+2026-08-31 09:34:20 INFO payments Database query completed rows=2162 status=200 response_ms=85 request_id=db0cea5f-a463-4da1-ac14-3964bf81de0f ip=10.24.18.119
+2026-08-31 10:25:55 INFO inventory Login successful user_id=4908 status=200 response_ms=166 request_id=f06e7563-0bc0-4df3-b3ce-cbbbdb201a7f ip=10.24.8.141
+2026-08-31 09:51:36 INFO orders Login successful user_id=2082 status=200 response_ms=95 request_id=57988f8f-bef5-4526-92cc-3a844598377b ip=10.24.7.209
+2026-08-31 10:26:05 INFO orders Database query completed rows=6606 status=200 response_ms=147 request_id=515ebfaf-6ee5-4239-a11f-e604ca955793 ip=10.24.23.61
+2026-08-31 09:51:42 WARN database Unexpected request path=/internal/debug status=404 response_ms=950 request_id=5aa4eab4-0f22-4a39-a164-afb6c0b4bf49 ip=10.24.24.239
+2026-08-31 10:26:15 INFO auth Database query completed rows=8584 status=200 response_ms=91 request_id=edf9a4fd-4b06-4ab6-acba-da7d6166c8ca ip=10.24.18.25
+2026-08-31 10:26:20 INFO api Cache hit key=product:7648 status=200 response_ms=25 request_id=dbebe0f1-3320-446c-b824-4645002eb7d9 ip=10.24.20.28
+2026-08-31 10:26:25 INFO payments Login successful user_id=2007 status=200 response_ms=31 request_id=0af8f489-c095-40e7-b095-5a6398a284bb ip=10.24.7.210
+2026-08-31 09:51:54 DEBUG inventory Health check passed status=200 response_ms=45 request_id=3339975b-023d-44dc-a7fb-4a279ae3df18 ip=10.24.22.39
+2026-08-31 10:26:35 INFO inventory Cache hit key=product:7389 status=200 response_ms=165 request_id=0977eaad-e255-4e1b-ae10-c6998821fe5f ip=10.24.19.115
+2026-08-31 09:52:00 DEBUG api Health check passed status=200 response_ms=84 request_id=ba0a6820-7096-426e-92c9-985e8c0499c1 ip=10.24.19.204
+2026-08-31 10:09:24 DEBUG orders Health check passed status=200 response_ms=30 request_id=266d5c9c-76b5-4e2e-82f6-4bf6bf48cee3 ip=10.24.19.3
+2026-08-31 10:26:50 INFO api Cache hit key=product:2022 status=200 response_ms=102 request_id=ecf012fe-5eb1-4b12-ad7e-0aeaeca7e097 ip=10.24.29.141
+2026-08-31 09:34:46 DEBUG auth Health check passed status=200 response_ms=36 request_id=d29a7f84-e8f7-4d38-a999-02c235760388 ip=10.24.28.73
+2026-08-31 09:34:48 INFO api Login successful user_id=7459 status=200 response_ms=168 request_id=cb3d37a5-8b34-41df-89c8-55fecb1ef86c ip=10.24.11.183
+2026-08-31 10:27:05 INFO orders Login successful user_id=8130 status=200 response_ms=147 request_id=7b248715-f326-4339-afd3-595fed3e9df7 ip=10.24.7.170
+2026-08-31 09:52:18 INFO orders Fetched order order_id=86384180-055f-4464-ae76-e8f4a583f1d5 status=200 response_ms=150 request_id=aff9fe8a-c2a6-4b27-9df1-8ed88f8bb60f ip=10.24.13.216
+2026-08-31 10:09:48 INFO orders Fetched order order_id=858f4810-9a08-4ad2-9858-e5927f45eb7b status=200 response_ms=179 request_id=c47555e3-105f-4e29-bc19-206fe7be932f ip=10.24.5.35
+2026-08-31 09:34:56 DEBUG auth Health check passed status=200 response_ms=44 request_id=9e4b070b-5d5f-47f4-a7d4-ffc3a07bdada ip=10.24.24.227
+2026-08-31 10:27:25 INFO database Login successful user_id=3224 status=200 response_ms=29 request_id=fd67b058-0991-4ed0-a1ea-c0a27846406e ip=10.24.5.165
+2026-08-31 10:27:30 DEBUG orders Health check passed status=200 response_ms=167 request_id=b0ff4366-f371-4a21-9f61-1758ce0094af ip=10.24.6.117
+2026-08-31 10:27:35 INFO inventory Login successful user_id=7303 status=200 response_ms=98 request_id=4b75d6ac-fe80-47ab-85c0-df625673f430 ip=10.24.8.48
+2026-08-31 10:27:40 INFO inventory Request completed user_id=9161 status=200 response_ms=68 request_id=c8d84e7b-527a-4e22-afbf-ba41ee8f9c84 ip=10.24.23.129
+2026-08-31 10:10:12 INFO orders Database query completed rows=7012 status=200 response_ms=16 request_id=ca2ca1ac-017b-409b-b8e2-82f92574fc11 ip=10.24.2.146
+2026-08-31 10:27:50 INFO database Cache hit key=product:2854 status=200 response_ms=156 request_id=3e5e7085-77d1-479c-a6a2-2d2e6c85cd64 ip=10.24.16.247
+2026-08-31 09:35:10 DEBUG api Health check passed status=200 response_ms=79 request_id=de2f3468-0528-4447-a694-4b3867a7c511 ip=10.24.15.133
+2026-08-31 09:35:12 INFO inventory Database query completed rows=2449 status=200 response_ms=70 request_id=8b8cc5a4-3cbe-46d3-8a5c-a4be99b8fe4c ip=10.24.16.162
+2026-08-31 09:35:14 DEBUG database Health check passed status=200 response_ms=156 request_id=ea61a705-dd30-4a41-aa18-ec9b38edecae ip=10.24.10.157
+2026-08-31 09:35:16 INFO payments Database query completed rows=1176 status=200 response_ms=128 request_id=7227b603-3c44-4f57-a428-1c6319701227 ip=10.24.15.132
+2026-08-31 10:28:15 DEBUG inventory Health check passed status=200 response_ms=115 request_id=2420c32c-6687-42ca-af2d-9dfacbf41d45 ip=10.24.12.246
+2026-08-31 10:10:40 INFO payments Fetched order order_id=fe939722-1d45-439e-9873-e422d6267df7 status=200 response_ms=160 request_id=082c2acc-609b-4364-bf1a-b60beb72c784 ip=10.24.24.78
+2026-08-31 10:10:44 DEBUG auth Health check passed status=200 response_ms=156 request_id=3e40b1a1-9ea7-4751-b641-7999837d3d92 ip=10.24.6.147
+2026-08-31 09:35:24 INFO database Cache hit key=product:1447 status=200 response_ms=81 request_id=2cbaf3db-50b1-4025-a5cc-7ba0a4f619c4 ip=10.24.16.22
+2026-08-31 09:53:09 INFO inventory Request completed user_id=5552 status=200 response_ms=72 request_id=38fe134a-2926-4107-9efa-c64136ecf1c3 ip=10.24.5.158
+2026-08-31 10:10:56 INFO payments Cache hit key=product:1232 status=200 response_ms=36 request_id=8303dfc7-a715-4853-888a-14a261175489 ip=10.24.20.45
+2026-08-31 09:53:15 INFO database Login successful user_id=7058 status=200 response_ms=52 request_id=8afc21db-f2a2-4744-88a8-9d97cf6307fb ip=10.24.9.201
+2026-08-31 09:53:18 INFO orders Fetched order order_id=e3a7b264-ecd9-4b21-98f3-af8e35c5b315 status=200 response_ms=16 request_id=48401538-2623-44a1-b956-e6dc627f2522 ip=10.24.11.252
+2026-08-31 09:35:34 INFO api Database query completed rows=3525 status=200 response_ms=134 request_id=d35304a5-6db4-4760-a255-ddcbfc754612 ip=10.24.25.106
+2026-08-31 10:29:00 DEBUG api Health check passed status=200 response_ms=171 request_id=4d785852-3c1d-40ea-b022-48c7ab484e68 ip=10.24.6.54
+2026-08-31 10:11:16 DEBUG auth Health check passed status=200 response_ms=37 request_id=75743a35-b96d-4fad-a2a2-6aa64d40bd87 ip=10.24.2.43
+2026-08-31 10:29:10 INFO orders Login successful user_id=5937 status=200 response_ms=129 request_id=7f943fb6-bbf9-4cf8-b3b9-5b76b27d9ba0 ip=10.24.24.243
+2026-08-31 09:53:33 DEBUG orders Health check passed status=200 response_ms=129 request_id=94fa0354-72c4-4ce7-8f2a-050324805713 ip=10.24.9.38
+2026-08-31 10:29:20 INFO auth Cache hit key=product:8353 status=200 response_ms=105 request_id=690106cd-7a62-4de7-bb64-2b0fad7beccb ip=10.24.22.81
+2026-08-31 09:35:46 INFO auth Database query completed rows=6797 status=200 response_ms=118 request_id=87b25dbd-d8a0-49c4-9e07-dea348f46fa5 ip=10.24.20.236
+2026-08-31 10:11:36 INFO payments Cache hit key=product:5375 status=200 response_ms=33 request_id=f93daa5e-2605-46ca-9222-db3ede84957b ip=10.24.9.168
+2026-08-31 10:29:35 DEBUG orders Health check passed status=200 response_ms=180 request_id=e32113f6-2991-4b20-aa3b-d0977ceffff2 ip=10.24.19.198
+2026-08-31 09:53:48 INFO inventory Cache hit key=product:3947 status=200 response_ms=88 request_id=ccaa129f-5fde-4b4b-8f10-af45a8ea403c ip=10.24.18.3
+2026-08-31 09:35:54 INFO auth Request completed user_id=7737 status=200 response_ms=33 request_id=9810b9c4-d488-4696-a8a5-7d7e92086ad4 ip=10.24.17.27
+2026-08-31 10:29:50 INFO payments Fetched order order_id=a5230fa5-a716-45dd-922d-37965a165629 status=200 response_ms=72 request_id=affac19f-c0f0-4127-ab8f-1629c4261d93 ip=10.24.7.9
+2026-08-31 09:35:58 INFO inventory Request completed user_id=1931 status=200 response_ms=160 request_id=ea2aabc7-d058-47f0-927b-d76f49bd3c49 ip=10.24.22.229
+2026-08-31 09:54:00 DEBUG inventory Health check passed status=200 response_ms=38 request_id=10c358db-b00d-4228-b189-9c60c02de508 ip=10.24.3.220
+2026-08-31 09:54:03 DEBUG orders Health check passed status=200 response_ms=36 request_id=77aec782-abb7-49e6-a812-80a79e733625 ip=10.24.23.48
+2026-08-31 10:12:08 INFO payments Login successful user_id=2240 status=200 response_ms=171 request_id=f93b2d19-f642-4ebb-9fb4-d44feb855683 ip=10.24.15.237
+2026-08-31 10:12:12 DEBUG orders Health check passed status=200 response_ms=73 request_id=241eea47-ca64-40b3-9e32-7e81a82b6a51 ip=10.24.6.200
+2026-08-31 09:36:08 INFO payments Request completed user_id=7271 status=200 response_ms=107 request_id=8fb1e1e9-1ef9-49ae-9461-1c485033392a ip=10.24.11.16
+2026-08-31 10:12:20 INFO payments Fetched order order_id=906c12ab-5e8f-413e-8cf1-3ed36c6b6337 status=200 response_ms=25 request_id=8b722854-d7c7-4679-a00e-5c092016148f ip=10.24.16.251
+2026-08-31 09:54:18 INFO inventory Login successful user_id=3923 status=200 response_ms=173 request_id=1a452d4c-c7cb-47d8-8979-0d7ecc23476a ip=10.24.16.28
+2026-08-31 09:54:21 INFO inventory Login successful user_id=4578 status=200 response_ms=165 request_id=26d947e2-e44b-4f11-b84d-2dbed8b210d9 ip=10.24.21.28
+2026-08-31 10:30:40 INFO database Cache hit key=product:2692 status=200 response_ms=16 request_id=c4d5e18c-351b-4a7f-8499-62b21f38826f ip=10.24.3.19
+2026-08-31 10:12:36 INFO orders Request completed user_id=9154 status=200 response_ms=46 request_id=3073f6f0-9633-4e23-8f45-1e6325f89f78 ip=10.24.21.164
+2026-08-31 09:36:20 DEBUG auth Health check passed status=200 response_ms=76 request_id=4d1b3391-da99-4564-9f5a-876ea9228179 ip=10.24.5.180
+2026-08-31 10:12:44 INFO orders Database query completed rows=1060 status=200 response_ms=139 request_id=fafae7f3-a4a6-4648-a221-cf56e5ee1787 ip=10.24.23.241
+2026-08-31 10:31:00 INFO orders Login successful user_id=7617 status=200 response_ms=25 request_id=114f0dc3-1b20-4e20-baa0-69adea6e6a12 ip=10.24.18.58
+2026-08-31 09:36:26 DEBUG orders Health check passed status=200 response_ms=39 request_id=e89bb89f-00fb-48d8-80ba-fb49150affd5 ip=10.24.19.138
+2026-08-31 10:12:56 DEBUG payments Health check passed status=200 response_ms=110 request_id=bc5f7c1f-0549-4802-b6ff-01d84e59a3b5 ip=10.24.2.162
+2026-08-31 09:36:30 INFO payments Database query completed rows=6571 status=200 response_ms=28 request_id=b736208d-2bfc-4083-bec2-2f78f40f04ee ip=10.24.27.118
+2026-08-31 10:13:04 INFO database Fetched order order_id=d4ef08e4-603a-444f-9d33-3f39b926699b status=200 response_ms=149 request_id=616d7e11-857e-439d-ad29-bd8a575aa778 ip=10.24.2.248
+2026-08-31 10:31:25 INFO database Fetched order order_id=0fd397e6-6fcd-406f-99f6-c041202b3aeb status=200 response_ms=107 request_id=e2b1e9c1-5744-45f5-b295-fb12348b02a9 ip=10.24.29.28
+2026-08-31 10:13:12 ERROR orders Database timeout host=db-primary status=504 response_ms=4900 request_id=3aeb0fba-e048-43d5-96b2-1446a5f62f0c ip=10.24.24.49
+2026-08-31 09:54:57 INFO auth Fetched order order_id=3d88a0b3-f758-47ad-9330-0d40a336ba9a status=200 response_ms=159 request_id=45e97ea7-4c66-4467-8562-bfcd25e71df2 ip=10.24.8.126
+2026-08-31 10:31:40 INFO auth Database query completed rows=6041 status=200 response_ms=135 request_id=0574cd9e-b121-4627-9a0a-22529de2b36b ip=10.24.18.248
+2026-08-31 10:31:45 INFO auth Request completed user_id=6558 status=200 response_ms=22 request_id=fb198ab0-4bb4-4545-8a39-afb966b2d058 ip=10.24.11.202
+2026-08-31 09:36:44 INFO orders Request completed user_id=4468 status=200 response_ms=175 request_id=1ea43fcb-b7fd-495d-8f61-db947a709f5e ip=10.24.22.134
+2026-08-31 10:31:55 INFO database Database query completed rows=3440 status=200 response_ms=156 request_id=9e0ffb00-271f-4ce3-a11e-84083dbf6c66 ip=10.24.8.237
+2026-08-31 09:36:48 DEBUG auth Health check passed status=200 response_ms=133 request_id=a4608846-c13c-4ca4-aef1-0f68f5a8182b ip=10.24.21.5
+2026-08-31 10:32:05 INFO inventory Request completed user_id=4976 status=200 response_ms=174 request_id=9cf948fb-375f-49e7-85b1-041e5fc54c7d ip=10.24.5.4
+2026-08-31 09:55:18 INFO database Request completed user_id=6035 status=200 response_ms=32 request_id=cb499705-3012-430d-af3f-b4d74efc1b34 ip=10.24.15.157
+2026-08-31 09:55:21 INFO inventory Request completed user_id=2742 status=200 response_ms=37 request_id=f68689f4-366c-4469-adcf-749a88b25a63 ip=10.24.16.153
+2026-08-31 09:55:24 INFO auth Fetched order order_id=ac73517b-69ec-4db0-b050-d966a990b497 status=200 response_ms=94 request_id=9a019336-1914-4984-b719-1686e119292c ip=10.24.26.214
+2026-08-31 10:32:25 INFO payments Request completed user_id=9943 status=200 response_ms=43 request_id=313a81d5-59dc-4157-a21a-2f58ae8c9cc0 ip=10.24.11.215
+2026-08-31 09:55:30 INFO auth Database query completed rows=3841 status=200 response_ms=93 request_id=0f4d3809-e266-4385-bb28-936ce253b189 ip=10.24.3.31
+2026-08-31 10:14:04 INFO api Login successful user_id=3753 status=200 response_ms=102 request_id=640c4616-ff02-45ee-8e5c-811af2f43d95 ip=10.24.18.43
+2026-08-31 10:32:40 INFO api Database query completed rows=1666 status=200 response_ms=42 request_id=e77a4f0d-aa6b-44e2-b33f-100a645c5305 ip=10.24.4.203
+2026-08-31 10:32:45 INFO api Request completed user_id=8978 status=200 response_ms=28 request_id=c7ad7804-fff3-49b9-900c-890265e34885 ip=10.24.1.2
+2026-08-31 09:55:42 DEBUG auth Health check passed status=200 response_ms=114 request_id=3d954717-2900-48c1-a8fe-3be998fdda5e ip=10.24.23.207
+2026-08-31 10:32:55 INFO database Fetched order order_id=8b4f1c62-21fe-4d50-92f3-b0bde51f85ea status=200 response_ms=44 request_id=ad7d6d96-b0d8-4fca-a7d6-de24957a4290 ip=10.24.21.70
+2026-08-31 10:33:00 ERROR orders Authentication failed user_id=3859 status=401 response_ms=1800 request_id=4c80899b-8298-43f7-8517-7fdab10ae1ba ip=10.24.20.178
+2026-08-31 09:37:14 INFO inventory Fetched order order_id=526ad670-62c7-4c6b-862e-e84837838c6d status=200 response_ms=164 request_id=4c1b6927-7875-4039-b67c-94add1800dfb ip=10.24.3.161
+2026-08-31 10:14:32 INFO payments Login successful user_id=1074 status=200 response_ms=150 request_id=da1d5f11-20fc-4d4e-93df-a8e40bb44803 ip=10.24.8.50
+2026-08-31 09:37:18 INFO inventory Request completed user_id=6929 status=200 response_ms=146 request_id=205f1616-ca2e-47d4-978d-1a9ae4b1bd55 ip=10.24.17.57
+2026-08-31 10:33:20 DEBUG database Health check passed status=200 response_ms=78 request_id=f8002551-b192-4ef5-990e-84bc5e537977 ip=10.24.2.50
+2026-08-31 09:37:22 DEBUG api Health check passed status=200 response_ms=135 request_id=9cd6d17f-d614-434d-8682-c782f139a893 ip=10.24.6.41
+2026-08-31 09:37:24 DEBUG auth Health check passed status=200 response_ms=80 request_id=02cc4c09-eab8-40b8-b871-e165350dce0a ip=10.24.7.112
+2026-08-31 10:14:52 INFO payments Database query completed rows=8424 status=200 response_ms=19 request_id=507f6db8-af31-4e99-981b-b4142279a07b ip=10.24.4.190
+2026-08-31 09:37:28 INFO inventory Fetched order order_id=fe38074a-9e97-45d8-8b5a-a4f72d716528 status=200 response_ms=15 request_id=5092e511-790a-42db-a22f-3ac97f7ae072 ip=10.24.16.132
+2026-08-31 09:37:30 INFO auth Fetched order order_id=050af40f-2199-4c8f-a989-8e31a32d315e status=200 response_ms=159 request_id=135c91e8-df52-4691-9a41-1dc00fdc523f ip=10.24.19.84
+2026-08-31 10:33:50 DEBUG api Health check passed status=200 response_ms=66 request_id=5d58a935-cc7e-444d-8660-cd976843d2f0 ip=10.24.25.29
+2026-08-31 10:15:08 INFO api Request completed user_id=4884 status=200 response_ms=113 request_id=fb152417-191f-4085-9c0d-1c23e376668e ip=10.24.28.52
+2026-08-31 10:34:00 INFO api Request completed user_id=8716 status=200 response_ms=157 request_id=998cc5d0-32c8-41e9-a8d4-465ed6778ffa ip=10.24.16.14
+2026-08-31 10:34:05 INFO api Fetched order order_id=92557cb8-db59-4cc5-b971-025a4b8f1156 status=200 response_ms=53 request_id=c0897c52-ed49-4d9a-9cb1-2c52e91aee58 ip=10.24.13.96
+2026-08-31 09:56:30 WARN orders Unexpected request path=/internal/debug status=404 response_ms=950 request_id=bd97b40a-72ba-4509-99b0-60a7eb251319 ip=10.24.21.92
+2026-08-31 10:15:24 INFO api Cache hit key=product:3084 status=200 response_ms=16 request_id=bce6f3f8-4813-4e69-902f-bb13c6da16c2 ip=10.24.23.146
+2026-08-31 09:37:44 INFO payments Fetched order order_id=34c3ddea-7880-420a-ba62-ab539b87d6ec status=200 response_ms=127 request_id=e93c1809-adc4-48df-a2b1-ea50496b9806 ip=10.24.15.108
+2026-08-31 09:56:39 INFO payments Fetched order order_id=417dd1fd-f753-4a11-bc6c-d688adc06315 status=200 response_ms=162 request_id=76b622fa-0547-458a-a9f2-0b09e0cea788 ip=10.24.6.203
+2026-08-31 09:56:42 INFO inventory Database query completed rows=4763 status=200 response_ms=30 request_id=ead6096e-32b4-4515-b53d-26adafd05ed3 ip=10.24.14.220
+2026-08-31 10:34:35 INFO api Database query completed rows=8757 status=200 response_ms=126 request_id=a694913f-aa72-4933-8776-1f4c8fdeba9f ip=10.24.9.4
+2026-08-31 10:34:40 INFO database Fetched order order_id=7370ba53-ed5d-4047-aa1d-5e4a44d3f7fd status=200 response_ms=91 request_id=4954b54e-6c72-434c-aa2f-b3ba6d0b924c ip=10.24.14.149
+2026-08-31 09:56:51 INFO inventory Fetched order order_id=cc7ad329-399d-40e0-a90e-a5b9e60a0e26 status=200 response_ms=114 request_id=1d8f5aee-8988-454c-8b4c-2cc8a1942f12 ip=10.24.2.11
+2026-08-31 10:34:50 INFO database Database query completed rows=1550 status=200 response_ms=116 request_id=5b20f9bc-8795-4055-9d64-3e1456d1fada ip=10.24.17.101
+2026-08-31 10:34:55 INFO database Request completed user_id=8412 status=200 response_ms=134 request_id=1edfca5b-a2c0-4f31-9bda-917cefc9ef08 ip=10.24.8.22
+2026-08-31 09:38:00 DEBUG database Health check passed status=200 response_ms=63 request_id=6ad0a9ab-9e16-4c5e-891f-846e104333e5 ip=10.24.5.92
+2026-08-31 10:16:04 DEBUG api Health check passed status=200 response_ms=12 request_id=2719f176-a2ce-44ba-bf69-8bbe3af80b0b ip=10.24.16.172
+2026-08-31 10:16:08 DEBUG api Health check passed status=200 response_ms=154 request_id=ad70c76c-b07d-4770-91a6-4bb1090ea960 ip=10.24.24.150
+2026-08-31 09:38:06 INFO orders Login successful user_id=3271 status=200 response_ms=111 request_id=42c42077-0e85-4d7e-a8fc-4634c3cfa075 ip=10.24.6.203
+2026-08-31 10:16:16 INFO database Login successful user_id=1022 status=200 response_ms=168 request_id=c8f9d2b6-fbe5-412e-bfdc-bce3831e70cc ip=10.24.3.99
+2026-08-31 10:16:20 INFO inventory Request completed user_id=5859 status=200 response_ms=117 request_id=9fa1a206-3c93-4c87-bf0a-d7033333963f ip=10.24.25.70
+2026-08-31 09:57:18 INFO database Request completed user_id=6500 status=200 response_ms=22 request_id=bab05609-3edb-4b10-8800-0a55462a154d ip=10.24.17.243
+2026-08-31 10:16:28 INFO auth Request completed user_id=7274 status=200 response_ms=101 request_id=37efb0db-e5bb-423a-9148-e759d70b2e7e ip=10.24.15.159
+2026-08-31 09:38:16 INFO payments Cache hit key=product:3871 status=200 response_ms=173 request_id=2a435c61-0055-4c14-aac3-7da0e095050a ip=10.24.18.181
+2026-08-31 09:38:18 WARN inventory Unexpected request path=/internal/debug status=404 response_ms=950 request_id=18fc5898-bd4f-43b2-bf40-7a62c0ede194 ip=10.24.5.252
+2026-08-31 10:16:40 INFO api Database query completed rows=2860 status=200 response_ms=174 request_id=bc345e3f-59e3-4a40-9d8e-8bac02a5f9d0 ip=10.24.16.189
+2026-08-31 09:57:33 INFO database Fetched order order_id=3e3eb3a1-62d8-4a7d-b953-cc007006dd11 status=200 response_ms=98 request_id=1c31c65e-bd5a-40c4-a0a5-5e741285eddf ip=10.24.29.69
+2026-08-31 10:36:00 INFO payments Request completed user_id=2038 status=200 response_ms=103 request_id=baadd538-db95-413f-b631-114715a9333b ip=10.24.12.116
+2026-08-31 10:36:05 INFO inventory Database query completed rows=3010 status=200 response_ms=128 request_id=1a89b6fc-e94b-4e44-b3f9-f456fb0accf8 ip=10.24.23.137
+2026-08-31 10:16:56 INFO orders Database query completed rows=7031 status=200 response_ms=180 request_id=8b2ababe-9087-458d-8f63-df7b83541cbc ip=10.24.23.208
+2026-08-31 09:38:30 INFO api Login successful user_id=2430 status=200 response_ms=28 request_id=fe6ff6a9-1458-4041-8c3c-245dd0443903 ip=10.24.13.230
+2026-08-31 09:57:48 INFO payments Request completed user_id=2791 status=200 response_ms=50 request_id=29451a31-828e-4b9d-90eb-46b131269083 ip=10.24.9.29
+2026-08-31 09:57:51 INFO orders Fetched order order_id=8b2ab045-4042-4341-b731-97798c7794b4 status=200 response_ms=141 request_id=f689afeb-bff9-4d67-a43f-41eaa9b3e46d ip=10.24.21.6
+2026-08-31 10:17:12 DEBUG orders Health check passed status=200 response_ms=41 request_id=d54dc6c4-0e95-4784-81cd-5c0621363af4 ip=10.24.16.89
+2026-08-31 10:36:35 DEBUG orders Health check passed status=200 response_ms=82 request_id=9817677a-3473-43ac-9345-2a67acd146b8 ip=10.24.7.17
+2026-08-31 09:38:40 INFO api Database query completed rows=6503 status=200 response_ms=113 request_id=34c04d6d-55b3-4fad-b824-393a107cee8c ip=10.24.19.88
+2026-08-31 10:17:24 INFO orders Database query completed rows=9686 status=200 response_ms=148 request_id=6a4e3135-52e6-4538-bd87-b2826c7d0e5f ip=10.24.15.118
+2026-08-31 10:17:28 INFO inventory Fetched order order_id=e23d67b4-4107-4cfe-a7fd-b2dcec55f647 status=200 response_ms=51 request_id=98bc22e5-a2c2-4850-82d8-cf3398a95a86 ip=10.24.26.67
+2026-08-31 09:58:09 INFO orders Cache hit key=product:5720 status=200 response_ms=20 request_id=97b77eb4-51ce-4e5b-9d37-9bbcb61ec6ed ip=10.24.5.91
+2026-08-31 10:17:36 INFO orders Fetched order order_id=d1f23e93-7524-4d9e-8ef0-e81023a7369a status=200 response_ms=145 request_id=ed48e1db-1832-4df0-8cdf-849358d61a0c ip=10.24.10.47
+2026-08-31 09:58:15 DEBUG database Health check passed status=200 response_ms=49 request_id=c3eccd6a-f221-4fb1-a5da-7485ed9934e4 ip=10.24.8.30
+2026-08-31 09:38:52 INFO payments Database query completed rows=3072 status=200 response_ms=120 request_id=d7e872f7-298a-47af-a93e-46f61b994c28 ip=10.24.9.95
+2026-08-31 09:58:21 INFO api Database query completed rows=1568 status=200 response_ms=178 request_id=582feed3-f891-468f-93d1-0e1a39175154 ip=10.24.11.251
+2026-08-31 10:17:52 INFO api Cache hit key=product:8347 status=200 response_ms=146 request_id=ff5715b9-ca06-4f78-a59c-c1ff6cfc215e ip=10.24.6.137
+2026-08-31 10:17:56 INFO auth Request completed user_id=7628 status=200 response_ms=135 request_id=fce06ded-938b-4632-9b40-a4a8058c4ab2 ip=10.24.25.38
+2026-08-31 10:37:30 INFO payments Fetched order order_id=62e4a77e-d44d-4c92-85aa-2684422b4414 status=200 response_ms=147 request_id=67225400-13c6-43ba-b67a-b9f5348b4181 ip=10.24.17.85
+2026-08-31 10:18:04 INFO orders Cache hit key=product:3409 status=200 response_ms=152 request_id=6903b611-13e5-4d1a-b668-0996f5df526d ip=10.24.24.233
+2026-08-31 10:37:40 DEBUG payments Health check passed status=200 response_ms=130 request_id=01c3540b-c1dd-4650-864a-928d5a82315f ip=10.24.29.11
+2026-08-31 09:58:39 INFO database Database query completed rows=2914 status=200 response_ms=86 request_id=40881c22-589d-441e-9c9b-f2e073487b00 ip=10.24.1.103
+2026-08-31 09:58:42 INFO orders Cache hit key=product:2515 status=200 response_ms=91 request_id=1f75a11b-b10c-43cd-9e26-19e13906f03a ip=10.24.2.156
+2026-08-31 09:58:45 INFO inventory Database query completed rows=4639 status=200 response_ms=79 request_id=f94f2088-1eb5-42cf-8909-b2fe66ed2c3a ip=10.24.7.6
+2026-08-31 09:39:12 INFO inventory Login successful user_id=2431 status=200 response_ms=139 request_id=3b84c86a-8a2f-48cd-a0fc-6052fdff1610 ip=10.24.13.50
+2026-08-31 10:38:05 INFO payments Database query completed rows=9381 status=200 response_ms=22 request_id=339c7e1f-a6ba-426c-a2d2-f8e0fecafac8 ip=10.24.30.171
+2026-08-31 10:18:32 INFO orders Fetched order order_id=a529bc01-8531-4d2c-bff6-48af562d4380 status=200 response_ms=102 request_id=7e40bd8e-f19b-4945-87f0-e5982f213b22 ip=10.24.13.96
+2026-08-31 09:39:18 INFO payments Cache hit key=product:6756 status=200 response_ms=86 request_id=ca6c6e2c-3487-478f-8823-bf7ab5364045 ip=10.24.15.224
+2026-08-31 09:39:20 DEBUG api Health check passed status=200 response_ms=114 request_id=7a3362d5-7e41-4dc6-b28f-174b197ec76b ip=10.24.26.114
+2026-08-31 10:18:44 DEBUG api Health check passed status=200 response_ms=114 request_id=4452d7d8-6a56-451e-a0b2-16ff3fcd2125 ip=10.24.5.214
+2026-08-31 09:39:24 ERROR api Authentication failed user_id=5968 status=401 response_ms=1800 request_id=f599010b-f218-4367-a134-0262e9a80aea ip=10.24.16.254
+2026-08-31 10:18:52 INFO auth Database query completed rows=7156 status=200 response_ms=30 request_id=94993461-4a97-46a3-99ca-915669ba698d ip=10.24.1.105
+2026-08-31 10:18:56 INFO orders Fetched order order_id=cdaf402d-2d91-4205-81e0-ceb5e019e54b status=200 response_ms=153 request_id=b988ce46-2e72-4eae-8f07-6d143f59c4de ip=10.24.25.235
+2026-08-31 09:59:15 INFO api Fetched order order_id=d9c0f7ac-fca4-456f-8557-14d8ab14a566 status=200 response_ms=82 request_id=6c4f9f9d-7666-4194-ab5a-bb2d85f70663 ip=10.24.18.126
+2026-08-31 09:39:32 INFO payments Database query completed rows=5979 status=200 response_ms=134 request_id=8c6cc463-c5f4-49a7-a7c3-77edfad5a74b ip=10.24.18.190
+2026-08-31 10:38:55 INFO api Request completed user_id=1040 status=200 response_ms=47 request_id=af9433b7-1d24-4f42-a641-d6ce64df9d00 ip=10.24.9.77
+2026-08-31 10:39:00 DEBUG auth Health check passed status=200 response_ms=114 request_id=1e655a4c-45b4-44e6-b58b-c15127811f7e ip=10.24.6.126
+2026-08-31 09:59:27 INFO auth Request completed user_id=5541 status=200 response_ms=134 request_id=b14fe9a7-d526-45a9-86b7-5e373ac7714d ip=10.24.3.154
+2026-08-31 10:19:20 INFO inventory Login successful user_id=8144 status=200 response_ms=74 request_id=bd2dd979-5115-4c0f-9af2-b98e6b883da2 ip=10.24.21.176
+2026-08-31 10:39:15 INFO database Request completed user_id=7114 status=200 response_ms=139 request_id=64ca6f05-82bb-4203-99c5-32bf1b3d21fd ip=10.24.24.148
+2026-08-31 09:39:44 INFO payments Fetched order order_id=cd5d9cb6-8a29-4e12-96fc-2a53f3de6571 status=200 response_ms=45 request_id=96ec13db-a70e-4de1-8c82-bfc947d6540d ip=10.24.11.119
+2026-08-31 09:59:39 INFO payments Fetched order order_id=8e57349a-4851-423e-b211-375740c72a07 status=200 response_ms=77 request_id=373b69f8-d574-4b78-8f8b-09d853bcd649 ip=10.24.12.108
+2026-08-31 10:19:36 INFO auth Cache hit key=product:5778 status=200 response_ms=143 request_id=003787ee-7232-44aa-8274-94109af0e9af ip=10.24.21.240
+2026-08-31 09:39:50 INFO inventory Fetched order order_id=faa3fb15-cc5e-41ca-9c95-b8548107ed53 status=200 response_ms=32 request_id=d8b657c0-d769-49e7-a9fe-f68cae822dd7 ip=10.24.20.193
+2026-08-31 09:59:48 INFO inventory Cache hit key=product:6180 status=200 response_ms=85 request_id=17281556-af90-4367-9506-51e9190041f8 ip=10.24.9.176
+2026-08-31 10:19:48 INFO auth Database query completed rows=6761 status=200 response_ms=44 request_id=a7c5d3e2-5b4d-4c39-8481-7c46e7521569 ip=10.24.1.36
+2026-08-31 10:19:52 INFO payments Login successful user_id=7750 status=200 response_ms=95 request_id=0b44e2dd-ba3f-4a7f-93b2-c87affcb496a ip=10.24.30.234
+2026-08-31 09:59:57 INFO auth Fetched order order_id=436bc2b7-abd0-47e7-9946-5c6fa1cd4c71 status=200 response_ms=136 request_id=de203607-e032-418e-8f1c-550d4ae0ab7e ip=10.24.8.213
